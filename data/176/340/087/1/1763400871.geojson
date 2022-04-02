@@ -2,10 +2,12 @@
   "id": 1763400871,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-02",
+    "date:cessation_upper": "2022-04-02",
     "date:inception_lower": "2022-04-01",
     "date:inception_upper": "2022-04-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-01",
+    "edtf:cessation": "2022-04-02T00:39:43Z",
+    "edtf:inception": "2022-04-01T23:22:00Z",
     "flysfo:actual_timestamp": 1648854420,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-04-01",
@@ -21,9 +23,11 @@
     "geom:latitude": 41.602067,
     "geom:longitude": -122.484166,
     "iata:airline": "AS",
+    "icao:aircraft": "A320",
     "icao:airline": "ASA",
     "lbl:latitude": 37.616969,
     "lbl:longitude": -122.381363,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102532251,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N846VA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +56,9 @@
       1745882085,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "19288484"
+    },
     "wof:country": "US",
     "wof:created": 1648916208,
     "wof:geomhash": "a0e250e9237d15725a2a6f51d6b7a6b6",
@@ -81,12 +92,13 @@
     ],
     "wof:id": 1763400871,
     "wof:involves": [
+      1159292085,
       102532251,
       102527513,
       1159283813,
       1745882097
     ],
-    "wof:lastmodified": 1648916208,
+    "wof:lastmodified": 1648916688,
     "wof:name": "AS268 (SFO-PDX)",
     "wof:parent_id": 1745882097,
     "wof:placetype": "custom",

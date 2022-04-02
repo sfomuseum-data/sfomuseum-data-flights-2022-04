@@ -2,10 +2,12 @@
   "id": 1763399791,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-01",
+    "date:cessation_upper": "2022-04-01",
     "date:inception_lower": "2022-04-01",
     "date:inception_upper": "2022-04-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-01",
+    "edtf:cessation": "2022-04-01T02:29:25-07:00",
+    "edtf:inception": "2022-04-01T11:38:00Z",
     "flysfo:actual_timestamp": 1648830840,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-01",
@@ -21,9 +23,11 @@
     "geom:latitude": 40.647171,
     "geom:longitude": -100.9996425,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617477,
     "lbl:longitude": -122.388302,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102555091,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N486UA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "19229023",
+      "swim:gufi": "KC37509600"
+    },
     "wof:country": "US",
     "wof:created": 1648915935,
     "wof:geomhash": "c362a07ec1dacdc6f288623946bd8d01",
@@ -81,12 +95,13 @@
     ],
     "wof:id": 1763399791,
     "wof:involves": [
-      102527513,
-      102555091,
       1159285413,
-      1745882247
+      1745882247,
+      1159292085,
+      102527513,
+      102555091
     ],
-    "wof:lastmodified": 1648915935,
+    "wof:lastmodified": 1648916687,
     "wof:name": "UA565 (YYZ-SFO)",
     "wof:parent_id": 1745882247,
     "wof:placetype": "custom",

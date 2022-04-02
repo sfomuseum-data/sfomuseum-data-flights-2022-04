@@ -2,10 +2,12 @@
   "id": 1763402323,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-01",
+    "date:cessation_upper": "2022-04-01",
     "date:inception_lower": "2022-04-01",
     "date:inception_upper": "2022-04-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-01",
+    "edtf:cessation": "2022-04-01T06:56:58Z",
+    "edtf:inception": "2022-04-01T05:52:00Z",
     "flysfo:actual_timestamp": 1648854000,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-01",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "19220105"
+    },
     "wof:country": "US",
     "wof:created": 1648916571,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -50,7 +55,7 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1648916571,
+    "wof:lastmodified": 1648916681,
     "wof:name": "UA2366 (SFO-LAS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

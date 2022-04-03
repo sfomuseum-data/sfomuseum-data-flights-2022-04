@@ -2,10 +2,12 @@
   "id": 1763406091,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-02",
+    "date:cessation_upper": "2022-04-02",
     "date:inception_lower": "2022-04-02",
     "date:inception_upper": "2022-04-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-02",
+    "edtf:cessation": "2022-04-02T01:44:18-07:00",
+    "edtf:inception": "2022-04-02T11:22:00Z",
     "flysfo:actual_timestamp": 1648914720,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-02",
@@ -21,9 +23,11 @@
     "geom:latitude": 33.8002995,
     "geom:longitude": -106.31638749999999,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618678,
     "lbl:longitude": -122.385955,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102530009,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N462UA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "19316072",
+      "swim:gufi": "KH26642700"
+    },
     "wof:country": "US",
     "wof:created": 1649002263,
     "wof:geomhash": "a7e835886f555fd347028edc152f9d8c",
@@ -84,9 +98,10 @@
       102527513,
       102530009,
       1159285413,
-      1745882243
+      1745882243,
+      1159292085
     ],
-    "wof:lastmodified": 1649002263,
+    "wof:lastmodified": 1649003022,
     "wof:name": "UA454 (MSY-SFO)",
     "wof:parent_id": 1745882243,
     "wof:placetype": "custom",

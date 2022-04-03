@@ -2,10 +2,12 @@
   "id": 1763407303,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-02",
+    "date:cessation_upper": "2022-04-02",
     "date:inception_lower": "2022-04-02",
     "date:inception_upper": "2022-04-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-02",
+    "edtf:cessation": "2022-04-02T19:02:38Z",
+    "edtf:inception": "2022-04-02T17:55:00Z",
     "flysfo:actual_timestamp": 1648921380,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-04-02",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.175762,
     "geom:longitude": -119.778435,
     "iata:airline": "AS",
+    "icao:aircraft": "A320",
     "icao:airline": "ASA",
     "lbl:latitude": 37.616969,
     "lbl:longitude": -122.381363,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102528997,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N840VA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,9 @@
       1745882085,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "19350170"
+    },
     "wof:country": "US",
     "wof:created": 1649002576,
     "wof:geomhash": "25f5345529d944df781e36098260a435",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1763407303,
     "wof:involves": [
+      1159292085,
       102528997,
       102527513,
       1159283813,
       1745882097
     ],
-    "wof:lastmodified": 1649002576,
+    "wof:lastmodified": 1649003017,
     "wof:name": "AS435 (SFO-SAN)",
     "wof:parent_id": 1745882097,
     "wof:placetype": "custom",

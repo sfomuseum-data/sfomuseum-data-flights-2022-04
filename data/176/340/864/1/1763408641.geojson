@@ -2,10 +2,12 @@
   "id": 1763408641,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-03",
+    "date:cessation_upper": "2022-04-03",
     "date:inception_lower": "2022-04-02",
     "date:inception_upper": "2022-04-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-02",
+    "edtf:cessation": "2022-04-03T11:10:00Z",
+    "edtf:inception": "2022-04-02T06:24:00Z",
     "flysfo:actual_timestamp": 1648967040,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-02",
@@ -21,9 +23,11 @@
     "geom:latitude": 32.795441,
     "geom:longitude": -102.4509355,
     "iata:airline": "UA",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617835,
     "lbl:longitude": -122.388019,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533243,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N37502",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "19307734",
+      "swim:gufi": "KO15840100"
+    },
     "wof:country": "US",
     "wof:created": 1649002916,
     "wof:geomhash": "eed3ad030b4c80153105b635669626b5",
@@ -81,12 +95,13 @@
     ],
     "wof:id": 1763408641,
     "wof:involves": [
+      1528104577,
       102533243,
       102527513,
       1159285413,
       1745882249
     ],
-    "wof:lastmodified": 1649002916,
+    "wof:lastmodified": 1649003007,
     "wof:name": "UA2615 (SFO-TPA)",
     "wof:parent_id": 1745882249,
     "wof:placetype": "custom",

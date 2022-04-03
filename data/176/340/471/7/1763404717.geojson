@@ -2,10 +2,12 @@
   "id": 1763404717,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-02",
+    "date:cessation_upper": "2022-04-02",
     "date:inception_lower": "2022-04-02",
     "date:inception_upper": "2022-04-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-02",
+    "edtf:cessation": "2022-04-02T22:43:00Z",
+    "edtf:inception": "2022-04-02T20:28:31Z",
     "flysfo:actual_timestamp": 1648939440,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-04-02",
@@ -21,9 +23,11 @@
     "geom:latitude": 18.808995,
     "geom:longitude": -61.1854715,
     "iata:airline": "AS",
+    "icao:aircraft": "A320",
     "icao:airline": "ASA",
     "lbl:latitude": 37.611664,
     "lbl:longitude": -122.390495,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": -1,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N846VA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,9 @@
       1745882335,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "19367102"
+    },
     "wof:country": "US",
     "wof:created": 1649001904,
     "wof:geomhash": "39d9eba3dc111bfc07b45f612540f4b0",
@@ -81,12 +94,12 @@
     ],
     "wof:id": 1763404717,
     "wof:involves": [
+      1159292085,
       102527513,
-      -1,
       1159283813,
       1745882399
     ],
-    "wof:lastmodified": 1649001904,
+    "wof:lastmodified": 1649003010,
     "wof:name": "AS385 (LTO-SFO)",
     "wof:parent_id": 1745882399,
     "wof:placetype": "custom",

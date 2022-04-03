@@ -2,10 +2,12 @@
   "id": 1763406455,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-02",
+    "date:cessation_upper": "2022-04-02",
     "date:inception_lower": "2022-04-02",
     "date:inception_upper": "2022-04-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-02",
+    "edtf:cessation": "2022-04-02T15:52:00Z",
+    "edtf:inception": "2022-04-02T12:26:00Z",
     "flysfo:actual_timestamp": 1648901520,
     "flysfo:airline": "AA",
     "flysfo:date": "2022-04-02",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.800514,
     "geom:longitude": -105.1326535,
     "iata:airline": "AA",
+    "icao:aircraft": "B38M",
     "icao:airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102533631,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N304RB",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,10 @@
       1745882137,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "19320008",
+      "swim:gufi": "KO39626700"
+    },
     "wof:country": "US",
     "wof:created": 1649002358,
     "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1763406455,
     "wof:involves": [
-      102533631,
-      102527513,
       1159283849,
-      1745882173
+      1745882173,
+      1528104575,
+      102533631,
+      102527513
     ],
-    "wof:lastmodified": 1649002358,
+    "wof:lastmodified": 1649003015,
     "wof:name": "AA2614 (SFO-ORD)",
     "wof:parent_id": 1745882173,
     "wof:placetype": "custom",

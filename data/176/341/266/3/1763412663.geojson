@@ -2,10 +2,12 @@
   "id": 1763412663,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-03",
+    "date:cessation_upper": "2022-04-03",
     "date:inception_lower": "2022-04-03",
     "date:inception_upper": "2022-04-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-03",
+    "edtf:cessation": "2022-04-03T04:34:45-07:00",
+    "edtf:inception": "2022-04-03T16:17:00Z",
     "flysfo:actual_timestamp": 1649011200,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-03",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.7414645,
     "geom:longitude": -113.521581,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.619124,
     "lbl:longitude": -122.383949,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102531189,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N481UA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "19426325",
+      "swim:gufi": "KD47879100"
+    },
     "wof:country": "US",
     "wof:created": 1649088680,
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
@@ -84,9 +98,10 @@
       102527513,
       102531189,
       1159285413,
-      1745882313
+      1745882313,
+      1159292085
     ],
-    "wof:lastmodified": 1649088680,
+    "wof:lastmodified": 1649089535,
     "wof:name": "UA1672 (DEN-SFO)",
     "wof:parent_id": 1745882313,
     "wof:placetype": "custom",

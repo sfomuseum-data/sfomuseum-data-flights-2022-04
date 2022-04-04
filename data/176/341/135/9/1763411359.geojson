@@ -2,10 +2,12 @@
   "id": 1763411359,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-03",
+    "date:cessation_upper": "2022-04-03",
     "date:inception_lower": "2022-04-03",
     "date:inception_upper": "2022-04-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-03",
+    "edtf:cessation": "2022-04-03T13:35:03-07:00",
+    "edtf:inception": "2022-04-03T22:41:00Z",
     "flysfo:actual_timestamp": 1649043480,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-04-03",
@@ -21,9 +23,11 @@
     "geom:latitude": 29.475248999999998,
     "geom:longitude": -140.1446795,
     "iata:airline": "AS",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "lbl:latitude": 37.617421,
     "lbl:longitude": -122.380916,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533997,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N928AK",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,9 @@
       1745882085,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "19458752"
+    },
     "wof:country": "US",
     "wof:created": 1649088344,
     "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1763411359,
     "wof:involves": [
-      102527513,
       102533997,
       1159283813,
-      1745882107
+      1745882107,
+      1528104577,
+      102527513
     ],
-    "wof:lastmodified": 1649088344,
+    "wof:lastmodified": 1649089528,
     "wof:name": "AS708 (HNL-SFO)",
     "wof:parent_id": 1745882107,
     "wof:placetype": "custom",

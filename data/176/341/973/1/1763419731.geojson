@@ -2,10 +2,12 @@
   "id": 1763419731,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-04",
+    "date:cessation_upper": "2022-04-04",
     "date:inception_lower": "2022-04-04",
     "date:inception_upper": "2022-04-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-04",
+    "edtf:cessation": "2022-04-04T06:31:00Z",
+    "edtf:inception": "2022-04-04T00:41:00Z",
     "flysfo:actual_timestamp": 1649113200,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-04-04",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "19466581"
+    },
     "wof:country": "US",
     "wof:created": 1649174715,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
@@ -50,7 +55,7 @@
       1159283813,
       -1
     ],
-    "wof:lastmodified": 1649174715,
+    "wof:lastmodified": 1649175908,
     "wof:name": "AS192 (JFK-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

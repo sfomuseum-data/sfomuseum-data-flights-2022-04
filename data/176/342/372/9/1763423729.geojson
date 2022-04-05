@@ -2,10 +2,12 @@
   "id": 1763423729,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-05",
+    "date:cessation_upper": "2022-04-05",
     "date:inception_lower": "2022-04-04",
     "date:inception_upper": "2022-04-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-04",
+    "edtf:cessation": "2022-04-05T08:29:08Z",
+    "edtf:inception": "2022-04-04T22:12:00Z",
     "flysfo:actual_timestamp": 1649113200,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-04",
@@ -21,9 +23,11 @@
     "geom:latitude": 37.61799,
     "geom:longitude": -122.370943,
     "iata:airline": "UA",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,17 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N77019",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "19530317",
+      "swim:gufi": "KO57497200"
+    },
     "wof:country": "US",
     "wof:created": 1649175768,
     "wof:geomhash": "f780d59ec1f4d1acb53d14db45159ea5",
@@ -45,12 +59,11 @@
     ],
     "wof:id": 1763423729,
     "wof:involves": [
+      1159289985,
       102527513,
-      102527513,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1649175768,
+    "wof:lastmodified": 1649175914,
     "wof:name": "UA194 (SFO-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

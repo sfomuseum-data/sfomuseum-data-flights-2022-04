@@ -2,10 +2,12 @@
   "id": 1763431669,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-05",
+    "date:cessation_upper": "2022-04-05",
     "date:inception_lower": "2022-04-05",
     "date:inception_upper": "2022-04-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-05",
+    "edtf:cessation": "2022-04-05T21:00:00Z",
+    "edtf:inception": "2022-04-05T16:04:00Z",
     "flysfo:actual_timestamp": 1649173260,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-05",
@@ -21,9 +23,11 @@
     "geom:latitude": 31.70423,
     "geom:longitude": -101.3334745,
     "iata:airline": "UA",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618102,
     "lbl:longitude": -122.38769,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102531023,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N37504",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "19590348",
+      "swim:gufi": "KO51787300"
+    },
     "wof:country": "US",
     "wof:created": 1649262199,
     "wof:geomhash": "05e474f4bf1eb5ae110c20d94aac828f",
@@ -81,12 +95,13 @@
     ],
     "wof:id": 1763431669,
     "wof:involves": [
-      102531023,
-      102527513,
       1159285413,
-      1745882251
+      1745882251,
+      1528104577,
+      102531023,
+      102527513
     ],
-    "wof:lastmodified": 1649262199,
+    "wof:lastmodified": 1649262322,
     "wof:name": "UA2244 (SFO-MIA)",
     "wof:parent_id": 1745882251,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1763431761,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-05",
+    "date:cessation_upper": "2022-04-05",
     "date:inception_lower": "2022-04-05",
     "date:inception_upper": "2022-04-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-05",
+    "edtf:cessation": "2022-04-05T18:47:00Z",
+    "edtf:inception": "2022-04-05T18:04:00Z",
     "flysfo:actual_timestamp": 1649180460,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-05",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.022982,
     "geom:longitude": -121.104038,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617458,
     "lbl:longitude": -122.391079,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527337,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N847UA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,10 @@
       1745882335,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "19601472",
+      "swim:gufi": "KO57629300"
+    },
     "wof:country": "US",
     "wof:created": 1649262222,
     "wof:geomhash": "1d9a5fa2c9575ebb155d9645f1016c57",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1763431761,
     "wof:involves": [
+      1159289407,
       102527337,
       102527513,
       1159285413,
       1745882409
     ],
-    "wof:lastmodified": 1649262222,
+    "wof:lastmodified": 1649262323,
     "wof:name": "UA289 (SFO-SBA)",
     "wof:parent_id": 1745882409,
     "wof:placetype": "custom",

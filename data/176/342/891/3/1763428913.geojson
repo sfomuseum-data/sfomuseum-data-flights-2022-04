@@ -2,10 +2,12 @@
   "id": 1763428913,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-05",
+    "date:cessation_upper": "2022-04-05",
     "date:inception_lower": "2022-04-05",
     "date:inception_upper": "2022-04-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-05",
+    "edtf:cessation": "2022-04-05T02:11:38-07:00",
+    "edtf:inception": "2022-04-05T10:21:00Z",
     "flysfo:actual_timestamp": 1649175420,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-05",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.3996545,
     "geom:longitude": -99.5210065,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617477,
     "lbl:longitude": -122.388302,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102532047,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N466UA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "19564394",
+      "swim:gufi": "KW19592300"
+    },
     "wof:country": "US",
     "wof:created": 1649261503,
     "wof:geomhash": "10c01f207ef95eecc919066d165ec5eb",
@@ -84,9 +98,10 @@
       102527513,
       102532047,
       1159285413,
-      1745882247
+      1745882247,
+      1159292085
     ],
-    "wof:lastmodified": 1649261503,
+    "wof:lastmodified": 1649262325,
     "wof:name": "UA1801 (BWI-SFO)",
     "wof:parent_id": 1745882247,
     "wof:placetype": "custom",

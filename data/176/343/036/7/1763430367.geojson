@@ -2,10 +2,12 @@
   "id": 1763430367,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-06",
+    "date:cessation_upper": "2022-04-06",
     "date:inception_lower": "2022-04-05",
     "date:inception_upper": "2022-04-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-05",
+    "edtf:cessation": "2022-04-06T01:33:36Z",
+    "edtf:inception": "2022-04-05T21:05:00Z",
     "flysfo:actual_timestamp": 1649199600,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-04-05",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.864041,
     "geom:longitude": -101.15226200000001,
     "iata:airline": "AS",
+    "icao:aircraft": "A21N",
     "icao:airline": "ASA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527849,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N921VA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "19645380"
+    },
     "wof:country": "US",
     "wof:created": 1649261873,
     "wof:geomhash": "258ecee7418d054b5d98211d885387d1",
@@ -45,12 +57,12 @@
     ],
     "wof:id": 1763430367,
     "wof:involves": [
+      1377564297,
       102527849,
       102527513,
-      1159283813,
-      -1
+      1159283813
     ],
-    "wof:lastmodified": 1649261873,
+    "wof:lastmodified": 1649262312,
     "wof:name": "AS9521 (SFO-GSO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

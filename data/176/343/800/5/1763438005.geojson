@@ -2,10 +2,12 @@
   "id": 1763438005,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-04-06",
-    "date:inception_upper": "2022-04-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-06",
+    "date:cessation_lower": "2022-04-07",
+    "date:cessation_upper": "2022-04-07",
+    "date:inception_lower": "2022-04-07",
+    "date:inception_upper": "2022-04-07",
+    "edtf:cessation": "2022-04-07T05:17:59Z",
+    "edtf:inception": "2022-04-07T04:12:00Z",
     "flysfo:actual_timestamp": 1649303820,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-04-06",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.8494965,
     "geom:longitude": -118.7636915,
     "iata:airline": "AS",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "lbl:latitude": 37.616838,
     "lbl:longitude": -122.380969,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527209,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N266AK",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,9 @@
       1745882085,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "19643789"
+    },
     "wof:country": "US",
     "wof:created": 1649348237,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1763438005,
     "wof:involves": [
+      1377564285,
       102527209,
       102527513,
       1159283813,
       1745882101
     ],
-    "wof:lastmodified": 1649348237,
+    "wof:lastmodified": 1649348713,
     "wof:name": "AS170 (SFO-LAS)",
     "wof:parent_id": 1745882101,
     "wof:placetype": "custom",

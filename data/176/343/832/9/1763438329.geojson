@@ -2,10 +2,12 @@
   "id": 1763438329,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-07",
+    "date:cessation_upper": "2022-04-07",
     "date:inception_lower": "2022-04-06",
     "date:inception_upper": "2022-04-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-06",
+    "edtf:cessation": "2022-04-07T03:41:00Z",
+    "edtf:inception": "2022-04-06T02:18:00Z",
     "flysfo:actual_timestamp": 1649297520,
     "flysfo:airline": "DL",
     "flysfo:date": "2022-04-06",
@@ -21,6 +23,7 @@
     "geom:latitude": 39.20008,
     "geom:longitude": -117.1757545,
     "iata:airline": "DL",
+    "icao:aircraft": "BCS3",
     "icao:airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
@@ -34,6 +37,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N301DU",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,10 @@
       1745882137,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "19640042",
+      "swim:gufi": "KO05330500"
+    },
     "wof:country": "US",
     "wof:created": 1649348319,
     "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
@@ -86,7 +99,7 @@
       1159284261,
       1745882213
     ],
-    "wof:lastmodified": 1649348319,
+    "wof:lastmodified": 1649348714,
     "wof:name": "DL2341 (SFO-SLC)",
     "wof:parent_id": 1745882213,
     "wof:placetype": "custom",

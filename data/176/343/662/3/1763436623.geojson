@@ -2,10 +2,12 @@
   "id": 1763436623,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-04-06",
-    "date:inception_upper": "2022-04-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-06",
+    "date:cessation_lower": "2022-04-06",
+    "date:cessation_upper": "2022-04-06",
+    "date:inception_lower": "2022-04-07",
+    "date:inception_upper": "2022-04-07",
+    "edtf:cessation": "2022-04-06T14:16:41-07:00",
+    "edtf:inception": "2022-04-07T00:53:00Z",
     "flysfo:actual_timestamp": 1649305080,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-06",
@@ -21,9 +23,11 @@
     "geom:latitude": 33.9120825,
     "geom:longitude": -110.006986,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617908,
     "lbl:longitude": -122.381084,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102521851,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N899UA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,10 @@
       1745882085,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "19636200",
+      "swim:gufi": "KH77211400"
+    },
     "wof:country": "US",
     "wof:created": 1649347877,
     "wof:geomhash": "62f9f5a2734b9c5938b0b415e9e4a515",
@@ -81,12 +95,13 @@
     ],
     "wof:id": 1763436623,
     "wof:involves": [
+      1159289407,
       102527513,
       102521851,
       1159285413,
       1745882113
     ],
-    "wof:lastmodified": 1649347877,
+    "wof:lastmodified": 1649348709,
     "wof:name": "UA1401 (AUS-SFO)",
     "wof:parent_id": 1745882113,
     "wof:placetype": "custom",

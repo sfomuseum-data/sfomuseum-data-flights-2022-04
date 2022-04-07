@@ -2,10 +2,12 @@
   "id": 1763435755,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-06",
+    "date:cessation_upper": "2022-04-06",
     "date:inception_lower": "2022-04-06",
     "date:inception_upper": "2022-04-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-06",
+    "edtf:cessation": "2022-04-06T10:59:23-07:00",
+    "edtf:inception": "2022-04-06T19:04:00Z",
     "flysfo:actual_timestamp": 1649286000,
     "flysfo:airline": "DL",
     "flysfo:date": "2022-04-06",
@@ -21,9 +23,11 @@
     "geom:latitude": 31.70423,
     "geom:longitude": -101.3334745,
     "iata:airline": "DL",
+    "icao:aircraft": "B752",
     "icao:airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102531023,
@@ -34,7 +38,17 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N649DL",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "19694629",
+      "swim:gufi": "KR65465400"
+    },
     "wof:country": "US",
     "wof:created": 1649347641,
     "wof:geomhash": "38f88108bbae8bb050c3144d37bdc384",
@@ -45,12 +59,12 @@
     ],
     "wof:id": 1763435755,
     "wof:involves": [
+      1159289939,
       102527513,
       102531023,
-      1159284261,
-      -1
+      1159284261
     ],
-    "wof:lastmodified": 1649347641,
+    "wof:lastmodified": 1649348721,
     "wof:name": "DL8880 (MIA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

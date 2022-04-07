@@ -2,10 +2,12 @@
   "id": 1763439481,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-06",
+    "date:cessation_upper": "2022-04-06",
     "date:inception_lower": "2022-04-06",
     "date:inception_upper": "2022-04-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-06",
+    "edtf:cessation": "2022-04-06T02:09:37Z",
+    "edtf:inception": "2022-04-06T00:12:00Z",
     "flysfo:actual_timestamp": 1649286000,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-06",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "19576782"
+    },
     "wof:country": "US",
     "wof:created": 1649348619,
     "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
@@ -50,7 +55,7 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1649348619,
+    "wof:lastmodified": 1649348724,
     "wof:name": "UA2751 (SFO-DEN)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

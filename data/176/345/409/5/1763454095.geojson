@@ -2,10 +2,12 @@
   "id": 1763454095,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2022-04-07",
     "date:inception_upper": "2022-04-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-07",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2022-04-07T01:48:56-07:00",
     "flysfo:actual_timestamp": 1649345280,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-07",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.7213045,
     "geom:longitude": -119.4384925,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618339,
     "lbl:longitude": -122.387219,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533591,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N486UA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -81,12 +89,13 @@
     ],
     "wof:id": 1763454095,
     "wof:involves": [
+      1159292085,
       102533591,
       102527513,
       1159285413,
       1745882255
     ],
-    "wof:lastmodified": 1649435119,
+    "wof:lastmodified": 1649435222,
     "wof:name": "UA343 (SFO-PSP)",
     "wof:parent_id": 1745882255,
     "wof:placetype": "custom",

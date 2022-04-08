@@ -2,10 +2,12 @@
   "id": 1763453941,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-04-07",
-    "date:inception_upper": "2022-04-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-07",
+    "date:cessation_lower": "2022-04-08",
+    "date:cessation_upper": "2022-04-08",
+    "date:inception_lower": "2022-04-08",
+    "date:inception_upper": "2022-04-08",
+    "edtf:cessation": "2022-04-08T07:03:23Z",
+    "edtf:inception": "2022-04-08T05:59:00Z",
     "flysfo:actual_timestamp": 1649396520,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-07",
@@ -21,9 +23,11 @@
     "geom:latitude": 40.868524,
     "geom:longitude": -122.79198650000001,
     "iata:airline": "UA",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617908,
     "lbl:longitude": -122.381084,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533927,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N25201",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,10 @@
       1745882085,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "19731351",
+      "swim:gufi": "KO13561600"
+    },
     "wof:country": "US",
     "wof:created": 1649435078,
     "wof:geomhash": "ac29143dee46faf8dc4d82fa5cfc7601",
@@ -84,9 +98,10 @@
       102533927,
       102527513,
       1159285413,
-      1745882113
+      1745882113,
+      1159289871
     ],
-    "wof:lastmodified": 1649435078,
+    "wof:lastmodified": 1649435228,
     "wof:name": "UA2056 (SFO-EUG)",
     "wof:parent_id": 1745882113,
     "wof:placetype": "custom",

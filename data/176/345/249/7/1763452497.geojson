@@ -2,10 +2,12 @@
   "id": 1763452497,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-08",
+    "date:cessation_upper": "2022-04-08",
     "date:inception_lower": "2022-04-07",
     "date:inception_upper": "2022-04-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-07",
+    "edtf:cessation": "2022-04-08T00:40:00Z",
+    "edtf:inception": "2022-04-07T23:21:00Z",
     "flysfo:actual_timestamp": 1649372580,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-04-07",
@@ -48,6 +50,9 @@
       1745882085,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "19803689"
+    },
     "wof:country": "US",
     "wof:created": 1649434690,
     "wof:geomhash": "a0e250e9237d15725a2a6f51d6b7a6b6",
@@ -86,7 +91,7 @@
       1159283813,
       1745882101
     ],
-    "wof:lastmodified": 1649434690,
+    "wof:lastmodified": 1649435226,
     "wof:name": "AS268 (SFO-PDX)",
     "wof:parent_id": 1745882101,
     "wof:placetype": "custom",

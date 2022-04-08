@@ -2,10 +2,12 @@
   "id": 1763453971,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-07",
+    "date:cessation_upper": "2022-04-07",
     "date:inception_lower": "2022-04-07",
     "date:inception_upper": "2022-04-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-07",
+    "edtf:cessation": "2022-04-07T21:06:00Z",
+    "edtf:inception": "2022-04-07T15:53:00Z",
     "flysfo:actual_timestamp": 1649344800,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-07",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.990156,
     "geom:longitude": -96.6928465,
     "iata:airline": "UA",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620929,
     "lbl:longitude": -122.390272,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102530741,
     "sfomuseum:departure_id": 102527513,
@@ -48,6 +52,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "19760937",
+      "swim:gufi": "KO42003500"
+    },
     "wof:country": "US",
     "wof:created": 1649435087,
     "wof:geomhash": "92fb504f17f3373e6b03bb6769f65d8a",
@@ -84,9 +92,10 @@
       102530741,
       102527513,
       1159285413,
-      1745882291
+      1745882291,
+      1528104577
     ],
-    "wof:lastmodified": 1649435087,
+    "wof:lastmodified": 1649435228,
     "wof:name": "UA2187 (SFO-BOS)",
     "wof:parent_id": 1745882291,
     "wof:placetype": "custom",

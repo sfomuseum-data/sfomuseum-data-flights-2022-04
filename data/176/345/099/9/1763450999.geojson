@@ -2,10 +2,12 @@
   "id": 1763450999,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-04-07",
-    "date:inception_upper": "2022-04-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-07",
+    "date:cessation_lower": "2022-04-08",
+    "date:cessation_upper": "2022-04-08",
+    "date:inception_lower": "2022-04-08",
+    "date:inception_upper": "2022-04-08",
+    "edtf:cessation": "2022-04-07T19:12:57-07:00",
+    "edtf:inception": "2022-04-08T04:11:00Z",
     "flysfo:actual_timestamp": 1649372400,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-07",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.1546165,
     "geom:longitude": -98.2742345,
     "iata:airline": "UA",
+    "icao:aircraft": "B752",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620304,
     "lbl:longitude": -122.388827,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102530049,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N34131",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "19800872",
+      "swim:gufi": "KN08473600"
+    },
     "wof:country": "US",
     "wof:created": 1649434303,
     "wof:geomhash": "5afbf99c4360a00cfc0890f48cccf304",
@@ -81,12 +95,13 @@
     ],
     "wof:id": 1763450999,
     "wof:involves": [
+      1159289939,
       102527513,
       102530049,
       1159285413,
       1745882279
     ],
-    "wof:lastmodified": 1649434303,
+    "wof:lastmodified": 1649435216,
     "wof:name": "UA1209 (EWR-SFO)",
     "wof:parent_id": 1745882279,
     "wof:placetype": "custom",

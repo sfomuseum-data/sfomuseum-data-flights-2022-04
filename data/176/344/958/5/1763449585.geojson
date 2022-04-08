@@ -2,10 +2,12 @@
   "id": 1763449585,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-07",
+    "date:cessation_upper": "2022-04-07",
     "date:inception_lower": "2022-04-07",
     "date:inception_upper": "2022-04-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-07",
+    "edtf:cessation": "2022-04-07T07:23:40Z",
+    "edtf:inception": "2022-04-07T01:38:00Z",
     "flysfo:actual_timestamp": 1649372400,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-04-07",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "19712591"
+    },
     "wof:country": "US",
     "wof:created": 1649433922,
     "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
@@ -50,7 +55,7 @@
       1159283813,
       -1
     ],
-    "wof:lastmodified": 1649433922,
+    "wof:lastmodified": 1649435215,
     "wof:name": "AS1352 (BOS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

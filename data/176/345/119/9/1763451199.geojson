@@ -2,10 +2,12 @@
   "id": 1763451199,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-07",
+    "date:cessation_upper": "2022-04-07",
     "date:inception_lower": "2022-04-07",
     "date:inception_upper": "2022-04-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-07",
+    "edtf:cessation": "2022-04-07T13:20:30-07:00",
+    "edtf:inception": "2022-04-07T22:06:00Z",
     "flysfo:actual_timestamp": 1649388180,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-07",
@@ -21,9 +23,11 @@
     "geom:latitude": 18.808995,
     "geom:longitude": -61.1854715,
     "iata:airline": "UA",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "lbl:latitude": 37.619367,
     "lbl:longitude": -122.38387,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 1746879047,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N77538",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "19797483",
+      "swim:gufi": "KW70512500"
+    },
     "wof:country": "US",
     "wof:created": 1649434355,
     "wof:geomhash": "39d9eba3dc111bfc07b45f612540f4b0",
@@ -81,12 +95,13 @@
     ],
     "wof:id": 1763451199,
     "wof:involves": [
+      1159289871,
       102527513,
       1746879047,
       1159285413,
       1745882317
     ],
-    "wof:lastmodified": 1649434355,
+    "wof:lastmodified": 1649435219,
     "wof:name": "UA351 (DCA-SFO)",
     "wof:parent_id": 1745882317,
     "wof:placetype": "custom",

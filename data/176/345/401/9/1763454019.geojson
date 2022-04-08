@@ -2,10 +2,12 @@
   "id": 1763454019,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-08",
+    "date:cessation_upper": "2022-04-08",
     "date:inception_lower": "2022-04-07",
     "date:inception_upper": "2022-04-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-07",
+    "edtf:cessation": "2022-04-08T00:03:00Z",
+    "edtf:inception": "2022-04-07T06:22:02-07:00",
     "flysfo:actual_timestamp": 1649361720,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-07",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.800514,
     "geom:longitude": -105.1326535,
     "iata:airline": "UA",
+    "icao:aircraft": "B77W",
     "icao:airline": "UAL",
     "lbl:latitude": 37.621107,
     "lbl:longitude": -122.389874,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533631,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N2243U",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,9 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO65473500"
+    },
     "wof:country": "US",
     "wof:created": 1649435099,
     "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1763454019,
     "wof:involves": [
-      102533631,
-      102527513,
       1159285413,
-      1745882297
+      1745882297,
+      1159289993,
+      102533631,
+      102527513
     ],
-    "wof:lastmodified": 1649435099,
+    "wof:lastmodified": 1649435222,
     "wof:name": "UA2340 (SFO-ORD)",
     "wof:parent_id": 1745882297,
     "wof:placetype": "custom",

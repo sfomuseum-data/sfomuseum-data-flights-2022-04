@@ -2,10 +2,12 @@
   "id": 1763460859,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-08",
+    "date:cessation_upper": "2022-04-08",
     "date:inception_lower": "2022-04-08",
     "date:inception_upper": "2022-04-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-08",
+    "edtf:cessation": "2022-04-08T17:40:46Z",
+    "edtf:inception": "2022-04-08T14:48:00Z",
     "flysfo:actual_timestamp": 1649428440,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-04-08",
@@ -21,9 +23,11 @@
     "geom:latitude": 30.389476000000002,
     "geom:longitude": -116.044202,
     "iata:airline": "AS",
+    "icao:aircraft": "B738",
     "icao:airline": "ASA",
     "lbl:latitude": 37.617532,
     "lbl:longitude": -122.382384,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102536441,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N557AS",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -81,12 +90,13 @@
     ],
     "wof:id": 1763460859,
     "wof:involves": [
+      1159289871,
       102536441,
       102527513,
       1159283813,
       1745882121
     ],
-    "wof:lastmodified": 1649521010,
+    "wof:lastmodified": 1649521506,
     "wof:name": "AS1278 (SFO-SJD)",
     "wof:parent_id": 1745882121,
     "wof:placetype": "custom",

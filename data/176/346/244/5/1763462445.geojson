@@ -2,10 +2,12 @@
   "id": 1763462445,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-09",
+    "date:cessation_upper": "2022-04-09",
     "date:inception_lower": "2022-04-08",
     "date:inception_upper": "2022-04-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-08",
+    "edtf:cessation": "2022-04-09T02:46:09Z",
+    "edtf:inception": "2022-04-08T16:32:00Z",
     "flysfo:actual_timestamp": 1649458800,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-08",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.686867,
     "geom:longitude": 9.012156999999995,
     "iata:airline": "UA",
+    "icao:aircraft": "B789",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102541685,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N24973",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,10 @@
       1745882335,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "19857571",
+      "swim:gufi": "KO42417600"
+    },
     "wof:country": "US",
     "wof:created": 1649521409,
     "wof:geomhash": "b0708fbc9882ec26729f19c3bf135279",
@@ -81,12 +95,13 @@
     ],
     "wof:id": 1763462445,
     "wof:involves": [
+      1159293215,
       102541685,
       102527513,
       1159285413,
       1745882431
     ],
-    "wof:lastmodified": 1649521409,
+    "wof:lastmodified": 1649521518,
     "wof:name": "UA2783 (SFO-NRT)",
     "wof:parent_id": 1745882431,
     "wof:placetype": "custom",

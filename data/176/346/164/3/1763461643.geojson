@@ -2,10 +2,12 @@
   "id": 1763461643,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-08",
+    "date:cessation_upper": "2022-04-08",
     "date:inception_lower": "2022-04-08",
     "date:inception_upper": "2022-04-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-08",
+    "edtf:cessation": "2022-04-08T14:53:21Z",
+    "edtf:inception": "2022-04-08T00:00:03-07:00",
     "flysfo:actual_timestamp": 1649425560,
     "flysfo:airline": "B6",
     "flysfo:date": "2022-04-08",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.780291500000004,
     "geom:longitude": -120.38022649999999,
     "iata:airline": "B6",
+    "icao:aircraft": "A320",
     "icao:airline": "JBU",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159284583,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N712JB",
     "wof:belongsto": [
       1729792387,
       102527513,
@@ -48,6 +57,10 @@
       1729792435,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "19843770",
+      "swim:gufi": "KO41787600"
+    },
     "wof:country": "US",
     "wof:created": 1649521208,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1763461643,
     "wof:involves": [
-      102533795,
       102527513,
       1159284583,
-      1729792747
+      1729792747,
+      1159292085,
+      102533795
     ],
-    "wof:lastmodified": 1649521208,
+    "wof:lastmodified": 1649521511,
     "wof:name": "B62835 (SFO-LAX)",
     "wof:parent_id": 1729792747,
     "wof:placetype": "custom",

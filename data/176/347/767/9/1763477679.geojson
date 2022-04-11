@@ -2,10 +2,12 @@
   "id": 1763477679,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-10",
+    "date:cessation_upper": "2022-04-10",
     "date:inception_lower": "2022-04-10",
     "date:inception_upper": "2022-04-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-10",
+    "edtf:cessation": "2022-04-10T17:22:00Z",
+    "edtf:inception": "2022-04-10T01:57:51-07:00",
     "flysfo:actual_timestamp": 1649605260,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-10",
@@ -21,9 +23,11 @@
     "geom:latitude": 41.602067,
     "geom:longitude": -122.484166,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618139,
     "lbl:longitude": -122.381258,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102532251,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N850UA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,9 @@
       1745882085,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "20031773"
+    },
     "wof:country": "US",
     "wof:created": 1649694239,
     "wof:geomhash": "a0e250e9237d15725a2a6f51d6b7a6b6",
@@ -84,9 +96,10 @@
       102532251,
       102527513,
       1159285413,
-      1745882111
+      1745882111,
+      1159289407
     ],
-    "wof:lastmodified": 1649694239,
+    "wof:lastmodified": 1649694351,
     "wof:name": "UA2418 (SFO-PDX)",
     "wof:parent_id": 1745882111,
     "wof:placetype": "custom",

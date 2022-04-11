@@ -2,10 +2,12 @@
   "id": 1763477755,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-04-10",
-    "date:inception_upper": "2022-04-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-10",
+    "date:cessation_lower": "2022-04-11",
+    "date:cessation_upper": "2022-04-11",
+    "date:inception_lower": "2022-04-11",
+    "date:inception_upper": "2022-04-11",
+    "edtf:cessation": "2022-04-11T10:42:00Z",
+    "edtf:inception": "2022-04-10T17:30:57-07:00",
     "flysfo:actual_timestamp": 1649631600,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-10",
@@ -21,9 +23,11 @@
     "geom:latitude": 33.797588,
     "geom:longitude": -108.8546935,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.621173,
     "lbl:longitude": -122.390131,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102534097,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N458UA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,9 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO14514200"
+    },
     "wof:country": "US",
     "wof:created": 1649694259,
     "wof:geomhash": "4d8eca8dfd12d13a56951180b27dbf13",
@@ -84,9 +96,10 @@
       102534097,
       102527513,
       1159285413,
-      1745882295
+      1745882295,
+      1159292085
     ],
-    "wof:lastmodified": 1649694259,
+    "wof:lastmodified": 1649694351,
     "wof:name": "UA505 (SFO-IAH)",
     "wof:parent_id": 1745882295,
     "wof:placetype": "custom",

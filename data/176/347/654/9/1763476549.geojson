@@ -2,10 +2,12 @@
   "id": 1763476549,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-11",
+    "date:cessation_upper": "2022-04-11",
     "date:inception_lower": "2022-04-10",
     "date:inception_upper": "2022-04-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-10",
+    "edtf:cessation": "2022-04-11T10:01:00Z",
+    "edtf:inception": "2022-04-10T16:13:33-07:00",
     "flysfo:actual_timestamp": 1649631600,
     "flysfo:airline": "DL",
     "flysfo:date": "2022-04-10",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.627254,
     "geom:longitude": -103.4008145,
     "iata:airline": "DL",
+    "icao:aircraft": "B763",
     "icao:airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289965,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102526927,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N194DN",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:gufi": "KO21405200"
+    },
     "wof:country": "US",
     "wof:created": 1649693954,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -45,12 +57,12 @@
     ],
     "wof:id": 1763476549,
     "wof:involves": [
+      1159289965,
       102526927,
       102527513,
-      1159284261,
-      -1
+      1159284261
     ],
-    "wof:lastmodified": 1649693954,
+    "wof:lastmodified": 1649694349,
     "wof:name": "DL8885 (SFO-ATL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

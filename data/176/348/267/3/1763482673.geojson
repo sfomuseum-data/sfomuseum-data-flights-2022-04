@@ -2,10 +2,12 @@
   "id": 1763482673,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-11",
+    "date:cessation_upper": "2022-04-11",
     "date:inception_lower": "2022-04-11",
     "date:inception_upper": "2022-04-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-11",
+    "edtf:cessation": "2022-04-11T06:53:28-07:00",
+    "edtf:inception": "2022-04-11T14:52:00Z",
     "flysfo:actual_timestamp": 1649710800,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-11",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.1546165,
     "geom:longitude": -98.2742345,
     "iata:airline": "UA",
+    "icao:aircraft": "B763",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620534,
     "lbl:longitude": -122.388506,
+    "sfomuseum:aircraft_id": 1159289965,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102530049,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N664UA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "20104938",
+      "swim:gufi": "KN46239200"
+    },
     "wof:country": "US",
     "wof:created": 1649779889,
     "wof:geomhash": "5afbf99c4360a00cfc0890f48cccf304",
@@ -84,9 +98,10 @@
       102527513,
       102530049,
       1159285413,
-      1745882275
+      1745882275,
+      1159289965
     ],
-    "wof:lastmodified": 1649779889,
+    "wof:lastmodified": 1649780688,
     "wof:name": "UA1991 (EWR-SFO)",
     "wof:parent_id": 1745882275,
     "wof:placetype": "custom",

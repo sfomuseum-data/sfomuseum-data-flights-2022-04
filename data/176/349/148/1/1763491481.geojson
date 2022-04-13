@@ -2,10 +2,12 @@
   "id": 1763491481,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-12",
+    "date:cessation_upper": "2022-04-12",
     "date:inception_lower": "2022-04-12",
     "date:inception_upper": "2022-04-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-12",
+    "edtf:cessation": "2022-04-12T01:28:05-07:00",
+    "edtf:inception": "2022-04-12T10:12:00Z",
     "flysfo:actual_timestamp": 1649777580,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-12",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.055307,
     "geom:longitude": -101.315247,
     "iata:airline": "UA",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "lbl:latitude": 37.619367,
     "lbl:longitude": -122.38387,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102528181,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N37293",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,9 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "20172292"
+    },
     "wof:country": "US",
     "wof:created": 1649866346,
     "wof:geomhash": "1bce6af8a92006379b4194e1695731d3",
@@ -81,12 +93,13 @@
     ],
     "wof:id": 1763491481,
     "wof:involves": [
+      1745882317,
+      1159289871,
       102527513,
       102528181,
-      1159285413,
-      1745882317
+      1159285413
     ],
-    "wof:lastmodified": 1649866346,
+    "wof:lastmodified": 1649867162,
     "wof:name": "UA2367 (PIT-SFO)",
     "wof:parent_id": 1745882317,
     "wof:placetype": "custom",

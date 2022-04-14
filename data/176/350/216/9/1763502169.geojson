@@ -2,10 +2,12 @@
   "id": 1763502169,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-14",
+    "date:cessation_upper": "2022-04-14",
     "date:inception_lower": "2022-04-13",
     "date:inception_upper": "2022-04-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-13",
+    "edtf:cessation": "2022-04-14T00:45:00Z",
+    "edtf:inception": "2022-04-13T23:51:00Z",
     "flysfo:actual_timestamp": 1649892720,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-13",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.780291500000004,
     "geom:longitude": -120.38022649999999,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617477,
     "lbl:longitude": -122.388302,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N878UA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "20323847",
+      "swim:gufi": "KO78400400"
+    },
     "wof:country": "US",
     "wof:created": 1649953386,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -84,9 +97,10 @@
       102533795,
       102527513,
       1159285413,
-      1745882247
+      1745882247,
+      1159289407
     ],
-    "wof:lastmodified": 1649953386,
+    "wof:lastmodified": 1649953526,
     "wof:name": "UA2014 (SFO-LAX)",
     "wof:parent_id": 1745882247,
     "wof:placetype": "custom",

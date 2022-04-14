@@ -2,10 +2,12 @@
   "id": 1763498509,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-13",
+    "date:cessation_upper": "2022-04-13",
     "date:inception_lower": "2022-04-13",
     "date:inception_upper": "2022-04-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-13",
+    "edtf:cessation": "2022-04-13T08:35:19-07:00",
+    "edtf:inception": "2022-04-13T20:17:00Z",
     "flysfo:actual_timestamp": 1649890800,
     "flysfo:airline": "DL",
     "flysfo:date": "2022-04-13",
@@ -21,9 +23,11 @@
     "geom:latitude": 44.368758,
     "geom:longitude": -118.1959315,
     "iata:airline": "DL",
+    "icao:aircraft": "B752",
     "icao:airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102554947,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N654DL",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,10 @@
       1745882335,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "20298658",
+      "swim:gufi": "KS67166400"
+    },
     "wof:country": "US",
     "wof:created": 1649952459,
     "wof:geomhash": "4b8d850891e12dfac0a460ee51cd363b",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1763498509,
     "wof:involves": [
-      102527513,
-      102554947,
       1159284261,
-      1745882425
+      1745882425,
+      1159289939,
+      102527513,
+      102554947
     ],
-    "wof:lastmodified": 1649952459,
+    "wof:lastmodified": 1649953521,
     "wof:name": "DL8838 (YYC-SFO)",
     "wof:parent_id": 1745882425,
     "wof:placetype": "custom",

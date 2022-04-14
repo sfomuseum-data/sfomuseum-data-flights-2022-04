@@ -2,10 +2,12 @@
   "id": 1763501135,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-04-13",
-    "date:inception_upper": "2022-04-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-13",
+    "date:cessation_lower": "2022-04-14",
+    "date:cessation_upper": "2022-04-14",
+    "date:inception_lower": "2022-04-14",
+    "date:inception_upper": "2022-04-14",
+    "edtf:cessation": "2022-04-14T10:56:32Z",
+    "edtf:inception": "2022-04-13T17:14:41-07:00",
     "flysfo:actual_timestamp": 1649890800,
     "flysfo:airline": "DL",
     "flysfo:date": "2022-04-13",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.627254,
     "geom:longitude": -103.4008145,
     "iata:airline": "DL",
+    "icao:aircraft": "A333",
     "icao:airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289423,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102526927,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N821NW",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,9 @@
       1745882137,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO18606500"
+    },
     "wof:country": "US",
     "wof:created": 1649953125,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1763501135,
     "wof:involves": [
+      1159289423,
       102526927,
       102527513,
       1159284261,
       1745882213
     ],
-    "wof:lastmodified": 1649953125,
+    "wof:lastmodified": 1649953520,
     "wof:name": "DL2772 (SFO-ATL)",
     "wof:parent_id": 1745882213,
     "wof:placetype": "custom",

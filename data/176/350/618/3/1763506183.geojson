@@ -2,10 +2,12 @@
   "id": 1763506183,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-04-14",
-    "date:inception_upper": "2022-04-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-14",
+    "date:cessation_lower": "2022-04-14",
+    "date:cessation_upper": "2022-04-14",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2022-04-14T10:42:59-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": 1649984220,
     "flysfo:airline": "BA",
     "flysfo:date": "2022-04-14",
@@ -21,9 +23,11 @@
     "geom:latitude": 44.5440385,
     "geom:longitude": -61.410693,
     "iata:airline": "BA",
+    "icao:aircraft": "B77W",
     "icao:airline": "BAW",
     "lbl:latitude": 37.612893,
     "lbl:longitude": -122.389652,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159284021,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102556703,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "GSTBJ",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -81,12 +90,13 @@
     ],
     "wof:id": 1763506183,
     "wof:involves": [
+      1745882385,
+      1159289993,
       102527513,
       102556703,
-      1159284021,
-      1745882385
+      1159284021
     ],
-    "wof:lastmodified": 1650038831,
+    "wof:lastmodified": 1650040049,
     "wof:name": "BA287 (LHR-SFO)",
     "wof:parent_id": 1745882385,
     "wof:placetype": "custom",

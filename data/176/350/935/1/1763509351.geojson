@@ -2,10 +2,12 @@
   "id": 1763509351,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-15",
+    "date:cessation_upper": "2022-04-15",
     "date:inception_lower": "2022-04-14",
     "date:inception_upper": "2022-04-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-14",
+    "edtf:cessation": "2022-04-15T08:37:44Z",
+    "edtf:inception": "2022-04-14T22:44:00Z",
     "flysfo:actual_timestamp": 1649974860,
     "flysfo:airline": "LH",
     "flysfo:date": "2022-04-14",
@@ -21,9 +23,11 @@
     "geom:latitude": 43.781954,
     "geom:longitude": -57.5518295,
     "iata:airline": "LH",
+    "icao:aircraft": "B748",
     "icao:airline": "DLH",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159293239,
     "sfomuseum:airline_id": 1159286015,
     "sfomuseum:arrival_id": 102549057,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "DABYH",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,9 @@
       1745882335,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "20404003"
+    },
     "wof:country": "US",
     "wof:created": 1650039632,
     "wof:geomhash": "a63fc4dac3cd4064d907a0b9ef33a7bc",
@@ -81,12 +93,13 @@
     ],
     "wof:id": 1763509351,
     "wof:involves": [
+      1159293239,
       102549057,
       102527513,
       1159286015,
       1745882431
     ],
-    "wof:lastmodified": 1650039632,
+    "wof:lastmodified": 1650040062,
     "wof:name": "LH455 (SFO-FRA)",
     "wof:parent_id": 1745882431,
     "wof:placetype": "custom",

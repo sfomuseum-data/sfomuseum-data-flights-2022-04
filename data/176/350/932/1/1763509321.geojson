@@ -2,10 +2,12 @@
   "id": 1763509321,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-14",
+    "date:cessation_upper": "2022-04-14",
     "date:inception_lower": "2022-04-14",
     "date:inception_upper": "2022-04-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-14",
+    "edtf:cessation": "2022-04-14T23:26:00Z",
+    "edtf:inception": "2022-04-14T07:47:09-07:00",
     "flysfo:actual_timestamp": 1649972040,
     "flysfo:airline": "DL",
     "flysfo:date": "2022-04-14",
@@ -21,9 +23,11 @@
     "geom:latitude": 42.529906499999996,
     "geom:longitude": -122.3376055,
     "iata:airline": "DL",
+    "icao:aircraft": "B738",
     "icao:airline": "DAL",
     "lbl:latitude": 37.615398,
     "lbl:longitude": -122.383426,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102533269,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N390DA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,10 @@
       1745882137,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "20403385",
+      "swim:gufi": "KO74797500"
+    },
     "wof:country": "US",
     "wof:created": 1650039625,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -84,9 +97,10 @@
       102533269,
       102527513,
       1159284261,
-      1745882203
+      1745882203,
+      1159289871
     ],
-    "wof:lastmodified": 1650039625,
+    "wof:lastmodified": 1650040062,
     "wof:name": "DL435 (SFO-SEA)",
     "wof:parent_id": 1745882203,
     "wof:placetype": "custom",

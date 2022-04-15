@@ -2,10 +2,12 @@
   "id": 1763506091,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-14",
+    "date:cessation_upper": "2022-04-14",
     "date:inception_lower": "2022-04-14",
     "date:inception_upper": "2022-04-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-14",
+    "edtf:cessation": "2022-04-14T17:23:41Z",
+    "edtf:inception": "2022-04-14T15:42:00Z",
     "flysfo:actual_timestamp": 1649957220,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-04-14",
@@ -21,9 +23,11 @@
     "geom:latitude": 42.529906499999996,
     "geom:longitude": -122.3376055,
     "iata:airline": "AS",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "lbl:latitude": 37.617421,
     "lbl:longitude": -122.380916,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533269,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N932AK",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,9 @@
       1745882085,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "20366387"
+    },
     "wof:country": "US",
     "wof:created": 1650038808,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -84,9 +97,10 @@
       102527513,
       102533269,
       1159283813,
-      1745882107
+      1745882107,
+      1528104577
     ],
-    "wof:lastmodified": 1650038808,
+    "wof:lastmodified": 1650040048,
     "wof:name": "AS766 (SEA-SFO)",
     "wof:parent_id": 1745882107,
     "wof:placetype": "custom",

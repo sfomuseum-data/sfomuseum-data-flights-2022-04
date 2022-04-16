@@ -2,10 +2,12 @@
   "id": 1763516013,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-04-15",
-    "date:inception_upper": "2022-04-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-15",
+    "date:cessation_lower": "2022-04-15",
+    "date:cessation_upper": "2022-04-15",
+    "date:inception_lower": "2022-04-16",
+    "date:inception_upper": "2022-04-16",
+    "edtf:cessation": "2022-04-15T15:01:16-07:00",
+    "edtf:inception": "2022-04-16T01:17:00Z",
     "flysfo:actual_timestamp": 1650085680,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-15",
@@ -21,9 +23,11 @@
     "geom:latitude": 33.797588,
     "geom:longitude": -108.8546935,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618339,
     "lbl:longitude": -122.387219,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102534097,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N444UA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +56,9 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KH80780600"
+    },
     "wof:country": "US",
     "wof:created": 1650125563,
     "wof:geomhash": "25dc9d98eae1cd54f40654c6c4fb6929",
@@ -81,12 +92,13 @@
     ],
     "wof:id": 1763516013,
     "wof:involves": [
+      1159292085,
       102527513,
       102534097,
       1159285413,
       1745882255
     ],
-    "wof:lastmodified": 1650125563,
+    "wof:lastmodified": 1650126370,
     "wof:name": "UA338 (IAH-SFO)",
     "wof:parent_id": 1745882255,
     "wof:placetype": "custom",

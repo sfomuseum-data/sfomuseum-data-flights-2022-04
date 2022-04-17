@@ -2,10 +2,12 @@
   "id": 1763522017,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-16",
+    "date:cessation_upper": "2022-04-16",
     "date:inception_lower": "2022-04-16",
     "date:inception_upper": "2022-04-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-16",
+    "edtf:cessation": "2022-04-16T18:13:00Z",
+    "edtf:inception": "2022-04-16T16:35:00Z",
     "flysfo:actual_timestamp": 1650133020,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-16",
@@ -21,9 +23,11 @@
     "geom:latitude": 42.529906499999996,
     "geom:longitude": -122.3376055,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.621076,
     "lbl:longitude": -122.390239,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533269,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N878UA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "20557832",
+      "swim:gufi": "KS51555700"
+    },
     "wof:country": "US",
     "wof:created": 1650211942,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -84,9 +97,10 @@
       102527513,
       102533269,
       1159285413,
-      1745882293
+      1745882293,
+      1159289407
     ],
-    "wof:lastmodified": 1650211942,
+    "wof:lastmodified": 1650212736,
     "wof:name": "UA2451 (SEA-SFO)",
     "wof:parent_id": 1745882293,
     "wof:placetype": "custom",

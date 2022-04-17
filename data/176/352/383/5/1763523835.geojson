@@ -2,10 +2,12 @@
   "id": 1763523835,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-16",
+    "date:cessation_upper": "2022-04-16",
     "date:inception_lower": "2022-04-16",
     "date:inception_upper": "2022-04-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-16",
+    "edtf:cessation": "2022-04-16T17:20:00Z",
+    "edtf:inception": "2022-04-16T16:26:00Z",
     "flysfo:actual_timestamp": 1650125160,
     "flysfo:airline": "F9",
     "flysfo:date": "2022-04-16",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.838961999999995,
     "geom:longitude": -119.97934599999999,
     "iata:airline": "F9",
+    "icao:aircraft": "A321",
     "icao:airline": "FFT",
     "lbl:latitude": 37.611664,
     "lbl:longitude": -122.390495,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159284401,
     "sfomuseum:arrival_id": 102533575,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,7 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "swim:tail_number": "N702FR",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +53,9 @@
       1745882335,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "20556473"
+    },
     "wof:country": "US",
     "wof:created": 1650212388,
     "wof:geomhash": "ec8e91229a6790516c63cb7081c35777",
@@ -81,12 +89,13 @@
     ],
     "wof:id": 1763523835,
     "wof:involves": [
+      1159289411,
       102533575,
       102527513,
       1159284401,
       1745882399
     ],
-    "wof:lastmodified": 1650212388,
+    "wof:lastmodified": 1650212729,
     "wof:name": "F92754 (SFO-ONT)",
     "wof:parent_id": 1745882399,
     "wof:placetype": "custom",

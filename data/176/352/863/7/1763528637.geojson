@@ -2,10 +2,12 @@
   "id": 1763528637,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-17",
+    "date:cessation_upper": "2022-04-17",
     "date:inception_lower": "2022-04-17",
     "date:inception_upper": "2022-04-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-17",
+    "edtf:cessation": "2022-04-17T06:59:00Z",
+    "edtf:inception": "2022-04-17T03:00:00Z",
     "flysfo:actual_timestamp": 1650178920,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-17",
@@ -21,9 +23,11 @@
     "geom:latitude": 33.797588,
     "geom:longitude": -108.8546935,
     "iata:airline": "UA",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "lbl:latitude": 37.619451,
     "lbl:longitude": -122.384404,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102534097,
@@ -48,6 +52,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "20601288",
+      "swim:gufi": "KH02737100"
+    },
     "wof:country": "US",
     "wof:created": 1650298380,
     "wof:geomhash": "25dc9d98eae1cd54f40654c6c4fb6929",
@@ -81,12 +89,13 @@
     ],
     "wof:id": 1763528637,
     "wof:involves": [
+      1377564285,
       102527513,
       102534097,
       1159285413,
       1745882315
     ],
-    "wof:lastmodified": 1650298380,
+    "wof:lastmodified": 1650299214,
     "wof:name": "UA288 (IAH-SFO)",
     "wof:parent_id": 1745882315,
     "wof:placetype": "custom",

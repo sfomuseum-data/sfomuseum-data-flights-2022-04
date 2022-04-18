@@ -2,10 +2,12 @@
   "id": 1763531247,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-17",
+    "date:cessation_upper": "2022-04-17",
     "date:inception_lower": "2022-04-17",
     "date:inception_upper": "2022-04-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-17",
+    "edtf:cessation": "2022-04-17T20:58:00Z",
+    "edtf:inception": "2022-04-17T16:44:00Z",
     "flysfo:actual_timestamp": 1650213060,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-17",
@@ -21,9 +23,11 @@
     "geom:latitude": 32.0754675,
     "geom:longitude": -102.06817749999999,
     "iata:airline": "UA",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "lbl:latitude": 37.619451,
     "lbl:longitude": -122.384404,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533509,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N77258",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "20633272",
+      "swim:gufi": "KO46224100"
+    },
     "wof:country": "US",
     "wof:created": 1650299050,
     "wof:geomhash": "faeea62a404843145345d63bcb6a7990",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1763531247,
     "wof:involves": [
+      1159289871,
       102533509,
       102527513,
       1159285413,
       1745882315
     ],
-    "wof:lastmodified": 1650299050,
+    "wof:lastmodified": 1650299208,
     "wof:name": "UA1540 (SFO-RSW)",
     "wof:parent_id": 1745882315,
     "wof:placetype": "custom",

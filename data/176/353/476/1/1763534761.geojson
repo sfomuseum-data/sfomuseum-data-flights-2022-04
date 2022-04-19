@@ -2,10 +2,12 @@
   "id": 1763534761,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-18",
+    "date:cessation_upper": "2022-04-18",
     "date:inception_lower": "2022-04-18",
     "date:inception_upper": "2022-04-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-18",
+    "edtf:cessation": "2022-04-18T14:08:11-07:00",
+    "edtf:inception": "2022-04-18T23:50:00Z",
     "flysfo:actual_timestamp": 1650341700,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-18",
@@ -21,9 +23,11 @@
     "geom:latitude": 29.475248999999998,
     "geom:longitude": -140.1446795,
     "iata:airline": "UA",
+    "icao:aircraft": "B77W",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61844,
     "lbl:longitude": -122.392214,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533997,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N2135U",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,10 @@
       1745882335,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "20732993",
+      "swim:gufi": "KO09739300"
+    },
     "wof:country": "US",
     "wof:created": 1650384699,
     "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1763534761,
     "wof:involves": [
+      1745882427,
+      1159289993,
       102527513,
       102533997,
-      1159285413,
-      1745882427
+      1159285413
     ],
-    "wof:lastmodified": 1650384699,
+    "wof:lastmodified": 1650385542,
     "wof:name": "UA1141 (HNL-SFO)",
     "wof:parent_id": 1745882427,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1763535783,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-18",
+    "date:cessation_upper": "2022-04-18",
     "date:inception_lower": "2022-04-18",
     "date:inception_upper": "2022-04-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-18",
+    "edtf:cessation": "2022-04-18T23:37:37Z",
+    "edtf:inception": "2022-04-18T19:07:00Z",
     "flysfo:actual_timestamp": 1650307800,
     "flysfo:airline": "AC",
     "flysfo:date": "2022-04-18",
@@ -21,9 +23,11 @@
     "geom:latitude": 40.647171,
     "geom:longitude": -100.9996425,
     "iata:airline": "AC",
+    "icao:aircraft": "B38M",
     "icao:airline": "ACA",
     "lbl:latitude": 37.61776,
     "lbl:longitude": -122.3918,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102555091,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "CGEKZ",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -81,12 +90,13 @@
     ],
     "wof:id": 1763535783,
     "wof:involves": [
-      102555091,
       102527513,
       1159283597,
-      1745882411
+      1745882411,
+      1528104575,
+      102555091
     ],
-    "wof:lastmodified": 1650384953,
+    "wof:lastmodified": 1650385534,
     "wof:name": "AC740 (SFO-YYZ)",
     "wof:parent_id": 1745882411,
     "wof:placetype": "custom",

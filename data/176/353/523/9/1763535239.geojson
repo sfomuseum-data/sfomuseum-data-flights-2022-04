@@ -2,10 +2,12 @@
   "id": 1763535239,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-18",
+    "date:cessation_upper": "2022-04-18",
     "date:inception_lower": "2022-04-18",
     "date:inception_upper": "2022-04-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-18",
+    "edtf:cessation": "2022-04-18T23:20:00Z",
+    "edtf:inception": "2022-04-18T12:59:00Z",
     "flysfo:actual_timestamp": 1650324300,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-18",
@@ -21,9 +23,11 @@
     "geom:latitude": 44.9663905,
     "geom:longitude": -58.794018,
     "iata:airline": "UA",
+    "icao:aircraft": "B789",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618742,
     "lbl:longitude": -122.392935,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102542801,
@@ -48,6 +52,10 @@
       1745882335,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "20687576",
+      "swim:gufi": "KS75037200"
+    },
     "wof:country": "US",
     "wof:created": 1650384819,
     "wof:geomhash": "bfe9b4dfbd612ca8de6bd9460273f90d",
@@ -81,12 +89,13 @@
     ],
     "wof:id": 1763535239,
     "wof:involves": [
-      102527513,
       102542801,
       1159285413,
-      1745882421
+      1745882421,
+      1159293215,
+      102527513
     ],
-    "wof:lastmodified": 1650384819,
+    "wof:lastmodified": 1650385533,
     "wof:name": "UA969 (AMS-SFO)",
     "wof:parent_id": 1745882421,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1763533427,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-19",
+    "date:cessation_upper": "2022-04-19",
     "date:inception_lower": "2022-04-18",
     "date:inception_upper": "2022-04-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-18",
+    "edtf:cessation": "2022-04-19T03:25:00Z",
+    "edtf:inception": "2022-04-18T21:35:00Z",
     "flysfo:actual_timestamp": 1650338880,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-04-18",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.1546165,
     "geom:longitude": -98.2742345,
     "iata:airline": "AS",
+    "icao:aircraft": "B738",
     "icao:airline": "ASA",
     "lbl:latitude": 37.617092,
     "lbl:longitude": -122.381656,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102530049,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N594AS",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -84,9 +93,10 @@
       102527513,
       102530049,
       1159283813,
-      1745882095
+      1745882095,
+      1159289871
     ],
-    "wof:lastmodified": 1650384365,
+    "wof:lastmodified": 1650385540,
     "wof:name": "AS183 (EWR-SFO)",
     "wof:parent_id": 1745882095,
     "wof:placetype": "custom",

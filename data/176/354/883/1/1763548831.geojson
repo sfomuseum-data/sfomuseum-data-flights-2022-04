@@ -2,10 +2,12 @@
   "id": 1763548831,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-19",
+    "date:cessation_upper": "2022-04-19",
     "date:inception_lower": "2022-04-19",
     "date:inception_upper": "2022-04-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-19",
+    "edtf:cessation": "2022-04-19T02:22:32-07:00",
+    "edtf:inception": "2022-04-19T08:15:00Z",
     "flysfo:actual_timestamp": 1650409200,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-19",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.686867,
     "geom:longitude": 9.012156999999995,
     "iata:airline": "UA",
+    "icao:aircraft": "B77W",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102541685,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N2846U",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "20751225"
+    },
     "wof:country": "US",
     "wof:created": 1650471187,
     "wof:geomhash": "d46bcc8d1d94e68df95be799ac6a3b4c",
@@ -45,12 +57,12 @@
     ],
     "wof:id": 1763548831,
     "wof:involves": [
+      1159289993,
       102527513,
       102541685,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1650471187,
+    "wof:lastmodified": 1650472225,
     "wof:name": "UA2795 (NRT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

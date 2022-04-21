@@ -2,10 +2,12 @@
   "id": 1763553909,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-04-20",
-    "date:inception_upper": "2022-04-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-20",
+    "date:cessation_lower": "2022-04-21",
+    "date:cessation_upper": "2022-04-21",
+    "date:inception_lower": "2022-04-21",
+    "date:inception_upper": "2022-04-21",
+    "edtf:cessation": "2022-04-21T06:34:22Z",
+    "edtf:inception": "2022-04-21T04:56:00Z",
     "flysfo:actual_timestamp": 1650523140,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-04-20",
@@ -21,9 +23,11 @@
     "geom:latitude": 41.602067,
     "geom:longitude": -122.484166,
     "iata:airline": "AS",
+    "icao:aircraft": "A320",
     "icao:airline": "ASA",
     "lbl:latitude": 37.617421,
     "lbl:longitude": -122.380916,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102532251,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N364VA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,9 @@
       1745882085,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "20832608"
+    },
     "wof:country": "US",
     "wof:created": 1650557178,
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
@@ -81,12 +93,13 @@
     ],
     "wof:id": 1763553909,
     "wof:involves": [
-      102527513,
       102532251,
       1159283813,
-      1745882107
+      1745882107,
+      1159292085,
+      102527513
     ],
-    "wof:lastmodified": 1650557178,
+    "wof:lastmodified": 1650558358,
     "wof:name": "AS265 (PDX-SFO)",
     "wof:parent_id": 1745882107,
     "wof:placetype": "custom",

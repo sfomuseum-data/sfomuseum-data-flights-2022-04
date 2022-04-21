@@ -2,10 +2,12 @@
   "id": 1763553857,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-04-20",
-    "date:inception_upper": "2022-04-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-20",
+    "date:cessation_lower": "2022-04-21",
+    "date:cessation_upper": "2022-04-21",
+    "date:inception_lower": "2022-04-21",
+    "date:inception_upper": "2022-04-21",
+    "edtf:cessation": "2022-04-21T05:39:00Z",
+    "edtf:inception": "2022-04-21T02:04:00Z",
     "flysfo:actual_timestamp": 1650519660,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-04-20",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.231919500000004,
     "geom:longitude": -109.610733,
     "iata:airline": "AS",
+    "icao:aircraft": "A320",
     "icao:airline": "ASA",
     "lbl:latitude": 37.616969,
     "lbl:longitude": -122.381363,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102525799,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N836VA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,9 @@
       1745882085,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "20824382"
+    },
     "wof:country": "US",
     "wof:created": 1650557165,
     "wof:geomhash": "ecfc64ce72b903780fc129f985c12eef",
@@ -81,12 +93,13 @@
     ],
     "wof:id": 1763553857,
     "wof:involves": [
+      1159292085,
       102527513,
       102525799,
       1159283813,
       1745882097
     ],
-    "wof:lastmodified": 1650557165,
+    "wof:lastmodified": 1650558358,
     "wof:name": "AS131 (DAL-SFO)",
     "wof:parent_id": 1745882097,
     "wof:placetype": "custom",

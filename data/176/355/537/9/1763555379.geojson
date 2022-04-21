@@ -2,10 +2,12 @@
   "id": 1763555379,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-21",
+    "date:cessation_upper": "2022-04-21",
     "date:inception_lower": "2022-04-20",
     "date:inception_upper": "2022-04-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-20",
+    "edtf:cessation": "2022-04-21T04:59:50Z",
+    "edtf:inception": "2022-04-20T22:45:00Z",
     "flysfo:actual_timestamp": 1650517980,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-20",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.990156,
     "geom:longitude": -96.6928465,
     "iata:airline": "UA",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617835,
     "lbl:longitude": -122.388019,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102530741,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N37528",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "20901821",
+      "swim:gufi": "KB75202400"
+    },
     "wof:country": "US",
     "wof:created": 1650557553,
     "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1763555379,
     "wof:involves": [
+      1528104577,
       102527513,
       102530741,
       1159285413,
       1745882249
     ],
-    "wof:lastmodified": 1650557553,
+    "wof:lastmodified": 1650558352,
     "wof:name": "UA2400 (BOS-SFO)",
     "wof:parent_id": 1745882249,
     "wof:placetype": "custom",

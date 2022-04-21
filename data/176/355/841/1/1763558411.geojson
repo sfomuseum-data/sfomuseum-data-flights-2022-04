@@ -2,10 +2,12 @@
   "id": 1763558411,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-21",
+    "date:cessation_upper": "2022-04-21",
     "date:inception_lower": "2022-04-20",
     "date:inception_upper": "2022-04-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-20",
+    "edtf:cessation": "2022-04-21T05:40:32Z",
+    "edtf:inception": "2022-04-20T18:01:00Z",
     "flysfo:actual_timestamp": 1650476160,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-20",
@@ -21,9 +23,11 @@
     "geom:latitude": 37.535978,
     "geom:longitude": 2.1453445,
     "iata:airline": "UA",
+    "icao:aircraft": "B789",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617615,
     "lbl:longitude": -122.390247,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102556451,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N26966",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,10 @@
       1745882335,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "20876081",
+      "swim:gufi": "KO56636400"
+    },
     "wof:country": "US",
     "wof:created": 1650558307,
     "wof:geomhash": "76fab8ba90cc172f777e745d124625d2",
@@ -84,9 +97,10 @@
       102556451,
       102527513,
       1159285413,
-      1745882407
+      1745882407,
+      1159293215
     ],
-    "wof:lastmodified": 1650558307,
+    "wof:lastmodified": 1650558366,
     "wof:name": "UA893 (SFO-ICN)",
     "wof:parent_id": 1745882407,
     "wof:placetype": "custom",

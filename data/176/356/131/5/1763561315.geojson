@@ -2,10 +2,12 @@
   "id": 1763561315,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-22",
+    "date:cessation_upper": "2022-04-22",
     "date:inception_lower": "2022-04-21",
     "date:inception_upper": "2022-04-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-21",
+    "edtf:cessation": "2022-04-22T05:22:00Z",
+    "edtf:inception": "2022-04-21T22:46:00Z",
     "flysfo:actual_timestamp": 1650609180,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-04-21",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.990156,
     "geom:longitude": -96.6928465,
     "iata:airline": "AS",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "lbl:latitude": 37.616987,
     "lbl:longitude": -122.382479,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102530741,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N277AK",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +56,9 @@
       1745882085,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "20994092"
+    },
     "wof:country": "US",
     "wof:created": 1650643605,
     "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
@@ -81,12 +92,13 @@
     ],
     "wof:id": 1763561315,
     "wof:involves": [
+      1377564285,
       102527513,
       102530741,
       1159283813,
       1745882089
     ],
-    "wof:lastmodified": 1650643605,
+    "wof:lastmodified": 1650644864,
     "wof:name": "AS1352 (BOS-SFO)",
     "wof:parent_id": 1745882089,
     "wof:placetype": "custom",

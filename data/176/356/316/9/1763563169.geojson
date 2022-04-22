@@ -2,10 +2,12 @@
   "id": 1763563169,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-21",
+    "date:cessation_upper": "2022-04-21",
     "date:inception_lower": "2022-04-21",
     "date:inception_upper": "2022-04-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-21",
+    "edtf:cessation": "2022-04-21T08:33:48-07:00",
+    "edtf:inception": "2022-04-21T11:56:00Z",
     "flysfo:actual_timestamp": 1650580740,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-21",
@@ -21,9 +23,11 @@
     "geom:latitude": 43.781954,
     "geom:longitude": -57.5518295,
     "iata:airline": "UA",
+    "icao:aircraft": "B77W",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617906,
     "lbl:longitude": -122.390944,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102549057,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N2645U",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,10 @@
       1745882335,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "20933982",
+      "swim:gufi": "KS72822500"
+    },
     "wof:country": "US",
     "wof:created": 1650644065,
     "wof:geomhash": "ec6660f1f317e7fe021c7c410168f722",
@@ -84,9 +98,10 @@
       102527513,
       102549057,
       1159285413,
-      1745882413
+      1745882413,
+      1159289993
     ],
-    "wof:lastmodified": 1650644065,
+    "wof:lastmodified": 1650644871,
     "wof:name": "UA59 (FRA-SFO)",
     "wof:parent_id": 1745882413,
     "wof:placetype": "custom",

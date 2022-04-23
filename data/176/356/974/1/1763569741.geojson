@@ -2,10 +2,12 @@
   "id": 1763569741,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-04-22",
-    "date:inception_upper": "2022-04-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-22",
+    "date:cessation_lower": "2022-04-23",
+    "date:cessation_upper": "2022-04-23",
+    "date:inception_lower": "2022-04-23",
+    "date:inception_upper": "2022-04-23",
+    "edtf:cessation": "2022-04-23T04:06:03Z",
+    "edtf:inception": "2022-04-23T02:33:00Z",
     "flysfo:actual_timestamp": 1650687060,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-22",
@@ -21,9 +23,11 @@
     "geom:latitude": 42.529906499999996,
     "geom:longitude": -122.3376055,
     "iata:airline": "UA",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618139,
     "lbl:longitude": -122.381258,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533269,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N68807",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,10 @@
       1745882085,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21011474",
+      "swim:gufi": "KS02438700"
+    },
     "wof:country": "US",
     "wof:created": 1650730270,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1763569741,
     "wof:involves": [
+      1377564285,
       102527513,
       102533269,
       1159285413,
       1745882111
     ],
-    "wof:lastmodified": 1650730270,
+    "wof:lastmodified": 1650731125,
     "wof:name": "UA1061 (SEA-SFO)",
     "wof:parent_id": 1745882111,
     "wof:placetype": "custom",

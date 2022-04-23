@@ -2,10 +2,12 @@
   "id": 1763570351,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-22",
+    "date:cessation_upper": "2022-04-22",
     "date:inception_lower": "2022-04-22",
     "date:inception_upper": "2022-04-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-22",
+    "edtf:cessation": "2022-04-22T23:53:00Z",
+    "edtf:inception": "2022-04-22T06:02:05-07:00",
     "flysfo:actual_timestamp": 1650656940,
     "flysfo:airline": "AA",
     "flysfo:date": "2022-04-22",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.800514,
     "geom:longitude": -105.1326535,
     "iata:airline": "AA",
+    "icao:aircraft": "A321",
     "icao:airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102533631,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N143AN",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +56,9 @@
       1745882137,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21075306"
+    },
     "wof:country": "US",
     "wof:created": 1650730423,
     "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
@@ -81,12 +92,13 @@
     ],
     "wof:id": 1763570351,
     "wof:involves": [
-      102533631,
       102527513,
       1159283849,
-      1745882169
+      1745882169,
+      1159289411,
+      102533631
     ],
-    "wof:lastmodified": 1650730423,
+    "wof:lastmodified": 1650731118,
     "wof:name": "AA2014 (SFO-ORD)",
     "wof:parent_id": 1745882169,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1763571207,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-22",
+    "date:cessation_upper": "2022-04-22",
     "date:inception_lower": "2022-04-22",
     "date:inception_upper": "2022-04-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-22",
+    "edtf:cessation": "2022-04-22T03:21:47Z",
+    "edtf:inception": "2022-04-22T02:28:00Z",
     "flysfo:actual_timestamp": 1650677820,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-04-22",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.780291500000004,
     "geom:longitude": -120.38022649999999,
     "iata:airline": "AS",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "lbl:latitude": 37.617421,
     "lbl:longitude": -122.380916,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N292AK",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +56,9 @@
       1745882085,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21009147"
+    },
     "wof:country": "US",
     "wof:created": 1650730630,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -81,12 +92,13 @@
     ],
     "wof:id": 1763571207,
     "wof:involves": [
+      1377564285,
       102533795,
       102527513,
       1159283813,
       1745882107
     ],
-    "wof:lastmodified": 1650730630,
+    "wof:lastmodified": 1650731121,
     "wof:name": "AS213 (SFO-LAX)",
     "wof:parent_id": 1745882107,
     "wof:placetype": "custom",

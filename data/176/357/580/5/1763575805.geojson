@@ -2,10 +2,12 @@
   "id": 1763575805,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-23",
+    "date:cessation_upper": "2022-04-23",
     "date:inception_lower": "2022-04-23",
     "date:inception_upper": "2022-04-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-23",
+    "edtf:cessation": "2022-04-23T07:26:09-07:00",
+    "edtf:inception": "2022-04-23T20:14:00Z",
     "flysfo:actual_timestamp": 1650749460,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-23",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.7213045,
     "geom:longitude": -119.4384925,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618339,
     "lbl:longitude": -122.387219,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533591,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N872UA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21168142",
+      "swim:gufi": "KL63792700"
+    },
     "wof:country": "US",
     "wof:created": 1650816705,
     "wof:geomhash": "a35a6e87f0ae0f1f716f88067ee31aa3",
@@ -81,12 +95,13 @@
     ],
     "wof:id": 1763575805,
     "wof:involves": [
+      1159289407,
       102527513,
       102533591,
       1159285413,
       1745882255
     ],
-    "wof:lastmodified": 1650816705,
+    "wof:lastmodified": 1650817522,
     "wof:name": "UA1660 (PSP-SFO)",
     "wof:parent_id": 1745882255,
     "wof:placetype": "custom",

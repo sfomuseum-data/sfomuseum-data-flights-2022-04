@@ -2,10 +2,12 @@
   "id": 1763578673,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-23",
+    "date:cessation_upper": "2022-04-23",
     "date:inception_lower": "2022-04-23",
     "date:inception_upper": "2022-04-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-23",
+    "edtf:cessation": "2022-04-23T22:19:00Z",
+    "edtf:inception": "2022-04-23T17:42:00Z",
     "flysfo:actual_timestamp": 1650734580,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-23",
@@ -21,9 +23,11 @@
     "geom:latitude": 32.795441,
     "geom:longitude": -102.4509355,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617477,
     "lbl:longitude": -122.388302,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533243,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N412UA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21151460",
+      "swim:gufi": "KO53787700"
+    },
     "wof:country": "US",
     "wof:created": 1650817410,
     "wof:geomhash": "eed3ad030b4c80153105b635669626b5",
@@ -84,9 +97,10 @@
       102533243,
       102527513,
       1159285413,
-      1745882247
+      1745882247,
+      1159292085
     ],
-    "wof:lastmodified": 1650817410,
+    "wof:lastmodified": 1650817528,
     "wof:name": "UA2670 (SFO-TPA)",
     "wof:parent_id": 1745882247,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1763577231,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-23",
+    "date:cessation_upper": "2022-04-23",
     "date:inception_lower": "2022-04-23",
     "date:inception_upper": "2022-04-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-23",
+    "edtf:cessation": "2022-04-23T15:14:51Z",
+    "edtf:inception": "2022-04-23T14:11:00Z",
     "flysfo:actual_timestamp": 1650722160,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-04-23",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.8494965,
     "geom:longitude": -118.7636915,
     "iata:airline": "AS",
+    "icao:aircraft": "A320",
     "icao:airline": "ASA",
     "lbl:latitude": 37.618149,
     "lbl:longitude": -122.381669,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527209,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N835VA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -81,12 +90,13 @@
     ],
     "wof:id": 1763577231,
     "wof:involves": [
+      1159292085,
       102527209,
       102527513,
       1159283813,
       1745882117
     ],
-    "wof:lastmodified": 1650817055,
+    "wof:lastmodified": 1650817534,
     "wof:name": "AS238 (SFO-LAS)",
     "wof:parent_id": 1745882117,
     "wof:placetype": "custom",

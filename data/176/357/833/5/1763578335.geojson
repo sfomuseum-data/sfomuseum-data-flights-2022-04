@@ -2,10 +2,12 @@
   "id": 1763578335,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-23",
+    "date:cessation_upper": "2022-04-23",
     "date:inception_lower": "2022-04-23",
     "date:inception_upper": "2022-04-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-23",
+    "edtf:cessation": "2022-04-23T18:38:25Z",
+    "edtf:inception": "2022-04-23T17:12:00Z",
     "flysfo:actual_timestamp": 1650733380,
     "flysfo:airline": "WN",
     "flysfo:date": "2022-04-23",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.525337,
     "geom:longitude": -117.19416749999999,
     "iata:airline": "WN",
+    "icao:aircraft": "B737",
     "icao:airline": "SWA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289869,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102526751,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N233LV",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,9 @@
       1745882137,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21151045"
+    },
     "wof:country": "US",
     "wof:created": 1650817327,
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
@@ -84,9 +97,10 @@
       102526751,
       102527513,
       1159285591,
-      1745882151
+      1745882151,
+      1159289869
     ],
-    "wof:lastmodified": 1650817327,
+    "wof:lastmodified": 1650817527,
     "wof:name": "WN3167 (SFO-PHX)",
     "wof:parent_id": 1745882151,
     "wof:placetype": "custom",

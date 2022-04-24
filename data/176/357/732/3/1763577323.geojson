@@ -2,10 +2,12 @@
   "id": 1763577323,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-23",
+    "date:cessation_upper": "2022-04-23",
     "date:inception_lower": "2022-04-23",
     "date:inception_upper": "2022-04-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-23",
+    "edtf:cessation": "2022-04-23T23:24:31Z",
+    "edtf:inception": "2022-04-23T18:45:00Z",
     "flysfo:actual_timestamp": 1650738540,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-04-23",
@@ -21,9 +23,11 @@
     "geom:latitude": 29.3291535,
     "geom:longitude": -104.6218995,
     "iata:airline": "AS",
+    "icao:aircraft": "B738",
     "icao:airline": "ASA",
     "lbl:latitude": 37.616838,
     "lbl:longitude": -122.380969,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102536223,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N589AS",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,9 @@
       1745882085,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21159725"
+    },
     "wof:country": "US",
     "wof:created": 1650817078,
     "wof:geomhash": "d26f8a4a9d40aeb65e997520007d0d60",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1763577323,
     "wof:involves": [
-      102536223,
-      102527513,
       1159283813,
-      1745882101
+      1745882101,
+      1159289871,
+      102536223,
+      102527513
     ],
-    "wof:lastmodified": 1650817078,
+    "wof:lastmodified": 1650817525,
     "wof:name": "AS592 (SFO-CUN)",
     "wof:parent_id": 1745882101,
     "wof:placetype": "custom",

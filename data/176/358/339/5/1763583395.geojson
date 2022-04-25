@@ -2,10 +2,12 @@
   "id": 1763583395,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-24",
+    "date:cessation_upper": "2022-04-24",
     "date:inception_lower": "2022-04-24",
     "date:inception_upper": "2022-04-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-24",
+    "edtf:cessation": "2022-04-24T22:18:12Z",
+    "edtf:inception": "2022-04-24T19:40:00Z",
     "flysfo:actual_timestamp": 1650828120,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-04-24",
@@ -21,9 +23,11 @@
     "geom:latitude": 30.389476000000002,
     "geom:longitude": -116.044202,
     "iata:airline": "AS",
+    "icao:aircraft": "B738",
     "icao:airline": "ASA",
     "lbl:latitude": 37.616838,
     "lbl:longitude": -122.380969,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102536441,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N566AS",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,9 @@
       1745882085,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21258674"
+    },
     "wof:country": "US",
     "wof:created": 1650903505,
     "wof:geomhash": "7babf6b9ba279da48525185e0724d212",
@@ -81,12 +93,13 @@
     ],
     "wof:id": 1763583395,
     "wof:involves": [
-      102536441,
       102527513,
       1159283813,
-      1745882101
+      1745882101,
+      1159289871,
+      102536441
     ],
-    "wof:lastmodified": 1650903505,
+    "wof:lastmodified": 1650903991,
     "wof:name": "AS9250 (SFO-SJD)",
     "wof:parent_id": 1745882101,
     "wof:placetype": "custom",

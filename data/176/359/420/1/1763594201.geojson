@@ -1,0 +1,69 @@
+{
+  "id": 1763594201,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2022-04-25",
+    "date:inception_upper": "2022-04-25",
+    "edtf:cessation": "",
+    "edtf:inception": "2022-04-25",
+    "flysfo:actual_timestamp": 1650927600,
+    "flysfo:airline": "TK",
+    "flysfo:date": "2022-04-25",
+    "flysfo:estimated_timestamp": 1650938760,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "TK25",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-IST",
+    "flysfo:scheduled_timestamp": 1650936600,
+    "flysfo:timestamp": 1650938760,
+    "geom:area": 0,
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
+    "geom:latitude": 0,
+    "geom:longitude": 0,
+    "iata:airline": "TK",
+    "icao:airline": "THY",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285391,
+    "sfomuseum:arrival_id": 102535819,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20220425-D-THY-25",
+    "sfomuseum:flight_number": [
+      "THY25",
+      "TK25"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1650990144,
+    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1763594201
+      }
+    ],
+    "wof:id": 1763594201,
+    "wof:involves": [
+      102535819,
+      102527513,
+      1159285391,
+      -1
+    ],
+    "wof:lastmodified": 1650990144,
+    "wof:name": "TK25 (SFO-IST)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2022-04",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+}

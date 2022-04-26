@@ -2,10 +2,12 @@
   "id": 1763591947,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-04-25",
-    "date:inception_upper": "2022-04-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-25",
+    "date:cessation_lower": "2022-04-26",
+    "date:cessation_upper": "2022-04-26",
+    "date:inception_lower": "2022-04-26",
+    "date:inception_upper": "2022-04-26",
+    "edtf:cessation": "2022-04-25T23:48:32-07:00",
+    "edtf:inception": "2022-04-26T00:35:00Z",
     "flysfo:actual_timestamp": 1650896520,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-25",
@@ -21,9 +23,11 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iata:airline": "UA",
+    "icao:aircraft": "B77W",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102557783,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N2135U",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,9 @@
       1745882335,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO44432300"
+    },
     "wof:country": "US",
     "wof:created": 1650989590,
     "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
@@ -81,12 +93,13 @@
     ],
     "wof:id": 1763591947,
     "wof:involves": [
+      1159289993,
       102527513,
       102557783,
       1159285413,
       1745882429
     ],
-    "wof:lastmodified": 1650989590,
+    "wof:lastmodified": 1650990350,
     "wof:name": "UA870 (SYD-SFO)",
     "wof:parent_id": 1745882429,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1763589335,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-04-25",
-    "date:inception_upper": "2022-04-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-25",
+    "date:cessation_lower": "2022-04-25",
+    "date:cessation_upper": "2022-04-25",
+    "date:inception_lower": "2022-04-26",
+    "date:inception_upper": "2022-04-26",
+    "edtf:cessation": "2022-04-25T12:03:00-07:00",
+    "edtf:inception": "2022-04-26T00:25:00Z",
     "flysfo:actual_timestamp": 1650939060,
     "flysfo:airline": "AA",
     "flysfo:date": "2022-04-25",
@@ -21,9 +23,11 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iata:airline": "AA",
+    "icao:aircraft": "B738",
     "icao:airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102526751,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N980NN",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,9 @@
       1745882137,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KA82516200"
+    },
     "wof:country": "US",
     "wof:created": 1650988925,
     "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
@@ -81,12 +93,13 @@
     ],
     "wof:id": 1763589335,
     "wof:involves": [
+      1159289871,
       102527513,
       102526751,
       1159283849,
       1745882187
     ],
-    "wof:lastmodified": 1650988925,
+    "wof:lastmodified": 1650990336,
     "wof:name": "AA629 (PHX-SFO)",
     "wof:parent_id": 1745882187,
     "wof:placetype": "custom",

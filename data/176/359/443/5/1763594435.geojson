@@ -2,10 +2,12 @@
   "id": 1763594435,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-25",
+    "date:cessation_upper": "2022-04-25",
     "date:inception_lower": "2022-04-25",
     "date:inception_upper": "2022-04-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-25",
+    "edtf:cessation": "2022-04-25T19:12:28Z",
+    "edtf:inception": "2022-04-25T17:42:00Z",
     "flysfo:actual_timestamp": 1650907800,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-25",
@@ -21,9 +23,11 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618486,
     "lbl:longitude": -122.384457,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102526751,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N872UA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21317124",
+      "swim:gufi": "KO51996200"
+    },
     "wof:country": "US",
     "wof:created": 1650990201,
     "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
@@ -81,12 +95,13 @@
     ],
     "wof:id": 1763594435,
     "wof:involves": [
+      1159289407,
       102526751,
       102527513,
       1159285413,
       1745882303
     ],
-    "wof:lastmodified": 1650990201,
+    "wof:lastmodified": 1650990347,
     "wof:name": "UA2376 (SFO-PHX)",
     "wof:parent_id": 1745882303,
     "wof:placetype": "custom",

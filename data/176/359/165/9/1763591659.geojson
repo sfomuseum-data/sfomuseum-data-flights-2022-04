@@ -2,10 +2,12 @@
   "id": 1763591659,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-25",
+    "date:cessation_upper": "2022-04-25",
     "date:inception_lower": "2022-04-25",
     "date:inception_upper": "2022-04-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-25",
+    "edtf:cessation": "2022-04-25T02:26:26-07:00",
+    "edtf:inception": "2022-04-25T15:02:00Z",
     "flysfo:actual_timestamp": 1650904380,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-25",
@@ -21,9 +23,11 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iata:airline": "UA",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618102,
     "lbl:longitude": -122.38769,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102532251,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N69819",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21301774",
+      "swim:gufi": "KS45539200"
+    },
     "wof:country": "US",
     "wof:created": 1650989519,
     "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
@@ -81,12 +95,13 @@
     ],
     "wof:id": 1763591659,
     "wof:involves": [
+      1745882251,
+      1377564285,
       102527513,
       102532251,
-      1159285413,
-      1745882251
+      1159285413
     ],
-    "wof:lastmodified": 1650989519,
+    "wof:lastmodified": 1650990349,
     "wof:name": "UA2351 (PDX-SFO)",
     "wof:parent_id": 1745882251,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1763591689,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-25",
+    "date:cessation_upper": "2022-04-25",
     "date:inception_lower": "2022-04-25",
     "date:inception_upper": "2022-04-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-25",
+    "edtf:cessation": "2022-04-25T01:52:31-07:00",
+    "edtf:inception": "2022-04-25T12:24:00Z",
     "flysfo:actual_timestamp": 1650902220,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-25",
@@ -21,9 +23,11 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.619531,
     "lbl:longitude": -122.384262,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102528541,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N490UA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21289444",
+      "swim:gufi": "KF29372200"
+    },
     "wof:country": "US",
     "wof:created": 1650989527,
     "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
@@ -81,12 +95,13 @@
     ],
     "wof:id": 1763591689,
     "wof:involves": [
+      1745882319,
+      1159292085,
       102527513,
       102528541,
-      1159285413,
-      1745882319
+      1159285413
     ],
-    "wof:lastmodified": 1650989527,
+    "wof:lastmodified": 1650990349,
     "wof:name": "UA2669 (DFW-SFO)",
     "wof:parent_id": 1745882319,
     "wof:placetype": "custom",

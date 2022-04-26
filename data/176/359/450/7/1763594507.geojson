@@ -2,10 +2,12 @@
   "id": 1763594507,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-26",
+    "date:cessation_upper": "2022-04-26",
     "date:inception_lower": "2022-04-25",
     "date:inception_upper": "2022-04-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-25",
+    "edtf:cessation": "2022-04-26T01:50:00Z",
+    "edtf:inception": "2022-04-25T10:16:21-07:00",
     "flysfo:actual_timestamp": 1650930060,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-25",
@@ -21,9 +23,11 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.619124,
     "lbl:longitude": -122.383949,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533269,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N876UA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,9 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO80069200"
+    },
     "wof:country": "US",
     "wof:created": 1650990219,
     "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
@@ -81,12 +93,13 @@
     ],
     "wof:id": 1763594507,
     "wof:involves": [
+      1745882313,
+      1159289407,
       102533269,
       102527513,
-      1159285413,
-      1745882313
+      1159285413
     ],
-    "wof:lastmodified": 1650990219,
+    "wof:lastmodified": 1650990347,
     "wof:name": "UA447 (SFO-SEA)",
     "wof:parent_id": 1745882313,
     "wof:placetype": "custom",

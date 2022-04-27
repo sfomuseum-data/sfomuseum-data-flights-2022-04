@@ -1,0 +1,69 @@
+{
+  "id": 1763597775,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2022-04-26",
+    "date:inception_upper": "2022-04-26",
+    "edtf:cessation": "",
+    "edtf:inception": "2022-04-26",
+    "flysfo:actual_timestamp": 1651014000,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2022-04-26",
+    "flysfo:estimated_timestamp": 1651034460,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA1209",
+    "flysfo:gate": "",
+    "flysfo:journey": "ATL-SFO",
+    "flysfo:scheduled_timestamp": 1651034460,
+    "flysfo:timestamp": 1651034460,
+    "geom:area": 0,
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
+    "geom:latitude": 0,
+    "geom:longitude": 0,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102526927,
+    "sfomuseum:flight_id": "20220426-A-UAL-1209",
+    "sfomuseum:flight_number": [
+      "UAL1209",
+      "UA1209"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1651075968,
+    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1763597775
+      }
+    ],
+    "wof:id": 1763597775,
+    "wof:involves": [
+      102527513,
+      102526927,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1651075968,
+    "wof:name": "UA1209 (ATL-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2022-04",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+}

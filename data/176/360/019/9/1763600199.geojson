@@ -1,0 +1,75 @@
+{
+  "id": 1763600199,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2022-04-26",
+    "date:inception_upper": "2022-04-26",
+    "edtf:cessation": "",
+    "edtf:inception": "2022-04-26",
+    "flysfo:actual_timestamp": 1651014000,
+    "flysfo:airline": "QF",
+    "flysfo:base_airline": "AS",
+    "flysfo:base_flight_number": "1001",
+    "flysfo:date": "2022-04-26",
+    "flysfo:estimated_timestamp": 1650985200,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "QF3673",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-DCA",
+    "flysfo:scheduled_timestamp": 1650985200,
+    "flysfo:timestamp": 1651014000,
+    "geom:area": 0,
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
+    "geom:latitude": 0,
+    "geom:longitude": 0,
+    "iata:airline": "QF",
+    "iata:base_airline": "AS",
+    "icao:airline": "QFA",
+    "icao:base_airline": "ASA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285043,
+    "sfomuseum:arrival_id": 1746879047,
+    "sfomuseum:base_flight_id": "20220426-D-ASA-1001",
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20220426-D-QFA-3673",
+    "sfomuseum:flight_number": [
+      "QFA3673",
+      "QF3673"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1651076573,
+    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1763600199
+      }
+    ],
+    "wof:id": 1763600199,
+    "wof:involves": [
+      1746879047,
+      102527513,
+      1159285043,
+      -1,
+      1159283813
+    ],
+    "wof:lastmodified": 1651076573,
+    "wof:name": "QF3673 (SFO-DCA)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2022-04",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+}

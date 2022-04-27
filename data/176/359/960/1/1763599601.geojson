@@ -2,10 +2,12 @@
   "id": 1763599601,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-26",
+    "date:cessation_upper": "2022-04-26",
     "date:inception_lower": "2022-04-26",
     "date:inception_upper": "2022-04-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-26",
+    "edtf:cessation": "2022-04-26T15:26:37Z",
+    "edtf:inception": "2022-04-26T08:53:00Z",
     "flysfo:actual_timestamp": 1651014000,
     "flysfo:airline": "CM",
     "flysfo:date": "2022-04-26",
@@ -21,9 +23,11 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iata:airline": "CM",
+    "icao:aircraft": "B39M",
     "icao:airline": "CMP",
     "lbl:latitude": 37.611664,
     "lbl:longitude": -122.390495,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159284211,
     "sfomuseum:arrival_id": 102547051,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "HP9901",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,9 @@
       1745882335,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21365417"
+    },
     "wof:country": "US",
     "wof:created": 1651076421,
     "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
@@ -84,9 +97,10 @@
       102547051,
       102527513,
       1159284211,
-      1745882399
+      1745882399,
+      1528104577
     ],
-    "wof:lastmodified": 1651076421,
+    "wof:lastmodified": 1651076884,
     "wof:name": "CM383 (SFO-PTY)",
     "wof:parent_id": 1745882399,
     "wof:placetype": "custom",

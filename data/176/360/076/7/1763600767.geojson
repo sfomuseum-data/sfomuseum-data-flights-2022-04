@@ -2,10 +2,12 @@
   "id": 1763600767,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-26",
+    "date:cessation_upper": "2022-04-26",
     "date:inception_lower": "2022-04-26",
     "date:inception_upper": "2022-04-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-26",
+    "edtf:cessation": "2022-04-26T20:34:00Z",
+    "edtf:inception": "2022-04-26T15:51:00Z",
     "flysfo:actual_timestamp": 1650986820,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-26",
@@ -21,9 +23,11 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iata:airline": "UA",
+    "icao:aircraft": "B763",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620791,
     "lbl:longitude": -122.390014,
+    "sfomuseum:aircraft_id": 1159289965,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102530049,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N647UA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21390384",
+      "swim:gufi": "KO47618300"
+    },
     "wof:country": "US",
     "wof:created": 1651076716,
     "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1763600767,
     "wof:involves": [
-      102530049,
-      102527513,
       1159285413,
-      1745882285
+      1745882285,
+      1159289965,
+      102530049,
+      102527513
     ],
-    "wof:lastmodified": 1651076716,
+    "wof:lastmodified": 1651076868,
     "wof:name": "UA2304 (SFO-EWR)",
     "wof:parent_id": 1745882285,
     "wof:placetype": "custom",

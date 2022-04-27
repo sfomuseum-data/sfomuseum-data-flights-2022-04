@@ -2,10 +2,12 @@
   "id": 1763596315,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-26",
+    "date:cessation_upper": "2022-04-26",
     "date:inception_lower": "2022-04-26",
     "date:inception_upper": "2022-04-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-26",
+    "edtf:cessation": "2022-04-26T15:52:35Z",
+    "edtf:inception": "2022-04-26T14:13:00Z",
     "flysfo:actual_timestamp": 1650988920,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-04-26",
@@ -21,9 +23,11 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iata:airline": "AS",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "lbl:latitude": 37.617092,
     "lbl:longitude": -122.381656,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533269,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N921AK",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,9 @@
       1745882085,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21382870"
+    },
     "wof:country": "US",
     "wof:created": 1651075600,
     "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1763596315,
     "wof:involves": [
-      102527513,
       102533269,
       1159283813,
-      1745882095
+      1745882095,
+      1528104577,
+      102527513
     ],
-    "wof:lastmodified": 1651075600,
+    "wof:lastmodified": 1651076869,
     "wof:name": "AS159 (SEA-SFO)",
     "wof:parent_id": 1745882095,
     "wof:placetype": "custom",

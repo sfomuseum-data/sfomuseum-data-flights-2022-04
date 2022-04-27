@@ -2,10 +2,12 @@
   "id": 1763597911,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-26",
+    "date:cessation_upper": "2022-04-26",
     "date:inception_lower": "2022-04-26",
     "date:inception_upper": "2022-04-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-26",
+    "edtf:cessation": "2022-04-26T07:35:14-07:00",
+    "edtf:inception": "2022-04-26T20:44:00Z",
     "flysfo:actual_timestamp": 1651009320,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-26",
@@ -21,9 +23,11 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iata:airline": "UA",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618161,
     "lbl:longitude": -122.384735,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533795,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N14249",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21417613",
+      "swim:gufi": "KL57451300"
+    },
     "wof:country": "US",
     "wof:created": 1651076002,
     "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
@@ -84,9 +98,10 @@
       102527513,
       102533795,
       1159285413,
-      1745882301
+      1745882301,
+      1159289871
     ],
-    "wof:lastmodified": 1651076002,
+    "wof:lastmodified": 1651076879,
     "wof:name": "UA208 (LAX-SFO)",
     "wof:parent_id": 1745882301,
     "wof:placetype": "custom",

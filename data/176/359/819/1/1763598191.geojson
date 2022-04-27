@@ -2,10 +2,12 @@
   "id": 1763598191,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-26",
+    "date:cessation_upper": "2022-04-26",
     "date:inception_lower": "2022-04-26",
     "date:inception_upper": "2022-04-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-26",
+    "edtf:cessation": "2022-04-26T02:12:26-07:00",
+    "edtf:inception": "2022-04-26T10:24:00Z",
     "flysfo:actual_timestamp": 1650990120,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-26",
@@ -21,9 +23,11 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.619531,
     "lbl:longitude": -122.384262,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102529403,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N412UA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21368382",
+      "swim:gufi": "KN24709300"
+    },
     "wof:country": "US",
     "wof:created": 1651076074,
     "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
@@ -81,12 +95,13 @@
     ],
     "wof:id": 1763598191,
     "wof:involves": [
+      1159292085,
       102527513,
       102529403,
       1159285413,
       1745882319
     ],
-    "wof:lastmodified": 1651076074,
+    "wof:lastmodified": 1651076880,
     "wof:name": "UA731 (PHL-SFO)",
     "wof:parent_id": 1745882319,
     "wof:placetype": "custom",

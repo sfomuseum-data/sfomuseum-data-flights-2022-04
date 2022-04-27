@@ -2,10 +2,12 @@
   "id": 1763595965,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-26",
+    "date:cessation_upper": "2022-04-26",
     "date:inception_lower": "2022-04-26",
     "date:inception_upper": "2022-04-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-26",
+    "edtf:cessation": "2022-04-26T19:46:13Z",
+    "edtf:inception": "2022-04-26T08:11:24Z",
     "flysfo:actual_timestamp": 1651004580,
     "flysfo:airline": "NZ",
     "flysfo:date": "2022-04-26",
@@ -21,9 +23,11 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iata:airline": "NZ",
+    "icao:aircraft": "B789",
     "icao:airline": "ANZ",
     "lbl:latitude": 37.61776,
     "lbl:longitude": -122.3918,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159283697,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102552389,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "ZKNZL",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,9 @@
       1745882335,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21364508"
+    },
     "wof:country": "US",
     "wof:created": 1651075511,
     "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1763595965,
     "wof:involves": [
-      102527513,
       102552389,
       1159283697,
-      1745882411
+      1745882411,
+      1159293215,
+      102527513
     ],
-    "wof:lastmodified": 1651075511,
+    "wof:lastmodified": 1651076866,
     "wof:name": "NZ8 (AKL-SFO)",
     "wof:parent_id": 1745882411,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1763597987,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-26",
+    "date:cessation_upper": "2022-04-26",
     "date:inception_lower": "2022-04-26",
     "date:inception_upper": "2022-04-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-26",
+    "edtf:cessation": "2022-04-26T12:08:19-07:00",
+    "edtf:inception": "2022-04-26T20:16:00Z",
     "flysfo:actual_timestamp": 1651025940,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-26",
@@ -21,9 +23,11 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iata:airline": "UA",
+    "icao:aircraft": "B752",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620304,
     "lbl:longitude": -122.388827,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102530049,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N41140",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21414159",
+      "swim:gufi": "KN58352300"
+    },
     "wof:country": "US",
     "wof:created": 1651076021,
     "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
@@ -81,12 +95,13 @@
     ],
     "wof:id": 1763597987,
     "wof:involves": [
+      1159289939,
       102527513,
       102530049,
       1159285413,
       1745882279
     ],
-    "wof:lastmodified": 1651076021,
+    "wof:lastmodified": 1651076880,
     "wof:name": "UA395 (EWR-SFO)",
     "wof:parent_id": 1745882279,
     "wof:placetype": "custom",

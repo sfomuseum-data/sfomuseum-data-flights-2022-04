@@ -2,10 +2,12 @@
   "id": 1763597653,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-04-26",
-    "date:inception_upper": "2022-04-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-26",
+    "date:cessation_lower": "2022-04-27",
+    "date:cessation_upper": "2022-04-27",
+    "date:inception_lower": "2022-04-27",
+    "date:inception_upper": "2022-04-27",
+    "edtf:cessation": "2022-04-27T05:16:00Z",
+    "edtf:inception": "2022-04-27T04:07:00Z",
     "flysfo:actual_timestamp": 1651036800,
     "flysfo:airline": "WN",
     "flysfo:date": "2022-04-26",
@@ -21,9 +23,11 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iata:airline": "WN",
+    "icao:aircraft": "B737",
     "icao:airline": "SWA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289869,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102528997,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N7750A",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,9 @@
       1745882137,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21359805"
+    },
     "wof:country": "US",
     "wof:created": 1651075937,
     "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
@@ -84,9 +96,10 @@
       102527513,
       102528997,
       1159285591,
-      1745882155
+      1745882155,
+      1159289869
     ],
-    "wof:lastmodified": 1651075937,
+    "wof:lastmodified": 1651076878,
     "wof:name": "WN2678 (SAN-SFO)",
     "wof:parent_id": 1745882155,
     "wof:placetype": "custom",

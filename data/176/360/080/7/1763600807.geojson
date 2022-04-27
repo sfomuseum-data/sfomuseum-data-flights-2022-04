@@ -2,10 +2,12 @@
   "id": 1763600807,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-27",
+    "date:cessation_upper": "2022-04-27",
     "date:inception_lower": "2022-04-26",
     "date:inception_upper": "2022-04-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-26",
+    "edtf:cessation": "2022-04-27T03:02:00Z",
+    "edtf:inception": "2022-04-26T12:01:37-07:00",
     "flysfo:actual_timestamp": 1651023900,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-26",
@@ -21,9 +23,11 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102534161,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N488UA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,9 @@
       1745882335,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO82897300"
+    },
     "wof:country": "US",
     "wof:created": 1651076726,
     "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
@@ -81,12 +93,13 @@
     ],
     "wof:id": 1763600807,
     "wof:involves": [
-      102534161,
       102527513,
       1159285413,
-      1745882429
+      1745882429,
+      1159292085,
+      102534161
     ],
-    "wof:lastmodified": 1651076726,
+    "wof:lastmodified": 1651076868,
     "wof:name": "UA2385 (SFO-SNA)",
     "wof:parent_id": 1745882429,
     "wof:placetype": "custom",

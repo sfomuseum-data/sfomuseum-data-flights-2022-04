@@ -2,10 +2,12 @@
   "id": 1763596933,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-04-26",
-    "date:inception_upper": "2022-04-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-26",
+    "date:cessation_lower": "2022-04-27",
+    "date:cessation_upper": "2022-04-27",
+    "date:inception_lower": "2022-04-27",
+    "date:inception_upper": "2022-04-27",
+    "edtf:cessation": "2022-04-27T06:43:00Z",
+    "edtf:inception": "2022-04-27T04:19:00Z",
     "flysfo:actual_timestamp": 1651042200,
     "flysfo:airline": "F9",
     "flysfo:date": "2022-04-26",
@@ -21,9 +23,11 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iata:airline": "F9",
+    "icao:aircraft": "A20N",
     "icao:airline": "FFT",
     "lbl:latitude": 37.611747,
     "lbl:longitude": -122.39043,
+    "sfomuseum:aircraft_id": 1377564295,
     "sfomuseum:airline_id": 1159284401,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102531189,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N347FR",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,10 @@
       1745882335,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21359185",
+      "swim:gufi": "KD11800400"
+    },
     "wof:country": "US",
     "wof:created": 1651075757,
     "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
@@ -81,12 +95,13 @@
     ],
     "wof:id": 1763596933,
     "wof:involves": [
-      102527513,
-      102531189,
       1159284401,
-      1745882389
+      1745882389,
+      1377564295,
+      102527513,
+      102531189
     ],
-    "wof:lastmodified": 1651075757,
+    "wof:lastmodified": 1651076873,
     "wof:name": "F9665 (DEN-SFO)",
     "wof:parent_id": 1745882389,
     "wof:placetype": "custom",

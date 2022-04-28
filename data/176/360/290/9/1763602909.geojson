@@ -2,10 +2,12 @@
   "id": 1763602909,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-27",
+    "date:cessation_upper": "2022-04-27",
     "date:inception_lower": "2022-04-27",
     "date:inception_upper": "2022-04-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-27",
+    "edtf:cessation": "2022-04-27T23:40:00Z",
+    "edtf:inception": "2022-04-27T22:29:00Z",
     "flysfo:actual_timestamp": 1651102980,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-04-27",
@@ -21,9 +23,11 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iata:airline": "AS",
+    "icao:aircraft": "B738",
     "icao:airline": "ASA",
     "lbl:latitude": 37.616969,
     "lbl:longitude": -122.381363,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102527209,
@@ -34,6 +38,7 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "swim:tail_number": "N586AS",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +53,9 @@
       1745882085,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21513097"
+    },
     "wof:country": "US",
     "wof:created": 1651161965,
     "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
@@ -81,12 +89,13 @@
     ],
     "wof:id": 1763602909,
     "wof:involves": [
+      1159289871,
       102527513,
       102527209,
       1159283813,
       1745882097
     ],
-    "wof:lastmodified": 1651161965,
+    "wof:lastmodified": 1651163202,
     "wof:name": "AS237 (LAS-SFO)",
     "wof:parent_id": 1745882097,
     "wof:placetype": "custom",

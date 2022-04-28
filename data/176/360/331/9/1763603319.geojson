@@ -2,10 +2,12 @@
   "id": 1763603319,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-27",
+    "date:cessation_upper": "2022-04-27",
     "date:inception_lower": "2022-04-27",
     "date:inception_upper": "2022-04-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-27",
+    "edtf:cessation": "2022-04-27T12:12:45-07:00",
+    "edtf:inception": "2022-04-27T22:14:00Z",
     "flysfo:actual_timestamp": 1651112340,
     "flysfo:airline": "DL",
     "flysfo:date": "2022-04-27",
@@ -21,9 +23,11 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iata:airline": "DL",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "lbl:latitude": 37.615398,
     "lbl:longitude": -122.383426,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102531131,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N868DN",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,10 @@
       1745882137,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21516271",
+      "swim:gufi": "KP76381400"
+    },
     "wof:country": "US",
     "wof:created": 1651162070,
     "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
@@ -84,9 +98,10 @@
       102527513,
       102531131,
       1159284261,
-      1745882203
+      1745882203,
+      1377564285
     ],
-    "wof:lastmodified": 1651162070,
+    "wof:lastmodified": 1651163211,
     "wof:name": "DL719 (MSP-SFO)",
     "wof:parent_id": 1745882203,
     "wof:placetype": "custom",

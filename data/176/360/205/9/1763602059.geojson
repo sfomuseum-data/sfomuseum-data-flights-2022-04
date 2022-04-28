@@ -2,10 +2,12 @@
   "id": 1763602059,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-27",
+    "date:cessation_upper": "2022-04-27",
     "date:inception_lower": "2022-04-27",
     "date:inception_upper": "2022-04-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-27",
+    "edtf:cessation": "2022-04-27T05:38:41-07:00",
+    "edtf:inception": "2022-04-27T18:00:00Z",
     "flysfo:actual_timestamp": 1651088700,
     "flysfo:airline": "AA",
     "flysfo:date": "2022-04-27",
@@ -21,9 +23,11 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iata:airline": "AA",
+    "icao:aircraft": "A319",
     "icao:airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102526751,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N809AW",
     "wof:belongsto": [
       1729792387,
       102527513,
@@ -48,6 +58,10 @@
       1729792435,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21484686",
+      "swim:gufi": "KA56111400"
+    },
     "wof:country": "US",
     "wof:created": 1651161725,
     "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
@@ -81,12 +95,13 @@
     ],
     "wof:id": 1763602059,
     "wof:involves": [
+      1729792747,
+      1159289407,
       102527513,
       102526751,
-      1159283849,
-      1729792747
+      1159283849
     ],
-    "wof:lastmodified": 1651161725,
+    "wof:lastmodified": 1651163197,
     "wof:name": "AA2016 (PHX-SFO)",
     "wof:parent_id": 1729792747,
     "wof:placetype": "custom",

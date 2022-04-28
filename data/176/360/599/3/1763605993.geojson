@@ -2,10 +2,12 @@
   "id": 1763605993,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-04-27",
-    "date:inception_upper": "2022-04-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-27",
+    "date:cessation_lower": "2022-04-27",
+    "date:cessation_upper": "2022-04-27",
+    "date:inception_lower": "2022-04-28",
+    "date:inception_upper": "2022-04-28",
+    "edtf:cessation": "2022-04-27T14:58:00Z",
+    "edtf:inception": "2022-04-27T23:32:38-07:00",
     "flysfo:actual_timestamp": 1651064400,
     "flysfo:airline": "DL",
     "flysfo:date": "2022-04-27",
@@ -21,9 +23,11 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iata:airline": "DL",
+    "icao:aircraft": "B738",
     "icao:airline": "DAL",
     "lbl:latitude": 37.614759,
     "lbl:longitude": -122.382707,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102533269,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N3755D",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,10 @@
       1745882137,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21465470",
+      "swim:gufi": "KO44031400"
+    },
     "wof:country": "US",
     "wof:created": 1651162763,
     "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
@@ -81,12 +95,13 @@
     ],
     "wof:id": 1763605993,
     "wof:involves": [
+      1159289871,
       102533269,
       102527513,
       1159284261,
       1745882207
     ],
-    "wof:lastmodified": 1651162763,
+    "wof:lastmodified": 1651163207,
     "wof:name": "DL2676 (SFO-SEA)",
     "wof:parent_id": 1745882207,
     "wof:placetype": "custom",

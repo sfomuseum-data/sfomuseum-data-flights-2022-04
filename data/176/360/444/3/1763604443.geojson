@@ -2,10 +2,12 @@
   "id": 1763604443,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-27",
+    "date:cessation_upper": "2022-04-27",
     "date:inception_lower": "2022-04-27",
     "date:inception_upper": "2022-04-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-27",
+    "edtf:cessation": "2022-04-27T07:37:49-07:00",
+    "edtf:inception": "2022-04-27T17:14:00Z",
     "flysfo:actual_timestamp": 1651095720,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-27",
@@ -21,9 +23,11 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iata:airline": "UA",
+    "icao:aircraft": "B77W",
     "icao:airline": "UAL",
     "lbl:latitude": 37.621107,
     "lbl:longitude": -122.389874,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533997,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N2243U",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21485475",
+      "swim:gufi": "KO54794400"
+    },
     "wof:country": "US",
     "wof:created": 1651162363,
     "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1763604443,
     "wof:involves": [
+      1745882297,
+      1159289993,
       102527513,
       102533997,
-      1159285413,
-      1745882297
+      1159285413
     ],
-    "wof:lastmodified": 1651162363,
+    "wof:lastmodified": 1651163215,
     "wof:name": "UA372 (HNL-SFO)",
     "wof:parent_id": 1745882297,
     "wof:placetype": "custom",

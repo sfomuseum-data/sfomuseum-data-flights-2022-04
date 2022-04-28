@@ -2,10 +2,12 @@
   "id": 1763603005,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-04-27",
-    "date:inception_upper": "2022-04-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-27",
+    "date:cessation_lower": "2022-04-28",
+    "date:cessation_upper": "2022-04-28",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2022-04-27T17:09:52-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": 1651100400,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-04-27",
@@ -21,9 +23,11 @@
     "geom:latitude": 0,
     "geom:longitude": 0,
     "iata:airline": "AS",
+    "icao:aircraft": "A21N",
     "icao:airline": "ASA",
     "lbl:latitude": 37.617101,
     "lbl:longitude": -122.382233,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102534365,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N925VA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -84,9 +92,10 @@
       102527513,
       102534365,
       1159283813,
-      1745882093
+      1745882093,
+      1377564297
     ],
-    "wof:lastmodified": 1651161988,
+    "wof:lastmodified": 1651163203,
     "wof:name": "AS479 (JFK-SFO)",
     "wof:parent_id": 1745882093,
     "wof:placetype": "custom",

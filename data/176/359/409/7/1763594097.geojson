@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1650949500,
     "flysfo:timestamp": 1650951180,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,1.347400,103.976839,37.617990",
+    "geom:latitude": 19.482695,
+    "geom:longitude": -9.197052,
     "iata:airline": "SQ",
     "icao:aircraft": "A359",
     "icao:airline": "SIA",
@@ -63,7 +63,7 @@
     },
     "wof:country": "US",
     "wof:created": 1650990118,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "998e7b0d931c2ad5e41dcc1541aaab60",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -100,7 +100,7 @@
       102551593,
       102527513
     ],
-    "wof:lastmodified": 1650990345,
+    "wof:lastmodified": 1651257974,
     "wof:name": "SQ33 (SFO-SIN)",
     "wof:parent_id": 1745882419,
     "wof:placetype": "custom",
@@ -110,10 +110,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    1.3474,
+    103.976839,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[103.976839,1.3474]],"type":"MultiPoint"}
 }

@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1650985200,
     "flysfo:timestamp": 1651014000,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,37.617990,-77.041643,38.850639",
+    "geom:latitude": 38.234314499999996,
+    "geom:longitude": -99.70629299999999,
     "iata:airline": "QF",
     "iata:base_airline": "AS",
     "icao:airline": "QFA",
@@ -42,7 +42,7 @@
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1651076573,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "df4d5906f2523703f9da91c779be1785",
     "wof:hierarchy": [
       {
         "flight_id": 1763600199
@@ -56,7 +56,7 @@
       -1,
       1159283813
     ],
-    "wof:lastmodified": 1651076573,
+    "wof:lastmodified": 1651257946,
     "wof:name": "QF3673 (SFO-DCA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
@@ -66,10 +66,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    37.61799,
+    -77.041643,
+    38.850639
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-77.041643,38.850639]],"type":"MultiPoint"}
 }

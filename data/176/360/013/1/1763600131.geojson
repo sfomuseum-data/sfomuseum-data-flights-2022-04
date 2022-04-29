@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651005300,
     "flysfo:timestamp": 1651006320,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,37.617990,-111.980566,40.782170",
+    "geom:latitude": 39.20008,
+    "geom:longitude": -117.1757545,
     "iata:airline": "KL",
     "iata:base_airline": "DL",
     "icao:airline": "KLM",
@@ -55,7 +55,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651076556,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -92,7 +92,7 @@
       1745882211,
       1159284261
     ],
-    "wof:lastmodified": 1651076556,
+    "wof:lastmodified": 1651257974,
     "wof:name": "KL8437 (SFO-SLC)",
     "wof:parent_id": 1745882211,
     "wof:placetype": "custom",
@@ -102,10 +102,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    37.61799,
+    -111.980566,
+    40.78217
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-111.980566,40.78217]],"type":"MultiPoint"}
 }

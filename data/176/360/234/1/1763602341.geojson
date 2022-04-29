@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651070760,
     "flysfo:timestamp": 1651070760,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,34.427974,-119.837133,37.617990",
+    "geom:latitude": 36.022982,
+    "geom:longitude": -121.104038,
     "iata:airline": "AC",
     "iata:base_airline": "UA",
     "icao:airline": "ACA",
@@ -55,7 +55,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651161813,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "aae625247f3652ef8a50cae9f49d2791",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -92,7 +92,7 @@
       1745882267,
       1159285413
     ],
-    "wof:lastmodified": 1651161813,
+    "wof:lastmodified": 1651257974,
     "wof:name": "AC4361 (SBA-SFO)",
     "wof:parent_id": 1745882267,
     "wof:placetype": "custom",
@@ -102,10 +102,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    34.427974,
+    -119.837133,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-119.837133,34.427974],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

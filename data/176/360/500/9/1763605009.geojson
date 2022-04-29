@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651111980,
     "flysfo:timestamp": 1651112400,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-156.035060,19.732444,-122.370943,37.617990",
+    "geom:latitude": 28.675217,
+    "geom:longitude": -139.2030015,
     "iata:airline": "AC",
     "iata:base_airline": "UA",
     "icao:airline": "ACA",
@@ -55,7 +55,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651162509,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "ffd2c7b34797175c51fc3517b1c4b69d",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -92,7 +92,7 @@
       1745882319,
       1159285413
     ],
-    "wof:lastmodified": 1651162509,
+    "wof:lastmodified": 1651257971,
     "wof:name": "AC3528 (SFO-KOA)",
     "wof:parent_id": 1745882319,
     "wof:placetype": "custom",
@@ -102,10 +102,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -156.03506,
+    19.732444,
+    -122.370943,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-156.03506,19.732444]],"type":"MultiPoint"}
 }

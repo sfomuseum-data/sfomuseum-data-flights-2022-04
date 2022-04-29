@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651000380,
     "flysfo:timestamp": 1651000380,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,25.790470,-80.296006,37.617990",
+    "geom:latitude": 31.70423,
+    "geom:longitude": -101.3334745,
     "iata:airline": "JL",
     "iata:base_airline": "AA",
     "icao:airline": "JAL",
@@ -55,7 +55,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651075807,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "38f88108bbae8bb050c3144d37bdc384",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -92,7 +92,7 @@
       1745882169,
       1159283849
     ],
-    "wof:lastmodified": 1651075807,
+    "wof:lastmodified": 1651257977,
     "wof:name": "JL7547 (MIA-SFO)",
     "wof:parent_id": 1745882169,
     "wof:placetype": "custom",
@@ -102,10 +102,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    25.79047,
+    -80.296006,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-80.296006,25.79047],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1650933780,
     "flysfo:timestamp": 1650934260,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.597389,37.617990,-122.370943,45.586144",
+    "geom:latitude": 41.602067,
+    "geom:longitude": -122.484166,
     "iata:airline": "UA",
     "icao:aircraft": "B39M",
     "icao:airline": "UAL",
@@ -63,7 +63,7 @@
     },
     "wof:country": "US",
     "wof:created": 1650989491,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -100,7 +100,7 @@
       1528104577,
       102527513
     ],
-    "wof:lastmodified": 1650990348,
+    "wof:lastmodified": 1651257974,
     "wof:name": "UA1632 (PDX-SFO)",
     "wof:parent_id": 1745882251,
     "wof:placetype": "custom",
@@ -110,10 +110,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.597389,
+    37.61799,
+    -122.370943,
+    45.586144
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

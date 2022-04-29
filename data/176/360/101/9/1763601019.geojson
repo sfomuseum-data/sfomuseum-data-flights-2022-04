@@ -17,9 +17,9 @@
     "flysfo:scheduled_timestamp": 1651037700,
     "flysfo:timestamp": 1651038660,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-124.108020,37.617990,-122.370943,40.971689",
+    "geom:latitude": 39.294839499999995,
+    "geom:longitude": -123.2394815,
     "iata:airline": "UA",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620164,
@@ -50,7 +50,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651076780,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "5815a5b1ad78885fe3ae36c1daab138f",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -86,7 +86,7 @@
       1159285413,
       1745882259
     ],
-    "wof:lastmodified": 1651076780,
+    "wof:lastmodified": 1651257966,
     "wof:name": "UA5892 (SFO-ACV)",
     "wof:parent_id": 1745882259,
     "wof:placetype": "custom",
@@ -96,10 +96,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -124.10802,
+    37.61799,
+    -122.370943,
+    40.971689
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-124.10802,40.971689]],"type":"MultiPoint"}
 }

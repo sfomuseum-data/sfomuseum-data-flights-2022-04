@@ -17,9 +17,9 @@
     "flysfo:scheduled_timestamp": 1651091700,
     "flysfo:timestamp": 1651094400,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,25.272796,51.607761,37.617990",
+    "geom:latitude": 31.445393,
+    "geom:longitude": -35.381591,
     "iata:airline": "QR",
     "icao:airline": "QTR",
     "lbl:latitude": 37.61227,
@@ -50,7 +50,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651162238,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "90bd700bbb49763568c2a26183b9158d",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -86,7 +86,7 @@
       1159286153,
       1745882387
     ],
-    "wof:lastmodified": 1651162238,
+    "wof:lastmodified": 1651257975,
     "wof:name": "QR737 (DOH-SFO)",
     "wof:parent_id": 1745882387,
     "wof:placetype": "custom",
@@ -96,10 +96,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    25.272796,
+    51.607761,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[51.607761,25.272796],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

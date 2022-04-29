@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651002000,
     "flysfo:timestamp": 1651004340,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,37.453966,126.661632,37.617990",
+    "geom:latitude": 37.535978,
+    "geom:longitude": 2.1453445,
     "iata:airline": "DL",
     "iata:base_airline": "KE",
     "icao:airline": "DAL",
@@ -55,7 +55,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651076441,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "76fab8ba90cc172f777e745d124625d2",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -92,7 +92,7 @@
       1745882381,
       1159284625
     ],
-    "wof:lastmodified": 1651076441,
+    "wof:lastmodified": 1651257976,
     "wof:name": "DL7861 (SFO-ICN)",
     "wof:parent_id": 1745882381,
     "wof:placetype": "custom",
@@ -102,10 +102,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    37.453966,
+    126.661632,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[126.661632,37.453966]],"type":"MultiPoint"}
 }

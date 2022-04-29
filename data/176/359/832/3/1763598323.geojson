@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651002600,
     "flysfo:timestamp": 1651004580,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,-37.005501,174.788678,37.617990",
+    "geom:latitude": 0.30624449999999825,
+    "geom:longitude": 26.208867500000004,
     "iata:airline": "VS",
     "iata:base_airline": "NZ",
     "icao:airline": "VIR",
@@ -55,7 +55,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651076103,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "07839d38a937070012f963bfe77eb5da",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -92,7 +92,7 @@
       1745882411,
       1159283697
     ],
-    "wof:lastmodified": 1651076103,
+    "wof:lastmodified": 1651257977,
     "wof:name": "VS7650 (AKL-SFO)",
     "wof:parent_id": 1745882411,
     "wof:placetype": "custom",
@@ -102,10 +102,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    -37.005501,
+    174.788678,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[174.788678,-37.005501],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

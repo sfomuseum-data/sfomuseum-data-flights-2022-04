@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1650930900,
     "flysfo:timestamp": 1650932580,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,37.617990,-87.894364,41.983038",
+    "geom:latitude": 39.800514,
+    "geom:longitude": -105.1326535,
     "iata:airline": "UA",
     "icao:aircraft": "B739",
     "icao:airline": "UAL",
@@ -60,7 +60,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1650990171,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -97,7 +97,7 @@
       102533631,
       102527513
     ],
-    "wof:lastmodified": 1650990354,
+    "wof:lastmodified": 1651257974,
     "wof:name": "UA1829 (SFO-ORD)",
     "wof:parent_id": 1745882309,
     "wof:placetype": "custom",
@@ -107,10 +107,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    37.61799,
+    -87.894364,
+    41.983038
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-87.894364,41.983038]],"type":"MultiPoint"}
 }

@@ -17,9 +17,9 @@
     "flysfo:scheduled_timestamp": 1650908160,
     "flysfo:timestamp": 1650909720,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,35.425802,-119.047271,37.617990",
+    "geom:latitude": 36.521896,
+    "geom:longitude": -120.70910699999999,
     "iata:airline": "UA",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
@@ -50,7 +50,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1650990232,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "7977975fa4ad0a35973dcf84bbb5a31a",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -86,7 +86,7 @@
       1159285413,
       1745882261
     ],
-    "wof:lastmodified": 1650990232,
+    "wof:lastmodified": 1651257974,
     "wof:name": "UA5405 (SFO-BFL)",
     "wof:parent_id": 1745882261,
     "wof:placetype": "custom",
@@ -96,10 +96,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    35.425802,
+    -119.047271,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-119.047271,35.425802]],"type":"MultiPoint"}
 }

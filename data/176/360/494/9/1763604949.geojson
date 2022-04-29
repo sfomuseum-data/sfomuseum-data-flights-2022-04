@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651089300,
     "flysfo:timestamp": 1651090560,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,37.617990,-122.304268,47.441823",
+    "geom:latitude": 42.529906499999996,
+    "geom:longitude": -122.3376055,
     "iata:airline": "OZ",
     "iata:base_airline": "UA",
     "icao:airline": "AAR",
@@ -55,7 +55,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651162494,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -92,7 +92,7 @@
       1745882247,
       1159285413
     ],
-    "wof:lastmodified": 1651162494,
+    "wof:lastmodified": 1651257971,
     "wof:name": "OZ6310 (SFO-SEA)",
     "wof:parent_id": 1745882247,
     "wof:placetype": "custom",
@@ -102,10 +102,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    37.61799,
+    -122.304268,
+    47.441823
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-122.304268,47.441823]],"type":"MultiPoint"}
 }

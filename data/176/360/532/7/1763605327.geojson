@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651049100,
     "flysfo:timestamp": 1651050060,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,35.554085,139.775638,37.617990",
+    "geom:latitude": 36.5860375,
+    "geom:longitude": 8.702347499999995,
     "iata:airline": "NH",
     "icao:aircraft": "B77W",
     "icao:airline": "ANA",
@@ -61,7 +61,7 @@
     },
     "wof:country": "US",
     "wof:created": 1651162589,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "64252c90f74b3e5d6a354a131140ee76",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -98,7 +98,7 @@
       1159283875,
       1745882427
     ],
-    "wof:lastmodified": 1651163206,
+    "wof:lastmodified": 1651257971,
     "wof:name": "NH107 (SFO-HND)",
     "wof:parent_id": 1745882427,
     "wof:placetype": "custom",
@@ -108,10 +108,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    35.554085,
+    139.775638,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[139.775638,35.554085]],"type":"MultiPoint"}
 }

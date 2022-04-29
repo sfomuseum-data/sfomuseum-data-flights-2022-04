@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651089300,
     "flysfo:timestamp": 1651090200,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,29.977186,-95.338444,37.617990",
+    "geom:latitude": 33.797588,
+    "geom:longitude": -108.8546935,
     "iata:airline": "NZ",
     "iata:base_airline": "UA",
     "icao:airline": "ANZ",
@@ -55,7 +55,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651162636,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "4d8eca8dfd12d13a56951180b27dbf13",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -92,7 +92,7 @@
       1745882313,
       1159285413
     ],
-    "wof:lastmodified": 1651162636,
+    "wof:lastmodified": 1651257972,
     "wof:name": "NZ9195 (SFO-IAH)",
     "wof:parent_id": 1745882313,
     "wof:placetype": "custom",
@@ -102,10 +102,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    29.977186,
+    -95.338444,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-95.338444,29.977186]],"type":"MultiPoint"}
 }

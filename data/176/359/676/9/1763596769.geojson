@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651007880,
     "flysfo:timestamp": 1651014000,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,37.617990,-104.672219,39.864939",
+    "geom:latitude": 38.7414645,
+    "geom:longitude": -113.521581,
     "iata:airline": "DL",
     "icao:aircraft": "B752",
     "icao:airline": "DAL",
@@ -50,7 +50,7 @@
     },
     "wof:country": "US",
     "wof:created": 1651075715,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
     "wof:hierarchy": [
       {
         "flight_id": 1763596769
@@ -63,7 +63,7 @@
       102527513,
       102531189
     ],
-    "wof:lastmodified": 1651076872,
+    "wof:lastmodified": 1651257976,
     "wof:name": "DL8924 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
@@ -73,10 +73,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    37.61799,
+    -104.672219,
+    39.864939
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

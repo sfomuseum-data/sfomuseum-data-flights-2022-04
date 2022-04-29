@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1650897900,
     "flysfo:timestamp": 1650898260,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,25.790470,-80.296006,37.617990",
+    "geom:latitude": 31.70423,
+    "geom:longitude": -101.3334745,
     "iata:airline": "QF",
     "iata:base_airline": "AA",
     "icao:airline": "QFA",
@@ -55,7 +55,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1650990052,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "05e474f4bf1eb5ae110c20d94aac828f",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -92,7 +92,7 @@
       1745882185,
       1159283849
     ],
-    "wof:lastmodified": 1650990052,
+    "wof:lastmodified": 1651257973,
     "wof:name": "QF3105 (SFO-MIA)",
     "wof:parent_id": 1745882185,
     "wof:placetype": "custom",
@@ -102,10 +102,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    25.79047,
+    -80.296006,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-80.296006,25.79047]],"type":"MultiPoint"}
 }

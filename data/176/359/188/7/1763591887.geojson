@@ -17,9 +17,9 @@
     "flysfo:scheduled_timestamp": 1650914100,
     "flysfo:timestamp": 1650914100,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,37.617990,-119.772167,39.505219",
+    "geom:latitude": 38.5616045,
+    "geom:longitude": -121.07155499999999,
     "iata:airline": "UA",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
@@ -50,7 +50,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1650989575,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "a4d4dc469296ca0f5ad383dc766835b1",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -86,7 +86,7 @@
       1159285413,
       1745882263
     ],
-    "wof:lastmodified": 1650989575,
+    "wof:lastmodified": 1651257974,
     "wof:name": "UA5899 (RNO-SFO)",
     "wof:parent_id": 1745882263,
     "wof:placetype": "custom",
@@ -96,10 +96,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    37.61799,
+    -119.772167,
+    39.505219
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-119.772167,39.505219],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

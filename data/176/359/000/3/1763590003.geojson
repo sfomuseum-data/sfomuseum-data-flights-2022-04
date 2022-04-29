@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1650870480,
     "flysfo:timestamp": 1650872100,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,37.617990,-87.894364,41.983038",
+    "geom:latitude": 39.800514,
+    "geom:longitude": -105.1326535,
     "iata:airline": "NZ",
     "iata:base_airline": "UA",
     "icao:airline": "ANZ",
@@ -55,7 +55,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1650989105,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -92,7 +92,7 @@
       1745882251,
       1159285413
     ],
-    "wof:lastmodified": 1650989105,
+    "wof:lastmodified": 1651257934,
     "wof:name": "NZ9321 (ORD-SFO)",
     "wof:parent_id": 1745882251,
     "wof:placetype": "custom",
@@ -102,10 +102,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    37.61799,
+    -87.894364,
+    41.983038
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-87.894364,41.983038],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

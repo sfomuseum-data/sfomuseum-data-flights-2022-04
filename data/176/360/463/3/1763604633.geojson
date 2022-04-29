@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651106580,
     "flysfo:timestamp": 1651106940,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,32.733534,-117.185927,37.617990",
+    "geom:latitude": 35.175762,
+    "geom:longitude": -119.778435,
     "iata:airline": "UA",
     "icao:aircraft": "B739",
     "icao:airline": "UAL",
@@ -62,7 +62,7 @@
     },
     "wof:country": "US",
     "wof:created": 1651162413,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "d1d4873ced1d6ea3128e45b0b2070718",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -99,7 +99,7 @@
       1159285413,
       1745882317
     ],
-    "wof:lastmodified": 1651163206,
+    "wof:lastmodified": 1651257971,
     "wof:name": "UA651 (SAN-SFO)",
     "wof:parent_id": 1745882317,
     "wof:placetype": "custom",
@@ -109,10 +109,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    32.733534,
+    -117.185927,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651101600,
     "flysfo:timestamp": 1651102500,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,37.617990,-116.224634,43.564048",
+    "geom:latitude": 40.591019,
+    "geom:longitude": -119.2977885,
     "iata:airline": "AC",
     "iata:base_airline": "UA",
     "icao:airline": "ACA",
@@ -55,7 +55,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651162516,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "5c4ab4afb4473393075e7e0145a9edb2",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -92,7 +92,7 @@
       1745882261,
       1159285413
     ],
-    "wof:lastmodified": 1651162516,
+    "wof:lastmodified": 1651257971,
     "wof:name": "AC3994 (SFO-BOI)",
     "wof:parent_id": 1745882261,
     "wof:placetype": "custom",
@@ -102,10 +102,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    37.61799,
+    -116.224634,
+    43.564048
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-116.224634,43.564048]],"type":"MultiPoint"}
 }

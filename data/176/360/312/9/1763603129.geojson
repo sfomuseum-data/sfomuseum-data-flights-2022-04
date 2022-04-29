@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651085040,
     "flysfo:timestamp": 1651085040,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,37.617990,-75.247885,39.880952",
+    "geom:latitude": 38.749471,
+    "geom:longitude": -98.809414,
     "iata:airline": "BA",
     "iata:base_airline": "AA",
     "icao:airline": "BAW",
@@ -55,7 +55,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651162021,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "70ecaf1bff2da3af9ba52c9bde5534af",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -92,7 +92,7 @@
       1745882161,
       1159283849
     ],
-    "wof:lastmodified": 1651162021,
+    "wof:lastmodified": 1651257967,
     "wof:name": "BA5438 (PHL-SFO)",
     "wof:parent_id": 1745882161,
     "wof:placetype": "custom",
@@ -102,10 +102,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    37.61799,
+    -75.247885,
+    39.880952
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-75.247885,39.880952],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

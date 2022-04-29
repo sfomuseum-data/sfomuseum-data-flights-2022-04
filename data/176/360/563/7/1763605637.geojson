@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651077000,
     "flysfo:timestamp": 1651077540,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,23.160962,-109.717461,37.617990",
+    "geom:latitude": 30.389476000000002,
+    "geom:longitude": -116.044202,
     "iata:airline": "AS",
     "icao:aircraft": "A320",
     "icao:airline": "ASA",
@@ -62,7 +62,7 @@
     },
     "wof:country": "US",
     "wof:created": 1651162669,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "7babf6b9ba279da48525185e0724d212",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -99,7 +99,7 @@
       1159292085,
       102536441
     ],
-    "wof:lastmodified": 1651163207,
+    "wof:lastmodified": 1651257972,
     "wof:name": "AS1278 (SFO-SJD)",
     "wof:parent_id": 1745882099,
     "wof:placetype": "custom",
@@ -109,10 +109,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    23.160962,
+    -109.717461,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-109.717461,23.160962]],"type":"MultiPoint"}
 }

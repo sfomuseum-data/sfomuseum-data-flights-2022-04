@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1650901740,
     "flysfo:timestamp": 1650902520,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,32.119362,-110.946818,37.617990",
+    "geom:latitude": 34.868676,
+    "geom:longitude": -116.6588805,
     "iata:airline": "AC",
     "iata:base_airline": "UA",
     "icao:airline": "ACA",
@@ -55,7 +55,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1650989710,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "6716e4c7ca0e3c1891c385118d042906",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -92,7 +92,7 @@
       1745882245,
       1159285413
     ],
-    "wof:lastmodified": 1650989710,
+    "wof:lastmodified": 1651257948,
     "wof:name": "AC4579 (SFO-TUS)",
     "wof:parent_id": 1745882245,
     "wof:placetype": "custom",
@@ -102,10 +102,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    32.119362,
+    -110.946818,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-110.946818,32.119362]],"type":"MultiPoint"}
 }

@@ -17,9 +17,9 @@
     "flysfo:scheduled_timestamp": 1650926400,
     "flysfo:timestamp": 1650926460,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,37.617990,-117.531916,47.625686",
+    "geom:latitude": 42.621838,
+    "geom:longitude": -119.95142949999999,
     "iata:airline": "AS",
     "icao:airline": "ASA",
     "lbl:latitude": 37.617101,
@@ -50,7 +50,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1650989139,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "a4e0879e5fc6968e3e72ecbd42744790",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -86,7 +86,7 @@
       1159283813,
       1745882093
     ],
-    "wof:lastmodified": 1650989139,
+    "wof:lastmodified": 1651257972,
     "wof:name": "AS2030 (GEG-SFO)",
     "wof:parent_id": 1745882093,
     "wof:placetype": "custom",
@@ -96,10 +96,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    37.61799,
+    -117.531916,
+    47.625686
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-117.531916,47.625686],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651005900,
     "flysfo:timestamp": 1651008840,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,37.617990,4.782907,52.314791",
+    "geom:latitude": 44.9663905,
+    "geom:longitude": -58.794018,
     "iata:airline": "VS",
     "iata:base_airline": "KL",
     "icao:airline": "VIR",
@@ -55,7 +55,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651076814,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "b03e5f5c78933bb0f626aa81ed57f330",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -92,7 +92,7 @@
       1745882377,
       1159284613
     ],
-    "wof:lastmodified": 1651076814,
+    "wof:lastmodified": 1651257967,
     "wof:name": "VS6858 (SFO-AMS)",
     "wof:parent_id": 1745882377,
     "wof:placetype": "custom",
@@ -102,10 +102,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    37.61799,
+    4.782907,
+    52.314791
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[4.782907,52.314791]],"type":"MultiPoint"}
 }

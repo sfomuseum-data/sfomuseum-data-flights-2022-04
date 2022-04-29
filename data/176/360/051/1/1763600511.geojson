@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651027800,
     "flysfo:timestamp": 1651028280,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,36.081003,-115.156440,37.617990",
+    "geom:latitude": 36.8494965,
+    "geom:longitude": -118.7636915,
     "iata:airline": "WN",
     "icao:aircraft": "B737",
     "icao:airline": "SWA",
@@ -60,7 +60,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651076653,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -97,7 +97,7 @@
       102527209,
       102527513
     ],
-    "wof:lastmodified": 1651076865,
+    "wof:lastmodified": 1651257974,
     "wof:name": "WN651 (SFO-LAS)",
     "wof:parent_id": 1745882151,
     "wof:placetype": "custom",
@@ -107,10 +107,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    36.081003,
+    -115.15644,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-115.15644,36.081003]],"type":"MultiPoint"}
 }

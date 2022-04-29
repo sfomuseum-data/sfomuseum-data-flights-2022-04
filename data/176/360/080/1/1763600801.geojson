@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1650994620,
     "flysfo:timestamp": 1650995100,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,33.432684,-112.017392,37.617990",
+    "geom:latitude": 35.525337,
+    "geom:longitude": -117.19416749999999,
     "iata:airline": "UA",
     "icao:aircraft": "A319",
     "icao:airline": "UAL",
@@ -64,7 +64,7 @@
     },
     "wof:country": "US",
     "wof:created": 1651076725,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -101,7 +101,7 @@
       1159285413,
       1745882317
     ],
-    "wof:lastmodified": 1651076868,
+    "wof:lastmodified": 1651257974,
     "wof:name": "UA2376 (SFO-PHX)",
     "wof:parent_id": 1745882317,
     "wof:placetype": "custom",
@@ -111,10 +111,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    33.432684,
+    -112.017392,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-112.017392,33.432684]],"type":"MultiPoint"}
 }

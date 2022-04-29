@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1650951720,
     "flysfo:timestamp": 1650951720,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,32.903660,-97.050966,37.617990",
+    "geom:latitude": 35.260825,
+    "geom:longitude": -109.7109545,
     "iata:airline": "BA",
     "iata:base_airline": "AA",
     "icao:airline": "BAW",
@@ -55,7 +55,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1650989193,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "865973335526f09b753756c305bf4946",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -92,7 +92,7 @@
       1745882191,
       1159283849
     ],
-    "wof:lastmodified": 1650989193,
+    "wof:lastmodified": 1651257975,
     "wof:name": "BA2495 (DFW-SFO)",
     "wof:parent_id": 1745882191,
     "wof:placetype": "custom",
@@ -102,10 +102,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    32.90366,
+    -97.050966,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-97.050966,32.90366],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

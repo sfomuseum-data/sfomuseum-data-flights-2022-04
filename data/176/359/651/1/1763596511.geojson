@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651034220,
     "flysfo:timestamp": 1651034220,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-159.347789,21.981539,-122.370943,37.617990",
+    "geom:latitude": 29.799764500000002,
+    "geom:longitude": -140.859366,
     "iata:airline": "AV",
     "iata:base_airline": "UA",
     "icao:airline": "AVA",
@@ -55,7 +55,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651075649,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "46fccc0e56242535ccfd5ecb278f9a75",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -92,7 +92,7 @@
       1745882277,
       1159285413
     ],
-    "wof:lastmodified": 1651075649,
+    "wof:lastmodified": 1651257976,
     "wof:name": "AV2357 (LIH-SFO)",
     "wof:parent_id": 1745882277,
     "wof:placetype": "custom",
@@ -102,10 +102,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -159.347789,
+    21.981539,
+    -122.370943,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-159.347789,21.981539],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

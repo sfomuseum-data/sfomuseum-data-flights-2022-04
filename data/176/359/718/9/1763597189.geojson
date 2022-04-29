@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651012080,
     "flysfo:timestamp": 1651012080,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,37.617990,-73.787845,40.643286",
+    "geom:latitude": 39.130638000000005,
+    "geom:longitude": -98.07939400000001,
     "iata:airline": "B6",
     "icao:aircraft": "A321",
     "icao:airline": "JBU",
@@ -64,7 +64,7 @@
     },
     "wof:country": "US",
     "wof:created": 1651075820,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -101,7 +101,7 @@
       1159284583,
       1745882147
     ],
-    "wof:lastmodified": 1651076875,
+    "wof:lastmodified": 1651257977,
     "wof:name": "B6615 (JFK-SFO)",
     "wof:parent_id": 1745882147,
     "wof:placetype": "custom",
@@ -111,10 +111,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    37.61799,
+    -73.787845,
+    40.643286
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-73.787845,40.643286],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

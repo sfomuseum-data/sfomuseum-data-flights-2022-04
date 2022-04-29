@@ -17,9 +17,9 @@
     "flysfo:scheduled_timestamp": 1651081920,
     "flysfo:timestamp": 1651082640,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,35.236920,-120.643230,37.617990",
+    "geom:latitude": 36.427454999999995,
+    "geom:longitude": -121.5070865,
     "iata:airline": "UA",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61868,
@@ -50,7 +50,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651163107,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "6ee4dc6f06435306541ac2ffbe1ad823",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -86,7 +86,7 @@
       1159285413,
       1745882241
     ],
-    "wof:lastmodified": 1651163107,
+    "wof:lastmodified": 1651257972,
     "wof:name": "UA5749 (SFO-SBP)",
     "wof:parent_id": 1745882241,
     "wof:placetype": "custom",
@@ -96,10 +96,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    35.23692,
+    -120.64323,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-120.64323,35.23692]],"type":"MultiPoint"}
 }

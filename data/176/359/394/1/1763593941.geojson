@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1650941400,
     "flysfo:timestamp": 1650942720,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,32.733534,-117.185927,37.617990",
+    "geom:latitude": 35.175762,
+    "geom:longitude": -119.778435,
     "iata:airline": "QR",
     "iata:base_airline": "AS",
     "icao:airline": "QTR",
@@ -55,7 +55,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1650990079,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "25f5345529d944df781e36098260a435",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -92,7 +92,7 @@
       1745882095,
       1159283813
     ],
-    "wof:lastmodified": 1650990079,
+    "wof:lastmodified": 1651257973,
     "wof:name": "QR3358 (SFO-SAN)",
     "wof:parent_id": 1745882095,
     "wof:placetype": "custom",
@@ -102,10 +102,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    32.733534,
+    -117.185927,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-117.185927,32.733534]],"type":"MultiPoint"}
 }

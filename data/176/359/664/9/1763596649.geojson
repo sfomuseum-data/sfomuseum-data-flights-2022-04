@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651035600,
     "flysfo:timestamp": 1651035600,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,36.081003,-115.156440,37.617990",
+    "geom:latitude": 36.8494965,
+    "geom:longitude": -118.7636915,
     "iata:airline": "CM",
     "iata:base_airline": "UA",
     "icao:airline": "CMP",
@@ -55,7 +55,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651075685,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -92,7 +92,7 @@
       1745882273,
       1159285413
     ],
-    "wof:lastmodified": 1651075685,
+    "wof:lastmodified": 1651257976,
     "wof:name": "CM1894 (LAS-SFO)",
     "wof:parent_id": 1745882273,
     "wof:placetype": "custom",
@@ -102,10 +102,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    36.081003,
+    -115.15644,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

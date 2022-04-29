@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1650918000,
     "flysfo:timestamp": 1650920280,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,37.617990,11.776808,48.352681",
+    "geom:latitude": 42.9853355,
+    "geom:longitude": -55.2970675,
     "iata:airline": "UA",
     "icao:aircraft": "B772",
     "icao:airline": "UAL",
@@ -63,7 +63,7 @@
     },
     "wof:country": "US",
     "wof:created": 1650990173,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "d9a5d9d800d6bc92413ff3768040f8da",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -100,7 +100,7 @@
       102549067,
       102527513
     ],
-    "wof:lastmodified": 1650990346,
+    "wof:lastmodified": 1651257974,
     "wof:name": "UA194 (SFO-MUC)",
     "wof:parent_id": 1745882421,
     "wof:placetype": "custom",
@@ -110,10 +110,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    37.61799,
+    11.776808,
+    48.352681
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[11.776808,48.352681]],"type":"MultiPoint"}
 }

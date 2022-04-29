@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1650946740,
     "flysfo:timestamp": 1650946740,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-157.918416,21.332508,-122.370943,37.617990",
+    "geom:latitude": 29.475248999999998,
+    "geom:longitude": -140.1446795,
     "iata:airline": "UA",
     "icao:aircraft": "B77W",
     "icao:airline": "UAL",
@@ -64,7 +64,7 @@
     },
     "wof:country": "US",
     "wof:created": 1650989477,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -101,7 +101,7 @@
       102527513,
       102533997
     ],
-    "wof:lastmodified": 1650990348,
+    "wof:lastmodified": 1651257974,
     "wof:name": "UA1141 (HNL-SFO)",
     "wof:parent_id": 1745882297,
     "wof:placetype": "custom",
@@ -111,10 +111,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -157.918416,
+    21.332508,
+    -122.370943,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-157.918416,21.332508],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

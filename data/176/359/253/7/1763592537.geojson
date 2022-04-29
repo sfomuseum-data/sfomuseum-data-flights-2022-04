@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1650899700,
     "flysfo:timestamp": 1650900180,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,37.617990,-73.744749,45.462004",
+    "geom:latitude": 41.539997,
+    "geom:longitude": -98.057846,
     "iata:airline": "AC",
     "icao:aircraft": "BCS3",
     "icao:airline": "ACA",
@@ -62,7 +62,7 @@
     },
     "wof:country": "US",
     "wof:created": 1650989736,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "60b8ec845b4af47518c8aaafc3d98633",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -98,7 +98,7 @@
       1159283597,
       1745882411
     ],
-    "wof:lastmodified": 1650990345,
+    "wof:lastmodified": 1651257956,
     "wof:name": "AC760 (SFO-YUL)",
     "wof:parent_id": 1745882411,
     "wof:placetype": "custom",
@@ -108,10 +108,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    37.61799,
+    -73.744749,
+    45.462004
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-73.744749,45.462004]],"type":"MultiPoint"}
 }

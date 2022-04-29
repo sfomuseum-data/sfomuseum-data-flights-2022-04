@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651075680,
     "flysfo:timestamp": 1651075680,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,37.617990,-81.835629,41.406844",
+    "geom:latitude": 39.512417,
+    "geom:longitude": -102.103286,
     "iata:airline": "OZ",
     "iata:base_airline": "UA",
     "icao:airline": "AAR",
@@ -55,7 +55,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651161777,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "b9e617aa80dabb56896871b70acf102e",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -92,7 +92,7 @@
       1745882319,
       1159285413
     ],
-    "wof:lastmodified": 1651161777,
+    "wof:lastmodified": 1651257974,
     "wof:name": "OZ9526 (CLE-SFO)",
     "wof:parent_id": 1745882319,
     "wof:placetype": "custom",
@@ -102,10 +102,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    37.61799,
+    -81.835629,
+    41.406844
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-81.835629,41.406844],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

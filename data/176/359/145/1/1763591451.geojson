@@ -17,9 +17,9 @@
     "flysfo:scheduled_timestamp": 1650920400,
     "flysfo:timestamp": 1650921600,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,25.250063,55.362737,37.617990",
+    "geom:latitude": 31.4340265,
+    "geom:longitude": -33.504103,
     "iata:airline": "EK",
     "icao:airline": "UAE",
     "lbl:latitude": 37.612048,
@@ -50,7 +50,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1650989467,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "8eef79dee45c47eff2935879475b5fae",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -86,7 +86,7 @@
       1159284333,
       1745882381
     ],
-    "wof:lastmodified": 1650989467,
+    "wof:lastmodified": 1651257975,
     "wof:name": "EK225 (DXB-SFO)",
     "wof:parent_id": 1745882381,
     "wof:placetype": "custom",
@@ -96,10 +96,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    25.250063,
+    55.362737,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[55.362737,25.250063],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

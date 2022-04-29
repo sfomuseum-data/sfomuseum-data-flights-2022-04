@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1650922200,
     "flysfo:timestamp": 1650924000,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,32.733534,-117.185927,37.617990",
+    "geom:latitude": 35.175762,
+    "geom:longitude": -119.778435,
     "iata:airline": "WN",
     "icao:aircraft": "B737",
     "icao:airline": "SWA",
@@ -63,7 +63,7 @@
     },
     "wof:country": "US",
     "wof:created": 1650990122,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "25f5345529d944df781e36098260a435",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -100,7 +100,7 @@
       1159285591,
       1745882159
     ],
-    "wof:lastmodified": 1650990354,
+    "wof:lastmodified": 1651257976,
     "wof:name": "WN2163 (SFO-SAN)",
     "wof:parent_id": 1745882159,
     "wof:placetype": "custom",
@@ -110,10 +110,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    32.733534,
+    -117.185927,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-117.185927,32.733534]],"type":"MultiPoint"}
 }

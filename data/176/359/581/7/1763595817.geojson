@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1650981600,
     "flysfo:timestamp": 1650982740,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,28.561954,77.098117,37.617990",
+    "geom:latitude": 33.089972,
+    "geom:longitude": -22.636412999999997,
     "iata:airline": "AI",
     "icao:aircraft": "B77L",
     "icao:airline": "AIC",
@@ -63,7 +63,7 @@
     },
     "wof:country": "US",
     "wof:created": 1651075470,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "c9618692327b148a3f9466df78845400",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -100,7 +100,7 @@
       1159289989,
       102527513
     ],
-    "wof:lastmodified": 1651076866,
+    "wof:lastmodified": 1651257974,
     "wof:name": "AI173 (DEL-SFO)",
     "wof:parent_id": 1745882419,
     "wof:placetype": "custom",
@@ -110,10 +110,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    28.561954,
+    77.098117,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[77.098117,28.561954],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

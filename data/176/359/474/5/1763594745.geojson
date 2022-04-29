@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1650898800,
     "flysfo:timestamp": 1650898980,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,37.617990,-93.200317,44.883321",
+    "geom:latitude": 41.2506555,
+    "geom:longitude": -107.78563,
     "iata:airline": "VS",
     "iata:base_airline": "DL",
     "icao:airline": "VIR",
@@ -55,7 +55,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1650990278,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "bbdc3c5edf2b2678c807f6144214d82c",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -92,7 +92,7 @@
       1745882203,
       1159284261
     ],
-    "wof:lastmodified": 1650990278,
+    "wof:lastmodified": 1651257976,
     "wof:name": "VS1588 (SFO-MSP)",
     "wof:parent_id": 1745882203,
     "wof:placetype": "custom",
@@ -102,10 +102,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    37.61799,
+    -93.200317,
+    44.883321
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-93.200317,44.883321]],"type":"MultiPoint"}
 }

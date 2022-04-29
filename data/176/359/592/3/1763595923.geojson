@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1650989580,
     "flysfo:timestamp": 1650991620,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,29.982609,-90.261832,37.617990",
+    "geom:latitude": 33.8002995,
+    "geom:longitude": -106.31638749999999,
     "iata:airline": "NZ",
     "iata:base_airline": "UA",
     "icao:airline": "ANZ",
@@ -55,7 +55,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651075500,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "a7e835886f555fd347028edc152f9d8c",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -92,7 +92,7 @@
       1745882255,
       1159285413
     ],
-    "wof:lastmodified": 1651075500,
+    "wof:lastmodified": 1651257976,
     "wof:name": "NZ2158 (MSY-SFO)",
     "wof:parent_id": 1745882255,
     "wof:placetype": "custom",
@@ -102,10 +102,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    29.982609,
+    -90.261832,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-90.261832,29.982609],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

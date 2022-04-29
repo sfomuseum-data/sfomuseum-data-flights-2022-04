@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651115880,
     "flysfo:timestamp": 1651115880,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-123.213030,37.617990,-122.370943,44.119058",
+    "geom:latitude": 40.868524,
+    "geom:longitude": -122.79198650000001,
     "iata:airline": "LH",
     "iata:base_airline": "UA",
     "icao:airline": "DLH",
@@ -55,7 +55,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651162079,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "68b06bbd791163721a20ab955d143e55",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -92,7 +92,7 @@
       1745882243,
       1159285413
     ],
-    "wof:lastmodified": 1651162079,
+    "wof:lastmodified": 1651257968,
     "wof:name": "LH7579 (EUG-SFO)",
     "wof:parent_id": 1745882243,
     "wof:placetype": "custom",
@@ -102,10 +102,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -123.21303,
+    37.61799,
+    -122.370943,
+    44.119058
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-123.21303,44.119058],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

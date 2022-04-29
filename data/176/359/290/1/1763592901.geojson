@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1650940800,
     "flysfo:timestamp": 1650941880,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,37.617990,-0.450443,51.470087",
+    "geom:latitude": 44.5440385,
+    "geom:longitude": -61.410693,
     "iata:airline": "NZ",
     "iata:base_airline": "UA",
     "icao:airline": "ANZ",
@@ -55,7 +55,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1650989825,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "86f41e039827d60bcd1a72801f72cbc2",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -92,7 +92,7 @@
       1745882407,
       1159285413
     ],
-    "wof:lastmodified": 1650989825,
+    "wof:lastmodified": 1651257962,
     "wof:name": "NZ9854 (SFO-LHR)",
     "wof:parent_id": 1745882407,
     "wof:placetype": "custom",
@@ -102,10 +102,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    37.61799,
+    -0.450443,
+    51.470087
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-0.450443,51.470087]],"type":"MultiPoint"}
 }

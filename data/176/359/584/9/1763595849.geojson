@@ -17,9 +17,9 @@
     "flysfo:scheduled_timestamp": 1651015500,
     "flysfo:timestamp": 1651017660,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,35.554085,139.775638,37.617990",
+    "geom:latitude": 36.5860375,
+    "geom:longitude": 8.702347499999995,
     "iata:airline": "NH",
     "icao:airline": "ANA",
     "lbl:latitude": 37.618209,
@@ -50,7 +50,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651075479,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "99c2bdbe61e95eb26a51b43b0c172358",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -86,7 +86,7 @@
       1159283875,
       1745882417
     ],
-    "wof:lastmodified": 1651075479,
+    "wof:lastmodified": 1651257975,
     "wof:name": "NH108 (HND-SFO)",
     "wof:parent_id": 1745882417,
     "wof:placetype": "custom",
@@ -96,10 +96,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    35.554085,
+    139.775638,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[139.775638,35.554085],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

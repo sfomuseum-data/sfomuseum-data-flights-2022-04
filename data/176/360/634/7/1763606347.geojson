@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651091400,
     "flysfo:timestamp": 1651091880,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.597389,37.617990,-122.370943,45.586144",
+    "geom:latitude": 41.602067,
+    "geom:longitude": -122.484166,
     "iata:airline": "JL",
     "iata:base_airline": "AS",
     "icao:airline": "JAL",
@@ -55,7 +55,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651162853,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "a0e250e9237d15725a2a6f51d6b7a6b6",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -92,7 +92,7 @@
       1745882107,
       1159283813
     ],
-    "wof:lastmodified": 1651162853,
+    "wof:lastmodified": 1651257972,
     "wof:name": "JL5417 (SFO-PDX)",
     "wof:parent_id": 1745882107,
     "wof:placetype": "custom",
@@ -102,10 +102,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.597389,
+    37.61799,
+    -122.370943,
+    45.586144
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-122.597389,45.586144]],"type":"MultiPoint"}
 }

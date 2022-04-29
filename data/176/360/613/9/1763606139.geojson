@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651103160,
     "flysfo:timestamp": 1651104600,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,33.677724,-117.866280,37.617990",
+    "geom:latitude": 35.647857,
+    "geom:longitude": -120.1186115,
     "iata:airline": "LH",
     "iata:base_airline": "UA",
     "icao:airline": "DLH",
@@ -55,7 +55,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651162800,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "b700d5ae3794da4176af6b85f6cd6669",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -92,7 +92,7 @@
       1745882311,
       1159285413
     ],
-    "wof:lastmodified": 1651162800,
+    "wof:lastmodified": 1651257972,
     "wof:name": "LH9262 (SFO-SNA)",
     "wof:parent_id": 1745882311,
     "wof:placetype": "custom",
@@ -102,10 +102,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    33.677724,
+    -117.86628,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-117.86628,33.677724]],"type":"MultiPoint"}
 }

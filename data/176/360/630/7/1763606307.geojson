@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651079400,
     "flysfo:timestamp": 1651079880,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-156.437877,20.894952,-122.370943,37.617990",
+    "geom:latitude": 29.256470999999998,
+    "geom:longitude": -139.40440999999998,
     "iata:airline": "HA",
     "icao:aircraft": "A21N",
     "icao:airline": "HAL",
@@ -63,7 +63,7 @@
     },
     "wof:country": "US",
     "wof:created": 1651162842,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "8c8f659fbae3cc58419f360e0abfbe56",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -100,7 +100,7 @@
       102527513,
       1159284489
     ],
-    "wof:lastmodified": 1651163208,
+    "wof:lastmodified": 1651257972,
     "wof:name": "HA41 (SFO-OGG)",
     "wof:parent_id": 1745882393,
     "wof:placetype": "custom",
@@ -110,10 +110,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -156.437877,
+    20.894952,
+    -122.370943,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-156.437877,20.894952]],"type":"MultiPoint"}
 }

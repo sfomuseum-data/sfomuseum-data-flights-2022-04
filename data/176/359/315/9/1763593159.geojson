@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1650939180,
     "flysfo:timestamp": 1650940500,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-156.035060,19.732444,-122.370943,37.617990",
+    "geom:latitude": 28.675217,
+    "geom:longitude": -139.2030015,
     "iata:airline": "AV",
     "iata:base_airline": "UA",
     "icao:airline": "AVA",
@@ -55,7 +55,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1650989888,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "ffd2c7b34797175c51fc3517b1c4b69d",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -92,7 +92,7 @@
       1745882251,
       1159285413
     ],
-    "wof:lastmodified": 1650989888,
+    "wof:lastmodified": 1651257966,
     "wof:name": "AV2356 (SFO-KOA)",
     "wof:parent_id": 1745882251,
     "wof:placetype": "custom",
@@ -102,10 +102,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -156.03506,
+    19.732444,
+    -122.370943,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-156.03506,19.732444]],"type":"MultiPoint"}
 }

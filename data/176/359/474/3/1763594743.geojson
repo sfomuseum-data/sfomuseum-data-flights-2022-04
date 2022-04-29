@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1650922500,
     "flysfo:timestamp": 1650923400,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,37.617990,2.542809,49.007854",
+    "geom:latitude": 43.312922,
+    "geom:longitude": -59.914066999999996,
     "iata:airline": "UA",
     "icao:aircraft": "B772",
     "icao:airline": "UAL",
@@ -64,7 +64,7 @@
     },
     "wof:country": "US",
     "wof:created": 1650990277,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "ad7dd7ece479a882a3440fb19be6ff4c",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -101,7 +101,7 @@
       102544459,
       102527513
     ],
-    "wof:lastmodified": 1650990347,
+    "wof:lastmodified": 1651257976,
     "wof:name": "UA990 (SFO-CDG)",
     "wof:parent_id": 1745882423,
     "wof:placetype": "custom",
@@ -111,10 +111,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    37.61799,
+    2.542809,
+    49.007854
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[2.542809,49.007854]],"type":"MultiPoint"}
 }

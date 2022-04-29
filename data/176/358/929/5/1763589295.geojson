@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1650946200,
     "flysfo:timestamp": 1650946200,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,35.220744,-80.942777,37.617990",
+    "geom:latitude": 36.419367,
+    "geom:longitude": -101.65686,
     "iata:airline": "AA",
     "icao:aircraft": "A321",
     "icao:airline": "AAL",
@@ -64,7 +64,7 @@
     },
     "wof:country": "US",
     "wof:created": 1650988914,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "b96563c9986e04a3607ac552f48e111b",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -101,7 +101,7 @@
       1159283849,
       1745882185
     ],
-    "wof:lastmodified": 1650990336,
+    "wof:lastmodified": 1651257939,
     "wof:name": "AA1783 (CLT-SFO)",
     "wof:parent_id": 1745882185,
     "wof:placetype": "custom",
@@ -111,10 +111,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    35.220744,
+    -80.942777,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-80.942777,35.220744],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

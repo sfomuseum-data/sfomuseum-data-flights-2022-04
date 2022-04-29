@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651035780,
     "flysfo:timestamp": 1651035780,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-156.437877,20.894952,-122.370943,37.617990",
+    "geom:latitude": 29.256470999999998,
+    "geom:longitude": -139.40440999999998,
     "iata:airline": "AS",
     "icao:aircraft": "B738",
     "icao:airline": "ASA",
@@ -59,7 +59,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651075631,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "e4ae4c60ed0a76df38dbcfaaa5dd6a55",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -96,7 +96,7 @@
       1159283813,
       1745882093
     ],
-    "wof:lastmodified": 1651076869,
+    "wof:lastmodified": 1651257976,
     "wof:name": "AS710 (OGG-SFO)",
     "wof:parent_id": 1745882093,
     "wof:placetype": "custom",
@@ -106,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -156.437877,
+    20.894952,
+    -122.370943,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-156.437877,20.894952],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

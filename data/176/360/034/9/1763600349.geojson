@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651015500,
     "flysfo:timestamp": 1651017780,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,37.617990,12.649581,55.627628",
+    "geom:latitude": 46.622809000000004,
+    "geom:longitude": -54.860681,
     "iata:airline": "SK",
     "icao:aircraft": "A333",
     "icao:airline": "SAS",
@@ -60,7 +60,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651076612,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "6cbb76e93301e33133b7541a51de6b35",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -97,7 +97,7 @@
       1745882405,
       1159289423
     ],
-    "wof:lastmodified": 1651076864,
+    "wof:lastmodified": 1651257951,
     "wof:name": "SK936 (SFO-CPH)",
     "wof:parent_id": 1745882405,
     "wof:placetype": "custom",
@@ -107,10 +107,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    37.61799,
+    12.649581,
+    55.627628
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[12.649581,55.627628]],"type":"MultiPoint"}
 }

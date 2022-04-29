@@ -17,9 +17,9 @@
     "flysfo:scheduled_timestamp": 1651011420,
     "flysfo:timestamp": 1651011660,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,33.824619,-116.506042,37.617990",
+    "geom:latitude": 35.7213045,
+    "geom:longitude": -119.4384925,
     "iata:airline": "AS",
     "icao:airline": "ASA",
     "lbl:latitude": 37.616825,
@@ -50,7 +50,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651075619,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "a35a6e87f0ae0f1f716f88067ee31aa3",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -86,7 +86,7 @@
       1159283813,
       1745882099
     ],
-    "wof:lastmodified": 1651075619,
+    "wof:lastmodified": 1651257975,
     "wof:name": "AS3367 (PSP-SFO)",
     "wof:parent_id": 1745882099,
     "wof:placetype": "custom",
@@ -96,10 +96,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    33.824619,
+    -116.506042,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-116.506042,33.824619],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

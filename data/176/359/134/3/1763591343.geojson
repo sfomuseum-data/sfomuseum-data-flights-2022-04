@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1650894300,
     "flysfo:timestamp": 1650894300,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,33.942593,-118.389510,37.617990",
+    "geom:latitude": 35.780291500000004,
+    "geom:longitude": -120.38022649999999,
     "iata:airline": "WN",
     "icao:aircraft": "B737",
     "icao:airline": "SWA",
@@ -61,7 +61,7 @@
     },
     "wof:country": "US",
     "wof:created": 1650989440,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -98,7 +98,7 @@
       102533795,
       1159285591
     ],
-    "wof:lastmodified": 1650990342,
+    "wof:lastmodified": 1651257973,
     "wof:name": "WN1389 (LAX-SFO)",
     "wof:parent_id": 1745882157,
     "wof:placetype": "custom",
@@ -108,10 +108,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    33.942593,
+    -118.38951,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

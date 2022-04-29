@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651095600,
     "flysfo:timestamp": 1651096620,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,37.617990,-104.672219,39.864939",
+    "geom:latitude": 38.7414645,
+    "geom:longitude": -113.521581,
     "iata:airline": "WN",
     "icao:aircraft": "B738",
     "icao:airline": "SWA",
@@ -63,7 +63,7 @@
     },
     "wof:country": "US",
     "wof:created": 1651162976,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -100,7 +100,7 @@
       1159285591,
       1745882149
     ],
-    "wof:lastmodified": 1651163205,
+    "wof:lastmodified": 1651257975,
     "wof:name": "WN2617 (SFO-DEN)",
     "wof:parent_id": 1745882149,
     "wof:placetype": "custom",
@@ -110,10 +110,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    37.61799,
+    -104.672219,
+    39.864939
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-104.672219,39.864939]],"type":"MultiPoint"}
 }

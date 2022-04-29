@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1650985440,
     "flysfo:timestamp": 1650994320,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,37.617990,-71.014750,42.362322",
+    "geom:latitude": 39.990156,
+    "geom:longitude": -96.6928465,
     "iata:airline": "FI",
     "iata:base_airline": "B6",
     "icao:airline": "ICE",
@@ -55,7 +55,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651076517,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "92fb504f17f3373e6b03bb6769f65d8a",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -92,7 +92,7 @@
       1745882147,
       1159284583
     ],
-    "wof:lastmodified": 1651076517,
+    "wof:lastmodified": 1651257977,
     "wof:name": "FI7834 (SFO-BOS)",
     "wof:parent_id": 1745882147,
     "wof:placetype": "custom",
@@ -102,10 +102,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    37.61799,
+    -71.01475,
+    42.362322
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-71.01475,42.362322]],"type":"MultiPoint"}
 }

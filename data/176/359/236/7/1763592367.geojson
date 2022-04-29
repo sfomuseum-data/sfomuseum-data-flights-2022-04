@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1650951660,
     "flysfo:timestamp": 1650953040,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,36.587900,-121.839390,37.617990",
+    "geom:latitude": 37.102945,
+    "geom:longitude": -122.1051665,
     "iata:airline": "AC",
     "iata:base_airline": "UA",
     "icao:airline": "ACA",
@@ -55,7 +55,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1650989694,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "671e58da07f1ec37fb4507b393a80870",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -92,7 +92,7 @@
       1745882263,
       1159285413
     ],
-    "wof:lastmodified": 1650989694,
+    "wof:lastmodified": 1651257974,
     "wof:name": "AC4268 (SFO-MRY)",
     "wof:parent_id": 1745882263,
     "wof:placetype": "custom",
@@ -102,10 +102,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    36.5879,
+    -121.83939,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-121.83939,36.5879]],"type":"MultiPoint"}
 }

@@ -17,9 +17,9 @@
     "flysfo:scheduled_timestamp": 1651124100,
     "flysfo:timestamp": 1651124340,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,36.768728,-119.721272,37.617990",
+    "geom:latitude": 37.193359,
+    "geom:longitude": -121.0461075,
     "iata:airline": "UA",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
@@ -50,7 +50,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651163112,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "7027f9178c7d77a5f6f9a377b7a1bb37",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -86,7 +86,7 @@
       1159285413,
       1745882257
     ],
-    "wof:lastmodified": 1651163112,
+    "wof:lastmodified": 1651257972,
     "wof:name": "UA5904 (SFO-FAT)",
     "wof:parent_id": 1745882257,
     "wof:placetype": "custom",
@@ -96,10 +96,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    36.768728,
+    -119.721272,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-119.721272,36.768728]],"type":"MultiPoint"}
 }

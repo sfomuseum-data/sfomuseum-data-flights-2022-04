@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651091700,
     "flysfo:timestamp": 1651092960,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,35.755744,140.395257,37.617990",
+    "geom:latitude": 36.686867,
+    "geom:longitude": 9.012156999999995,
     "iata:airline": "JL",
     "icao:aircraft": "B789",
     "icao:airline": "JAL",
@@ -62,7 +62,7 @@
     },
     "wof:country": "US",
     "wof:created": 1651162857,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "b0708fbc9882ec26729f19c3bf135279",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -99,7 +99,7 @@
       1159284563,
       1745882369
     ],
-    "wof:lastmodified": 1651163208,
+    "wof:lastmodified": 1651257972,
     "wof:name": "JL57 (SFO-NRT)",
     "wof:parent_id": 1745882369,
     "wof:placetype": "custom",
@@ -109,10 +109,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    35.755744,
+    140.395257,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[140.395257,35.755744]],"type":"MultiPoint"}
 }

@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1650905040,
     "flysfo:timestamp": 1650905280,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,21.040317,-86.872856,37.617990",
+    "geom:latitude": 29.3291535,
+    "geom:longitude": -104.6218995,
     "iata:airline": "B6",
     "icao:aircraft": "A320",
     "icao:airline": "JBU",
@@ -64,7 +64,7 @@
     },
     "wof:country": "US",
     "wof:created": 1650990018,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "d26f8a4a9d40aeb65e997520007d0d60",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -101,7 +101,7 @@
       1159284583,
       1745882143
     ],
-    "wof:lastmodified": 1650990354,
+    "wof:lastmodified": 1651257972,
     "wof:name": "B61242 (SFO-CUN)",
     "wof:parent_id": 1745882143,
     "wof:placetype": "custom",
@@ -111,10 +111,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    21.040317,
+    -86.872856,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-86.872856,21.040317]],"type":"MultiPoint"}
 }

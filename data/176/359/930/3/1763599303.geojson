@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651037700,
     "flysfo:timestamp": 1651038480,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,37.617990,-74.177526,40.691243",
+    "geom:latitude": 39.1546165,
+    "geom:longitude": -98.2742345,
     "iata:airline": "AS",
     "icao:aircraft": "B39M",
     "icao:airline": "ASA",
@@ -63,7 +63,7 @@
     },
     "wof:country": "US",
     "wof:created": 1651076346,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -100,7 +100,7 @@
       1159283813,
       1745882103
     ],
-    "wof:lastmodified": 1651076883,
+    "wof:lastmodified": 1651257976,
     "wof:name": "AS191 (SFO-EWR)",
     "wof:parent_id": 1745882103,
     "wof:placetype": "custom",
@@ -110,10 +110,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    37.61799,
+    -74.177526,
+    40.691243
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-74.177526,40.691243]],"type":"MultiPoint"}
 }

@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651040940,
     "flysfo:timestamp": 1651040940,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,37.617990,-93.200317,44.883321",
+    "geom:latitude": 41.2506555,
+    "geom:longitude": -107.78563,
     "iata:airline": "DL",
     "icao:aircraft": "A320",
     "icao:airline": "DAL",
@@ -64,7 +64,7 @@
     },
     "wof:country": "US",
     "wof:created": 1651075717,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "0c6e1b69ec0e7e239d3f5365b057a47f",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -101,7 +101,7 @@
       1159284261,
       1745882209
     ],
-    "wof:lastmodified": 1651076872,
+    "wof:lastmodified": 1651257976,
     "wof:name": "DL968 (MSP-SFO)",
     "wof:parent_id": 1745882209,
     "wof:placetype": "custom",
@@ -111,10 +111,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    37.61799,
+    -93.200317,
+    44.883321
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-93.200317,44.883321],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

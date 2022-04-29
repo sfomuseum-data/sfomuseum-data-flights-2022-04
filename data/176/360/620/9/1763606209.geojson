@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651126800,
     "flysfo:timestamp": 1651126800,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-149.617144,-17.573463,-122.370943,37.617990",
+    "geom:latitude": 10.0222635,
+    "geom:longitude": -135.9940435,
     "iata:airline": "BF",
     "icao:aircraft": "A359",
     "icao:airline": "FBU",
@@ -58,7 +58,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651162818,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "f971d3f872ee602b2fa6051cf4be0e69",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -95,7 +95,7 @@
       102527513,
       1377649073
     ],
-    "wof:lastmodified": 1651163208,
+    "wof:lastmodified": 1651257972,
     "wof:name": "BF710 (SFO-PPT)",
     "wof:parent_id": 1745882391,
     "wof:placetype": "custom",
@@ -105,10 +105,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -149.617144,
+    -17.573463,
+    -122.370943,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-149.617144,-17.573463]],"type":"MultiPoint"}
 }

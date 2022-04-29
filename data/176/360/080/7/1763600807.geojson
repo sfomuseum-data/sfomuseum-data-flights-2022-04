@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651023900,
     "flysfo:timestamp": 1651024860,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,33.677724,-117.866280,37.617990",
+    "geom:latitude": 35.647857,
+    "geom:longitude": -120.1186115,
     "iata:airline": "UA",
     "icao:aircraft": "A320",
     "icao:airline": "UAL",
@@ -62,7 +62,7 @@
     },
     "wof:country": "US",
     "wof:created": 1651076726,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "b700d5ae3794da4176af6b85f6cd6669",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -99,7 +99,7 @@
       1159292085,
       102534161
     ],
-    "wof:lastmodified": 1651076868,
+    "wof:lastmodified": 1651257961,
     "wof:name": "UA2385 (SFO-SNA)",
     "wof:parent_id": 1745882429,
     "wof:placetype": "custom",
@@ -109,10 +109,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    33.677724,
+    -117.86628,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-117.86628,33.677724]],"type":"MultiPoint"}
 }

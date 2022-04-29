@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1650911940,
     "flysfo:timestamp": 1650914700,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,37.617990,-74.177526,40.691243",
+    "geom:latitude": 39.1546165,
+    "geom:longitude": -98.2742345,
     "iata:airline": "SQ",
     "iata:base_airline": "AS",
     "icao:airline": "SIA",
@@ -55,7 +55,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1650989421,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "5afbf99c4360a00cfc0890f48cccf304",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -92,7 +92,7 @@
       1745882099,
       1159283813
     ],
-    "wof:lastmodified": 1650989421,
+    "wof:lastmodified": 1651257973,
     "wof:name": "SQ1309 (EWR-SFO)",
     "wof:parent_id": 1745882099,
     "wof:placetype": "custom",
@@ -102,10 +102,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    37.61799,
+    -74.177526,
+    40.691243
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-74.177526,40.691243],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

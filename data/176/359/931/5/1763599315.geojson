@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1650983400,
     "flysfo:timestamp": 1650983580,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,33.942593,-118.389510,37.617990",
+    "geom:latitude": 35.780291500000004,
+    "geom:longitude": -120.38022649999999,
     "iata:airline": "AS",
     "icao:aircraft": "B739",
     "icao:airline": "ASA",
@@ -63,7 +63,7 @@
     },
     "wof:country": "US",
     "wof:created": 1651076349,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -100,7 +100,7 @@
       1159283813,
       1745882101
     ],
-    "wof:lastmodified": 1651076883,
+    "wof:lastmodified": 1651257976,
     "wof:name": "AS214 (SFO-LAX)",
     "wof:parent_id": 1745882101,
     "wof:placetype": "custom",
@@ -110,10 +110,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    33.942593,
+    -118.38951,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}
 }

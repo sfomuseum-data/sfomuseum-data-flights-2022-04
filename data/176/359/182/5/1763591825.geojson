@@ -17,9 +17,9 @@
     "flysfo:scheduled_timestamp": 1650942960,
     "flysfo:timestamp": 1650942960,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,37.617990,-121.157137,44.259811",
+    "geom:latitude": 40.9389005,
+    "geom:longitude": -121.76404,
     "iata:airline": "UA",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
@@ -50,7 +50,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1650989560,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "e570a09b358444cf621c068c13b8dbc0",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -86,7 +86,7 @@
       1159285413,
       1745882263
     ],
-    "wof:lastmodified": 1650989560,
+    "wof:lastmodified": 1651257974,
     "wof:name": "UA5573 (RDM-SFO)",
     "wof:parent_id": 1745882263,
     "wof:placetype": "custom",
@@ -96,10 +96,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    37.61799,
+    -121.157137,
+    44.259811
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-121.157137,44.259811],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

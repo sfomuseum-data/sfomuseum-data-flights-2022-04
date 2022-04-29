@@ -17,9 +17,9 @@
     "flysfo:scheduled_timestamp": 1650931500,
     "flysfo:timestamp": 1650932760,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,25.250063,55.362737,37.617990",
+    "geom:latitude": 31.4340265,
+    "geom:longitude": -33.504103,
     "iata:airline": "EK",
     "icao:airline": "UAE",
     "lbl:latitude": 37.612048,
@@ -50,7 +50,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1650990148,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "db1125d5f6b158d369f65fa73fc455da",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -86,7 +86,7 @@
       1159284333,
       1745882381
     ],
-    "wof:lastmodified": 1650990148,
+    "wof:lastmodified": 1651257974,
     "wof:name": "EK226 (SFO-DXB)",
     "wof:parent_id": 1745882381,
     "wof:placetype": "custom",
@@ -96,10 +96,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    25.250063,
+    55.362737,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[55.362737,25.250063]],"type":"MultiPoint"}
 }

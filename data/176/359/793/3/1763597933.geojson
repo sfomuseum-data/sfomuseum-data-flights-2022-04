@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651020240,
     "flysfo:timestamp": 1651020240,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-156.035060,19.732444,-122.370943,37.617990",
+    "geom:latitude": 28.675217,
+    "geom:longitude": -139.2030015,
     "iata:airline": "UA",
     "icao:aircraft": "B739",
     "icao:airline": "UAL",
@@ -64,7 +64,7 @@
     },
     "wof:country": "US",
     "wof:created": 1651076007,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "d5ad4a83d3d679d1b3fe86e419b08d84",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -101,7 +101,7 @@
       1745882251,
       1377564285
     ],
-    "wof:lastmodified": 1651076879,
+    "wof:lastmodified": 1651257976,
     "wof:name": "UA2262 (KOA-SFO)",
     "wof:parent_id": 1745882251,
     "wof:placetype": "custom",
@@ -111,10 +111,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -156.03506,
+    19.732444,
+    -122.370943,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-156.03506,19.732444],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

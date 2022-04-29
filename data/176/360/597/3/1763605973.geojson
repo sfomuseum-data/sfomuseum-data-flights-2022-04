@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651095000,
     "flysfo:timestamp": 1651095960,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,37.617990,-83.351709,42.218860",
+    "geom:latitude": 39.918425,
+    "geom:longitude": -102.86132599999999,
     "iata:airline": "DL",
     "icao:aircraft": "B739",
     "icao:airline": "DAL",
@@ -64,7 +64,7 @@
     },
     "wof:country": "US",
     "wof:created": 1651162758,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "9151bfe07cf224e1ff61a7f7b8c30671",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -101,7 +101,7 @@
       1159284261,
       1745882201
     ],
-    "wof:lastmodified": 1651163217,
+    "wof:lastmodified": 1651257975,
     "wof:name": "DL1036 (SFO-DTW)",
     "wof:parent_id": 1745882201,
     "wof:placetype": "custom",
@@ -111,10 +111,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    37.61799,
+    -83.351709,
+    42.21886
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-83.351709,42.21886]],"type":"MultiPoint"}
 }

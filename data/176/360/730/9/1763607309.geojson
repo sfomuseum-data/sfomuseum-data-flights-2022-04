@@ -17,9 +17,9 @@
     "flysfo:scheduled_timestamp": 1651084620,
     "flysfo:timestamp": 1651088400,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-124.243730,37.617990,-122.370943,43.417060",
+    "geom:latitude": 40.517525,
+    "geom:longitude": -123.30733649999999,
     "iata:airline": "UA",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
@@ -50,7 +50,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651163096,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "35bbc0945da54b0b429931c4fc7f97cd",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -86,7 +86,7 @@
       1159285413,
       1745882263
     ],
-    "wof:lastmodified": 1651163096,
+    "wof:lastmodified": 1651257973,
     "wof:name": "UA5595 (SFO-OTH)",
     "wof:parent_id": 1745882263,
     "wof:placetype": "custom",
@@ -96,10 +96,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -124.24373,
+    37.61799,
+    -122.370943,
+    43.41706
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-124.24373,43.41706]],"type":"MultiPoint"}
 }

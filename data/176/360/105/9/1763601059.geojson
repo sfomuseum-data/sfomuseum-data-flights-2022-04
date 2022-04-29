@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651003860,
     "flysfo:timestamp": 1651005360,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,19.431302,-99.080804,37.617990",
+    "geom:latitude": 28.524645999999997,
+    "geom:longitude": -110.7258735,
     "iata:airline": "UA",
     "icao:aircraft": "A320",
     "icao:airline": "UAL",
@@ -64,7 +64,7 @@
     },
     "wof:country": "US",
     "wof:created": 1651076790,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "01999c4327be8e36df88ffd5cda77111",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -101,7 +101,7 @@
       1159285413,
       1745882409
     ],
-    "wof:lastmodified": 1651076870,
+    "wof:lastmodified": 1651257967,
     "wof:name": "UA821 (SFO-MEX)",
     "wof:parent_id": 1745882409,
     "wof:placetype": "custom",
@@ -111,10 +111,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    19.431302,
+    -99.080804,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-99.080804,19.431302]],"type":"MultiPoint"}
 }

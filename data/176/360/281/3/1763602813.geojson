@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651073580,
     "flysfo:timestamp": 1651073580,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,37.617990,-80.259551,40.492624",
+    "geom:latitude": 39.055307,
+    "geom:longitude": -101.315247,
     "iata:airline": "NZ",
     "iata:base_airline": "UA",
     "icao:airline": "ANZ",
@@ -55,7 +55,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651161939,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "1bce6af8a92006379b4194e1695731d3",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -92,7 +92,7 @@
       1745882309,
       1159285413
     ],
-    "wof:lastmodified": 1651161939,
+    "wof:lastmodified": 1651257967,
     "wof:name": "NZ9395 (PIT-SFO)",
     "wof:parent_id": 1745882309,
     "wof:placetype": "custom",
@@ -102,10 +102,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    37.61799,
+    -80.259551,
+    40.492624
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-80.259551,40.492624],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651005540,
     "flysfo:timestamp": 1651005540,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,36.768728,-119.721272,37.617990",
+    "geom:latitude": 37.193359,
+    "geom:longitude": -121.0461075,
     "iata:airline": "NZ",
     "iata:base_airline": "UA",
     "icao:airline": "ANZ",
@@ -55,7 +55,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651075536,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "b157be63e9453882f41d2e530854b6a2",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -92,7 +92,7 @@
       1745882241,
       1159285413
     ],
-    "wof:lastmodified": 1651075536,
+    "wof:lastmodified": 1651257975,
     "wof:name": "NZ9203 (FAT-SFO)",
     "wof:parent_id": 1745882241,
     "wof:placetype": "custom",
@@ -102,10 +102,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    36.768728,
+    -119.721272,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-119.721272,36.768728],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1650978900,
     "flysfo:timestamp": 1650979860,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,33.636518,-84.430686,37.617990",
+    "geom:latitude": 35.627254,
+    "geom:longitude": -103.4008145,
     "iata:airline": "AF",
     "iata:base_airline": "DL",
     "icao:airline": "AFR",
@@ -55,7 +55,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651076229,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -92,7 +92,7 @@
       1745882211,
       1159284261
     ],
-    "wof:lastmodified": 1651076229,
+    "wof:lastmodified": 1651257977,
     "wof:name": "AF5717 (SFO-ATL)",
     "wof:parent_id": 1745882211,
     "wof:placetype": "custom",
@@ -102,10 +102,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    33.636518,
+    -84.430686,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-84.430686,33.636518]],"type":"MultiPoint"}
 }

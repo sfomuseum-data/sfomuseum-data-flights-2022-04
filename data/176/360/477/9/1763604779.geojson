@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651091700,
     "flysfo:timestamp": 1651091700,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,37.617990,-122.304268,47.441823",
+    "geom:latitude": 42.529906499999996,
+    "geom:longitude": -122.3376055,
     "iata:airline": "WS",
     "iata:base_airline": "DL",
     "icao:airline": "WJA",
@@ -55,7 +55,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651162450,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -92,7 +92,7 @@
       1745882219,
       1159284261
     ],
-    "wof:lastmodified": 1651162450,
+    "wof:lastmodified": 1651257971,
     "wof:name": "WS7541 (SEA-SFO)",
     "wof:parent_id": 1745882219,
     "wof:placetype": "custom",
@@ -102,10 +102,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    37.61799,
+    -122.304268,
+    47.441823
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.304268,47.441823],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

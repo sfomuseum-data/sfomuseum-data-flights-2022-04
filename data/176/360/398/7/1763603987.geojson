@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651125780,
     "flysfo:timestamp": 1651125780,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,27.986961,-82.018251,37.617990",
+    "geom:latitude": 32.8024755,
+    "geom:longitude": -102.194597,
     "iata:airline": "SY",
     "icao:aircraft": "B738",
     "icao:airline": "SCX",
@@ -45,7 +45,7 @@
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1651162247,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "cc0a83f810de606d1c5f0209a9703f91",
     "wof:hierarchy": [
       {
         "flight_id": 1763603987
@@ -58,7 +58,7 @@
       102526153,
       1159285227
     ],
-    "wof:lastmodified": 1651163213,
+    "wof:lastmodified": 1651257970,
     "wof:name": "SY3083 (LAL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
@@ -68,10 +68,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    27.986961,
+    -82.018251,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-82.018251,27.986961],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

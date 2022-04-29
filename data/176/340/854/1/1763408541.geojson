@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1648930500,
     "flysfo:timestamp": 1648933260,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,0.000000,0.000000,37.617990",
-    "geom:latitude": 18.808995,
-    "geom:longitude": -61.1854715,
+    "geom:bbox": "-122.370943,10.593056,-85.545556,37.617990",
+    "geom:latitude": 24.105522999999998,
+    "geom:longitude": -103.9582495,
     "iata:airline": "UA",
     "icao:aircraft": "B738",
     "icao:airline": "UAL",
@@ -64,7 +64,7 @@
     },
     "wof:country": "US",
     "wof:created": 1649002891,
-    "wof:geomhash": "f7b726ae54aa9222cfb9d243d2e793d0",
+    "wof:geomhash": "616ffa6e449396b97f6247dc82a6219c",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -101,7 +101,7 @@
       1159285413,
       1745882423
     ],
-    "wof:lastmodified": 1649003024,
+    "wof:lastmodified": 1651257921,
     "wof:name": "UA2139 (SFO-LIR)",
     "wof:parent_id": 1745882423,
     "wof:placetype": "custom",
@@ -112,9 +112,9 @@
   },
   "bbox": [
     -122.370943,
-    0,
-    0,
+    10.593056,
+    -85.545556,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-85.545556,10.593056]],"type":"MultiPoint"}
 }

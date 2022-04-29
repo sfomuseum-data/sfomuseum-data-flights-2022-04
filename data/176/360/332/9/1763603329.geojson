@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651132560,
     "flysfo:timestamp": 1651134060,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,37.617990,-90.165217,38.575556",
+    "geom:latitude": 38.096773,
+    "geom:longitude": -106.26808,
     "iata:airline": "DL",
     "icao:aircraft": "B752",
     "icao:airline": "DAL",
@@ -45,7 +45,7 @@
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1651162073,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "ac8251c482fd840d3852b97751cccb98",
     "wof:hierarchy": [
       {
         "flight_id": 1763603329
@@ -58,7 +58,7 @@
       102533437,
       1159284261
     ],
-    "wof:lastmodified": 1651163211,
+    "wof:lastmodified": 1651257969,
     "wof:name": "DL8839 (CPS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
@@ -68,10 +68,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    37.61799,
+    -90.165217,
+    38.575556
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-90.165217,38.575556],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

@@ -17,9 +17,9 @@
     "flysfo:scheduled_timestamp": 1651005300,
     "flysfo:timestamp": 1651005300,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,37.617990,-6.246362,53.425842",
+    "geom:latitude": 45.521916000000004,
+    "geom:longitude": -64.3086525,
     "iata:airline": "EI",
     "icao:airline": "EIN",
     "lbl:latitude": 37.618057,
@@ -50,7 +50,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651075748,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "aecdd4fa1f8944d2eefd3273b1547edd",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -86,7 +86,7 @@
       1159283495,
       1745882419
     ],
-    "wof:lastmodified": 1651075748,
+    "wof:lastmodified": 1651257977,
     "wof:name": "EI61 (DUB-SFO)",
     "wof:parent_id": 1745882419,
     "wof:placetype": "custom",
@@ -96,10 +96,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    37.61799,
+    -6.246362,
+    53.425842
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-6.246362,53.425842],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

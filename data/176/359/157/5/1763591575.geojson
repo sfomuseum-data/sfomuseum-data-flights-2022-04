@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1650948180,
     "flysfo:timestamp": 1650948180,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,35.876323,-78.790399,37.617990",
+    "geom:latitude": 36.7471565,
+    "geom:longitude": -100.580671,
     "iata:airline": "UA",
     "icao:aircraft": "B738",
     "icao:airline": "UAL",
@@ -64,7 +64,7 @@
     },
     "wof:country": "US",
     "wof:created": 1650989498,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "e1d14091bb010ff3febce3dc78c1c8b4",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -101,7 +101,7 @@
       1159289871,
       102527513
     ],
-    "wof:lastmodified": 1650990348,
+    "wof:lastmodified": 1651257974,
     "wof:name": "UA1769 (RDU-SFO)",
     "wof:parent_id": 1745882315,
     "wof:placetype": "custom",
@@ -111,10 +111,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    35.876323,
+    -78.790399,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-78.790399,35.876323],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

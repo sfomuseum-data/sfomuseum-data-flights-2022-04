@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1650933300,
     "flysfo:timestamp": 1650935280,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,30.206175,-97.643029,37.617990",
+    "geom:latitude": 33.9120825,
+    "geom:longitude": -110.006986,
     "iata:airline": "QR",
     "iata:base_airline": "AS",
     "icao:airline": "QTR",
@@ -55,7 +55,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1650990076,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "f1e29c4a83094711ef061292cfad3358",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -92,7 +92,7 @@
       1745882107,
       1159283813
     ],
-    "wof:lastmodified": 1650990076,
+    "wof:lastmodified": 1651257973,
     "wof:name": "QR3340 (SFO-AUS)",
     "wof:parent_id": 1745882107,
     "wof:placetype": "custom",
@@ -102,10 +102,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    30.206175,
+    -97.643029,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-97.643029,30.206175]],"type":"MultiPoint"}
 }

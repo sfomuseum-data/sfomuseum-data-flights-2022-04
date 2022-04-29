@@ -17,9 +17,9 @@
     "flysfo:scheduled_timestamp": 1650898800,
     "flysfo:timestamp": 1650899100,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,30.206175,-97.643029,37.617990",
+    "geom:latitude": 33.9120825,
+    "geom:longitude": -110.006986,
     "iata:airline": "AS",
     "icao:airline": "ASA",
     "lbl:latitude": 37.61756,
@@ -50,7 +50,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1650989152,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "62f9f5a2734b9c5938b0b415e9e4a515",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -86,7 +86,7 @@
       1159283813,
       1745882105
     ],
-    "wof:lastmodified": 1650989152,
+    "wof:lastmodified": 1651257973,
     "wof:name": "AS3336 (AUS-SFO)",
     "wof:parent_id": 1745882105,
     "wof:placetype": "custom",
@@ -96,10 +96,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    30.206175,
+    -97.643029,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-97.643029,30.206175],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

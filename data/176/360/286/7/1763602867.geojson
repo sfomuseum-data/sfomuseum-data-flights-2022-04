@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651121580,
     "flysfo:timestamp": 1651121580,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,32.845849,-96.850523,37.617990",
+    "geom:latitude": 35.231919500000004,
+    "geom:longitude": -109.610733,
     "iata:airline": "AS",
     "icao:aircraft": "A320",
     "icao:airline": "ASA",
@@ -58,7 +58,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651161953,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "ecfc64ce72b903780fc129f985c12eef",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -95,7 +95,7 @@
       102527513,
       102525799
     ],
-    "wof:lastmodified": 1651163201,
+    "wof:lastmodified": 1651257967,
     "wof:name": "AS131 (DAL-SFO)",
     "wof:parent_id": 1745882093,
     "wof:placetype": "custom",
@@ -105,10 +105,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    32.845849,
+    -96.850523,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-96.850523,32.845849],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651035900,
     "flysfo:timestamp": 1651040220,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,-37.005501,174.788678,37.617990",
+    "geom:latitude": 0.30624449999999825,
+    "geom:longitude": 26.208867500000004,
     "iata:airline": "NZ",
     "icao:aircraft": "B789",
     "icao:airline": "ANZ",
@@ -59,7 +59,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651076268,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "0a41093e5d82882db018a6f46a3ef58a",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -96,7 +96,7 @@
       1159293215,
       102552389
     ],
-    "wof:lastmodified": 1651076883,
+    "wof:lastmodified": 1651257976,
     "wof:name": "NZ7 (SFO-AKL)",
     "wof:parent_id": 1745882417,
     "wof:placetype": "custom",
@@ -106,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    -37.005501,
+    174.788678,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[174.788678,-37.005501]],"type":"MultiPoint"}
 }

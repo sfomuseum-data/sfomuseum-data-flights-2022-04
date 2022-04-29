@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651041600,
     "flysfo:timestamp": 1651041900,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,9.071360,-79.383499,37.617990",
+    "geom:latitude": 23.344675,
+    "geom:longitude": -100.87722099999999,
     "iata:airline": "CM",
     "icao:aircraft": "B39M",
     "icao:airline": "CMP",
@@ -63,7 +63,7 @@
     },
     "wof:country": "US",
     "wof:created": 1651075694,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "a24fa29091ad40e8c2dcacd18340610c",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -100,7 +100,7 @@
       1159284211,
       1745882399
     ],
-    "wof:lastmodified": 1651076870,
+    "wof:lastmodified": 1651257976,
     "wof:name": "CM382 (PTY-SFO)",
     "wof:parent_id": 1745882399,
     "wof:placetype": "custom",
@@ -110,10 +110,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    9.07136,
+    -79.383499,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-79.383499,9.07136],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

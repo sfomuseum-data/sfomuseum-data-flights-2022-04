@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651038900,
     "flysfo:timestamp": 1651041420,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,21.040317,-86.872856,37.617990",
+    "geom:latitude": 29.3291535,
+    "geom:longitude": -104.6218995,
     "iata:airline": "UA",
     "icao:aircraft": "B739",
     "icao:airline": "UAL",
@@ -64,7 +64,7 @@
     },
     "wof:country": "US",
     "wof:created": 1651076678,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "d26f8a4a9d40aeb65e997520007d0d60",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -101,7 +101,7 @@
       1159285413,
       1745882249
     ],
-    "wof:lastmodified": 1651076866,
+    "wof:lastmodified": 1651257957,
     "wof:name": "UA1145 (SFO-CUN)",
     "wof:parent_id": 1745882249,
     "wof:placetype": "custom",
@@ -111,10 +111,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    21.040317,
+    -86.872856,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-86.872856,21.040317]],"type":"MultiPoint"}
 }

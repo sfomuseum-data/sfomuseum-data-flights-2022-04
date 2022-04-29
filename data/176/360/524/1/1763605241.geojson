@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651091400,
     "flysfo:timestamp": 1651100400,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,37.617990,-79.628342,43.676352",
+    "geom:latitude": 40.647171,
+    "geom:longitude": -100.9996425,
     "iata:airline": "AC",
     "icao:aircraft": "BCS3",
     "icao:airline": "ACA",
@@ -46,7 +46,7 @@
     },
     "wof:country": "US",
     "wof:created": 1651162567,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "1a30ef2f5f82135186aeb20f0187ac62",
     "wof:hierarchy": [
       {
         "flight_id": 1763605241
@@ -59,7 +59,7 @@
       1159283597,
       -1
     ],
-    "wof:lastmodified": 1651163217,
+    "wof:lastmodified": 1651257975,
     "wof:name": "AC7052 (SFO-YYZ)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
@@ -69,10 +69,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    37.61799,
+    -79.628342,
+    43.676352
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-79.628342,43.676352]],"type":"MultiPoint"}
 }

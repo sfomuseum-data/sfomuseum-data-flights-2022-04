@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651003800,
     "flysfo:timestamp": 1651004880,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-149.617144,-17.573463,-122.370943,37.617990",
+    "geom:latitude": 10.0222635,
+    "geom:longitude": -135.9940435,
     "iata:airline": "UA",
     "icao:aircraft": "B789",
     "icao:airline": "UAL",
@@ -64,7 +64,7 @@
     },
     "wof:country": "US",
     "wof:created": 1651076679,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "f971d3f872ee602b2fa6051cf4be0e69",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -101,7 +101,7 @@
       1745882419,
       1159293215
     ],
-    "wof:lastmodified": 1651076866,
+    "wof:lastmodified": 1651257958,
     "wof:name": "UA115 (SFO-PPT)",
     "wof:parent_id": 1745882419,
     "wof:placetype": "custom",
@@ -111,10 +111,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -149.617144,
+    -17.573463,
+    -122.370943,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-149.617144,-17.573463]],"type":"MultiPoint"}
 }

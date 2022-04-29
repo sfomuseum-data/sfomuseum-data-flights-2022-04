@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1650997200,
     "flysfo:timestamp": 1650997800,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,33.942593,-118.389510,37.617990",
+    "geom:latitude": 35.780291500000004,
+    "geom:longitude": -120.38022649999999,
     "iata:airline": "SQ",
     "iata:base_airline": "AS",
     "icao:airline": "SIA",
@@ -55,7 +55,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651076621,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -92,7 +92,7 @@
       1745882121,
       1159283813
     ],
-    "wof:lastmodified": 1651076621,
+    "wof:lastmodified": 1651257951,
     "wof:name": "SQ1341 (SFO-LAX)",
     "wof:parent_id": 1745882121,
     "wof:placetype": "custom",
@@ -102,10 +102,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    33.942593,
+    -118.38951,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}
 }

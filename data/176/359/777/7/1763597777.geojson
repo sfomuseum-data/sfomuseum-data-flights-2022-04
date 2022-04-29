@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651035600,
     "flysfo:timestamp": 1651035720,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,27.972892,-82.530928,37.617990",
+    "geom:latitude": 32.795441,
+    "geom:longitude": -102.4509355,
     "iata:airline": "UA",
     "icao:aircraft": "A320",
     "icao:airline": "UAL",
@@ -64,7 +64,7 @@
     },
     "wof:country": "US",
     "wof:created": 1651075968,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "e5ae5d1ea61206da1f1e1104d6bc1bb7",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -101,7 +101,7 @@
       1745882309,
       1159292085
     ],
-    "wof:lastmodified": 1651076878,
+    "wof:lastmodified": 1651257976,
     "wof:name": "UA1233 (TPA-SFO)",
     "wof:parent_id": 1745882309,
     "wof:placetype": "custom",
@@ -111,10 +111,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    27.972892,
+    -82.530928,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-82.530928,27.972892],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

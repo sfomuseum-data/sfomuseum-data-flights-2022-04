@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1650944760,
     "flysfo:timestamp": 1650944760,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,37.617990,-77.453702,38.949246",
+    "geom:latitude": 38.283618000000004,
+    "geom:longitude": -99.9123225,
     "iata:airline": "SN",
     "iata:base_airline": "UA",
     "icao:airline": "BEL",
@@ -55,7 +55,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1650989209,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "376248592ab7850cfb9a479529cc5caf",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -92,7 +92,7 @@
       1745882427,
       1159285413
     ],
-    "wof:lastmodified": 1650989209,
+    "wof:lastmodified": 1651257973,
     "wof:name": "SN8817 (IAD-SFO)",
     "wof:parent_id": 1745882427,
     "wof:placetype": "custom",
@@ -102,10 +102,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    37.61799,
+    -77.453702,
+    38.949246
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-77.453702,38.949246],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

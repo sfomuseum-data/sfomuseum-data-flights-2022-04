@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1650903300,
     "flysfo:timestamp": 1650904380,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-159.347789,21.981539,-122.370943,37.617990",
+    "geom:latitude": 29.799764500000002,
+    "geom:longitude": -140.859366,
     "iata:airline": "UA",
     "icao:aircraft": "B738",
     "icao:airline": "UAL",
@@ -63,7 +63,7 @@
     },
     "wof:country": "US",
     "wof:created": 1650990155,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "a2498fe603884edb23014f03e0e3c121",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -100,7 +100,7 @@
       102527513,
       1159285413
     ],
-    "wof:lastmodified": 1650990346,
+    "wof:lastmodified": 1651257975,
     "wof:name": "UA1111 (SFO-LIH)",
     "wof:parent_id": 1745882291,
     "wof:placetype": "custom",
@@ -110,10 +110,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -159.347789,
+    21.981539,
+    -122.370943,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-159.347789,21.981539]],"type":"MultiPoint"}
 }

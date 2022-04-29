@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1651092120,
     "flysfo:timestamp": 1651093500,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,33.432684,-112.017392,37.617990",
+    "geom:latitude": 35.525337,
+    "geom:longitude": -117.19416749999999,
     "iata:airline": "F9",
     "icao:aircraft": "A321",
     "icao:airline": "FFT",
@@ -63,7 +63,7 @@
     },
     "wof:country": "US",
     "wof:created": 1651162821,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -100,7 +100,7 @@
       102526751,
       102527513
     ],
-    "wof:lastmodified": 1651163208,
+    "wof:lastmodified": 1651257972,
     "wof:name": "F92790 (SFO-PHX)",
     "wof:parent_id": 1745882389,
     "wof:placetype": "custom",
@@ -110,10 +110,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    33.432684,
+    -112.017392,
+    37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-112.017392,33.432684]],"type":"MultiPoint"}
 }

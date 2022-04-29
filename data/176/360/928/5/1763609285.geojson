@@ -2,10 +2,12 @@
   "id": 1763609285,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-28",
+    "date:cessation_upper": "2022-04-28",
     "date:inception_lower": "2022-04-28",
     "date:inception_upper": "2022-04-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-28",
+    "edtf:cessation": "2022-04-28T03:36:04-07:00",
+    "edtf:inception": "2022-04-28T12:22:00Z",
     "flysfo:actual_timestamp": 1651167780,
     "flysfo:airline": "AC",
     "flysfo:date": "2022-04-28",
@@ -21,9 +23,11 @@
     "geom:latitude": 40.647171,
     "geom:longitude": -100.9996425,
     "iata:airline": "AC",
+    "icao:aircraft": "A320",
     "icao:airline": "ACA",
     "lbl:latitude": 37.61776,
     "lbl:longitude": -122.3918,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102555091,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "CFXCD",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,10 @@
       1745882335,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21552024",
+      "swim:gufi": "KP41051500"
+    },
     "wof:country": "US",
     "wof:created": 1651248262,
     "wof:geomhash": "c362a07ec1dacdc6f288623946bd8d01",
@@ -81,12 +95,13 @@
     ],
     "wof:id": 1763609285,
     "wof:involves": [
+      1159292085,
       102527513,
       102555091,
       1159283597,
       1745882411
     ],
-    "wof:lastmodified": 1651248262,
+    "wof:lastmodified": 1651249773,
     "wof:name": "AC737 (YYZ-SFO)",
     "wof:parent_id": 1745882411,
     "wof:placetype": "custom",

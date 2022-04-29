@@ -2,10 +2,12 @@
   "id": 1763609811,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-28",
+    "date:cessation_upper": "2022-04-28",
     "date:inception_lower": "2022-04-28",
     "date:inception_upper": "2022-04-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-28",
+    "edtf:cessation": "2022-04-28T21:08:43Z",
+    "edtf:inception": "2022-04-28T19:34:00Z",
     "flysfo:actual_timestamp": 1651180380,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-04-28",
@@ -21,9 +23,11 @@
     "geom:latitude": 42.529906499999996,
     "geom:longitude": -122.3376055,
     "iata:airline": "AS",
+    "icao:aircraft": "A320",
     "icao:airline": "ASA",
     "lbl:latitude": 37.617092,
     "lbl:longitude": -122.381656,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533269,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N842VA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,9 @@
       1745882085,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21594459"
+    },
     "wof:country": "US",
     "wof:created": 1651248404,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -81,12 +93,13 @@
     ],
     "wof:id": 1763609811,
     "wof:involves": [
+      1159292085,
       102527513,
       102533269,
       1159283813,
       1745882095
     ],
-    "wof:lastmodified": 1651248404,
+    "wof:lastmodified": 1651249775,
     "wof:name": "AS1451 (SEA-SFO)",
     "wof:parent_id": 1745882095,
     "wof:placetype": "custom",

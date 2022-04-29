@@ -2,10 +2,12 @@
   "id": 1763612349,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-29",
+    "date:cessation_upper": "2022-04-29",
     "date:inception_lower": "2022-04-28",
     "date:inception_upper": "2022-04-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-28",
+    "edtf:cessation": "2022-04-29T00:25:36Z",
+    "edtf:inception": "2022-04-28T19:23:00Z",
     "flysfo:actual_timestamp": 1651186800,
     "flysfo:airline": "AC",
     "flysfo:date": "2022-04-28",
@@ -21,6 +23,7 @@
     "geom:latitude": 40.647171,
     "geom:longitude": -100.9996425,
     "iata:airline": "AC",
+    "icao:aircraft": "BCS3",
     "icao:airline": "ACA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
@@ -34,7 +37,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "CGUAC",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "21657094"
+    },
     "wof:country": "US",
     "wof:created": 1651249071,
     "wof:geomhash": "1a30ef2f5f82135186aeb20f0187ac62",
@@ -50,7 +62,7 @@
       1159283597,
       -1
     ],
-    "wof:lastmodified": 1651249071,
+    "wof:lastmodified": 1651249787,
     "wof:name": "AC7092 (SFO-YYZ)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

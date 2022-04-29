@@ -2,10 +2,12 @@
   "id": 1763611471,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-04-28",
-    "date:inception_upper": "2022-04-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-28",
+    "date:cessation_lower": "2022-04-29",
+    "date:cessation_upper": "2022-04-29",
+    "date:inception_lower": "2022-04-29",
+    "date:inception_upper": "2022-04-29",
+    "edtf:cessation": "2022-04-29T04:24:00Z",
+    "edtf:inception": "2022-04-29T03:15:00Z",
     "flysfo:actual_timestamp": 1651206420,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-28",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.175762,
     "geom:longitude": -119.778435,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620818,
     "lbl:longitude": -122.389182,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102528997,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N836UA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21533182",
+      "swim:gufi": "KL83696500"
+    },
     "wof:country": "US",
     "wof:created": 1651248851,
     "wof:geomhash": "d1d4873ced1d6ea3128e45b0b2070718",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1763611471,
     "wof:involves": [
+      1745882281,
+      1159289407,
       102527513,
       102528997,
-      1159285413,
-      1745882281
+      1159285413
     ],
-    "wof:lastmodified": 1651248851,
+    "wof:lastmodified": 1651249780,
     "wof:name": "UA2247 (SAN-SFO)",
     "wof:parent_id": 1745882281,
     "wof:placetype": "custom",

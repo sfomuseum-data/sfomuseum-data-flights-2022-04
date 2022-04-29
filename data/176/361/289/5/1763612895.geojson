@@ -2,10 +2,12 @@
   "id": 1763612895,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-04-28",
-    "date:inception_upper": "2022-04-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-28",
+    "date:cessation_lower": "2022-04-29",
+    "date:cessation_upper": "2022-04-29",
+    "date:inception_lower": "2022-04-29",
+    "date:inception_upper": "2022-04-29",
+    "edtf:cessation": "2022-04-29T05:46:00Z",
+    "edtf:inception": "2022-04-29T04:16:00Z",
     "flysfo:actual_timestamp": 1651204740,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-04-28",
@@ -21,9 +23,11 @@
     "geom:latitude": 41.602067,
     "geom:longitude": -122.484166,
     "iata:airline": "AS",
+    "icao:aircraft": "A320",
     "icao:airline": "ASA",
     "lbl:latitude": 37.616825,
     "lbl:longitude": -122.381021,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102532251,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N853VA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -81,12 +90,13 @@
     ],
     "wof:id": 1763612895,
     "wof:involves": [
-      102532251,
-      102527513,
       1159283813,
-      1745882099
+      1745882099,
+      1159292085,
+      102532251,
+      102527513
     ],
-    "wof:lastmodified": 1651249207,
+    "wof:lastmodified": 1651249788,
     "wof:name": "AS207 (SFO-PDX)",
     "wof:parent_id": 1745882099,
     "wof:placetype": "custom",

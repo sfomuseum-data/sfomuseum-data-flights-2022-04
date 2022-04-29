@@ -2,10 +2,12 @@
   "id": 1763610473,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-28",
+    "date:cessation_upper": "2022-04-28",
     "date:inception_lower": "2022-04-28",
     "date:inception_upper": "2022-04-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-28",
+    "edtf:cessation": "2022-04-28T06:58:49-07:00",
+    "edtf:inception": "2022-04-28T18:39:00Z",
     "flysfo:actual_timestamp": 1651180140,
     "flysfo:airline": "F9",
     "flysfo:date": "2022-04-28",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.7414645,
     "geom:longitude": -113.521581,
     "iata:airline": "F9",
+    "icao:aircraft": "A320",
     "icao:airline": "FFT",
     "lbl:latitude": 37.611664,
     "lbl:longitude": -122.390495,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159284401,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102531189,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N238FR",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,10 @@
       1745882335,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21589578",
+      "swim:gufi": "KD63019500"
+    },
     "wof:country": "US",
     "wof:created": 1651248567,
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
@@ -81,12 +95,13 @@
     ],
     "wof:id": 1763610473,
     "wof:involves": [
-      102527513,
-      102531189,
       1159284401,
-      1745882399
+      1745882399,
+      1159292085,
+      102527513,
+      102531189
     ],
-    "wof:lastmodified": 1651248567,
+    "wof:lastmodified": 1651249773,
     "wof:name": "F9663 (DEN-SFO)",
     "wof:parent_id": 1745882399,
     "wof:placetype": "custom",

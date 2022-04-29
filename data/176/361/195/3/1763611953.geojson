@@ -2,10 +2,12 @@
   "id": 1763611953,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-28",
+    "date:cessation_upper": "2022-04-28",
     "date:inception_lower": "2022-04-28",
     "date:inception_upper": "2022-04-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-28",
+    "edtf:cessation": "2022-04-28T17:09:00Z",
+    "edtf:inception": "2022-04-28T12:54:00Z",
     "flysfo:actual_timestamp": 1651149540,
     "flysfo:airline": "AA",
     "flysfo:date": "2022-04-28",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.419367,
     "geom:longitude": -101.65686,
     "iata:airline": "AA",
+    "icao:aircraft": "A321",
     "icao:airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102528659,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N573UW",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,10 @@
       1745882137,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21555504",
+      "swim:gufi": "KO41421500"
+    },
     "wof:country": "US",
     "wof:created": 1651248974,
     "wof:geomhash": "6d7202e034534315a50103622977ef57",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1763611953,
     "wof:involves": [
+      1745882191,
+      1159289411,
       102528659,
       102527513,
-      1159283849,
-      1745882191
+      1159283849
     ],
-    "wof:lastmodified": 1651248974,
+    "wof:lastmodified": 1651249787,
     "wof:name": "AA448 (SFO-CLT)",
     "wof:parent_id": 1745882191,
     "wof:placetype": "custom",

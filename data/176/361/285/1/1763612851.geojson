@@ -2,10 +2,12 @@
   "id": 1763612851,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-28",
+    "date:cessation_upper": "2022-04-28",
     "date:inception_lower": "2022-04-28",
     "date:inception_upper": "2022-04-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-28",
+    "edtf:cessation": "2022-04-28T21:42:26Z",
+    "edtf:inception": "2022-04-28T18:38:00Z",
     "flysfo:actual_timestamp": 1651169700,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-04-28",
@@ -21,9 +23,11 @@
     "geom:latitude": 29.139362,
     "geom:longitude": -113.8106995,
     "iata:airline": "AS",
+    "icao:aircraft": "A21N",
     "icao:airline": "ASA",
     "lbl:latitude": 37.61756,
     "lbl:longitude": -122.381052,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102536481,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N928VA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +56,9 @@
       1745882085,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21587565"
+    },
     "wof:country": "US",
     "wof:created": 1651249196,
     "wof:geomhash": "ae49e61cad725fa4577f8355bb7297ad",
@@ -81,12 +92,13 @@
     ],
     "wof:id": 1763612851,
     "wof:involves": [
+      1377564297,
       102536481,
       102527513,
       1159283813,
       1745882105
     ],
-    "wof:lastmodified": 1651249196,
+    "wof:lastmodified": 1651249788,
     "wof:name": "AS1272 (SFO-PVR)",
     "wof:parent_id": 1745882105,
     "wof:placetype": "custom",

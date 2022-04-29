@@ -2,10 +2,12 @@
   "id": 1763611499,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-28",
+    "date:cessation_upper": "2022-04-28",
     "date:inception_lower": "2022-04-28",
     "date:inception_upper": "2022-04-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-28",
+    "edtf:cessation": "2022-04-28T16:07:00Z",
+    "edtf:inception": "2022-04-28T14:54:00Z",
     "flysfo:actual_timestamp": 1651162320,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-28",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.175762,
     "geom:longitude": -119.778435,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618161,
     "lbl:longitude": -122.384735,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102528997,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N836UA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +56,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21566852",
+      "swim:gufi": "KL42046501"
+    },
     "wof:country": "US",
     "wof:created": 1651248858,
     "wof:geomhash": "d1d4873ced1d6ea3128e45b0b2070718",
@@ -81,12 +93,13 @@
     ],
     "wof:id": 1763611499,
     "wof:involves": [
+      1159289407,
       102527513,
       102528997,
       1159285413,
       1745882301
     ],
-    "wof:lastmodified": 1651248858,
+    "wof:lastmodified": 1651249781,
     "wof:name": "UA2480 (SAN-SFO)",
     "wof:parent_id": 1745882301,
     "wof:placetype": "custom",

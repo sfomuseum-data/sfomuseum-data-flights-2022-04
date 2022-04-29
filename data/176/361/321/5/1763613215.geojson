@@ -2,10 +2,12 @@
   "id": 1763613215,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-28",
+    "date:cessation_upper": "2022-04-28",
     "date:inception_lower": "2022-04-28",
     "date:inception_upper": "2022-04-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-28",
+    "edtf:cessation": "2022-04-28T19:14:00Z",
+    "edtf:inception": "2022-04-28T15:16:00Z",
     "flysfo:actual_timestamp": 1651157940,
     "flysfo:airline": "DL",
     "flysfo:date": "2022-04-28",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.627254,
     "geom:longitude": -103.4008145,
     "iata:airline": "DL",
+    "icao:aircraft": "B763",
     "icao:airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289965,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102526927,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N186DN",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,10 @@
       1745882137,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21568083",
+      "swim:gufi": "KO51064500"
+    },
     "wof:country": "US",
     "wof:created": 1651249285,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -81,12 +95,13 @@
     ],
     "wof:id": 1763613215,
     "wof:involves": [
+      1159289965,
       102526927,
       102527513,
       1159284261,
       1745882213
     ],
-    "wof:lastmodified": 1651249285,
+    "wof:lastmodified": 1651249789,
     "wof:name": "DL1075 (SFO-ATL)",
     "wof:parent_id": 1745882213,
     "wof:placetype": "custom",

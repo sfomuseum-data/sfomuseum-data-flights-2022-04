@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1650359820,
     "flysfo:timestamp": 1650360660,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,0.000000,0.000000,37.617990",
-    "geom:latitude": 18.808995,
-    "geom:longitude": -61.1854715,
+    "geom:bbox": "-122.370943,27.986961,-82.018251,37.617990",
+    "geom:latitude": 32.8024755,
+    "geom:longitude": -102.194597,
     "iata:airline": "SY",
     "icao:aircraft": "B738",
     "icao:airline": "SCX",
@@ -29,7 +29,7 @@
     "lbl:longitude": -122.370943,
     "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285227,
-    "sfomuseum:arrival_id": -1,
+    "sfomuseum:arrival_id": 102526153,
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20220418-D-SCX-3084",
     "sfomuseum:flight_number": [
@@ -45,7 +45,7 @@
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1650385315,
-    "wof:geomhash": "f7b726ae54aa9222cfb9d243d2e793d0",
+    "wof:geomhash": "f37bb0d4440f783813012050dc474231",
     "wof:hierarchy": [
       {
         "flight_id": 1763537245
@@ -57,7 +57,7 @@
       102527513,
       1159285227
     ],
-    "wof:lastmodified": 1650385537,
+    "wof:lastmodified": 1651258907,
     "wof:name": "SY3084 (SFO-LAL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
@@ -68,9 +68,9 @@
   },
   "bbox": [
     -122.370943,
-    0,
-    0,
+    27.986961,
+    -82.018251,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-82.018251,27.986961]],"type":"MultiPoint"}
 }

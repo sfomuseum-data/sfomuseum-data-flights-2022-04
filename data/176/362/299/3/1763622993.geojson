@@ -2,10 +2,12 @@
   "id": 1763622993,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-30",
+    "date:cessation_upper": "2022-04-30",
     "date:inception_lower": "2022-04-29",
     "date:inception_upper": "2022-04-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-29",
+    "edtf:cessation": "2022-04-30T12:24:00Z",
+    "edtf:inception": "2022-04-29T12:35:24-07:00",
     "flysfo:actual_timestamp": 1651284780,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-29",
@@ -21,9 +23,11 @@
     "geom:latitude": 43.781954,
     "geom:longitude": -57.5518295,
     "iata:airline": "UA",
+    "icao:aircraft": "B77W",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102549057,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N2644U",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,9 @@
       1745882335,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO00810701"
+    },
     "wof:country": "US",
     "wof:created": 1651335955,
     "wof:geomhash": "a63fc4dac3cd4064d907a0b9ef33a7bc",
@@ -81,12 +93,13 @@
     ],
     "wof:id": 1763622993,
     "wof:involves": [
+      1159289993,
       102549057,
       102527513,
       1159285413,
       1745882431
     ],
-    "wof:lastmodified": 1651335955,
+    "wof:lastmodified": 1651336054,
     "wof:name": "UA926 (SFO-FRA)",
     "wof:parent_id": 1745882431,
     "wof:placetype": "custom",

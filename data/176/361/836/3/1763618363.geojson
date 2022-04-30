@@ -2,10 +2,12 @@
   "id": 1763618363,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-29",
+    "date:cessation_upper": "2022-04-29",
     "date:inception_lower": "2022-04-29",
     "date:inception_upper": "2022-04-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-29",
+    "edtf:cessation": "2022-04-29T05:37:17Z",
+    "edtf:inception": "2022-04-29T04:12:00Z",
     "flysfo:actual_timestamp": 1651273200,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-04-29",
@@ -21,9 +23,11 @@
     "geom:latitude": 41.602067,
     "geom:longitude": -122.484166,
     "iata:airline": "AS",
+    "icao:aircraft": "A320",
     "icao:airline": "ASA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102532251,
@@ -34,7 +38,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "21632981"
+    },
     "wof:country": "US",
     "wof:created": 1651334772,
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
@@ -48,9 +58,9 @@
       102527513,
       102532251,
       1159283813,
-      -1
+      1159292085
     ],
-    "wof:lastmodified": 1651334772,
+    "wof:lastmodified": 1651336042,
     "wof:name": "AS265 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

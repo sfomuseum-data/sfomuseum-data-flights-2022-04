@@ -2,10 +2,12 @@
   "id": 1763618359,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-29",
+    "date:cessation_upper": "2022-04-29",
     "date:inception_lower": "2022-04-29",
     "date:inception_upper": "2022-04-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-29",
+    "edtf:cessation": "2022-04-29T16:58:00Z",
+    "edtf:inception": "2022-04-29T12:50:00Z",
     "flysfo:actual_timestamp": 1651251480,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-04-29",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.800514,
     "geom:longitude": -105.1326535,
     "iata:airline": "AS",
+    "icao:aircraft": "A320",
     "icao:airline": "ASA",
     "lbl:latitude": 37.617101,
     "lbl:longitude": -122.382233,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533631,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N845VA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +56,9 @@
       1745882085,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21652269"
+    },
     "wof:country": "US",
     "wof:created": 1651334771,
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
@@ -81,12 +92,13 @@
     ],
     "wof:id": 1763618359,
     "wof:involves": [
+      1159292085,
       102527513,
       102533631,
       1159283813,
       1745882093
     ],
-    "wof:lastmodified": 1651334771,
+    "wof:lastmodified": 1651336042,
     "wof:name": "AS251 (ORD-SFO)",
     "wof:parent_id": 1745882093,
     "wof:placetype": "custom",

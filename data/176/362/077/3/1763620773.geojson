@@ -2,10 +2,12 @@
   "id": 1763620773,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-04-29",
-    "date:inception_upper": "2022-04-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-29",
+    "date:cessation_lower": "2022-04-30",
+    "date:cessation_upper": "2022-04-30",
+    "date:inception_lower": "2022-04-30",
+    "date:inception_upper": "2022-04-30",
+    "edtf:cessation": "2022-04-30T02:29:14Z",
+    "edtf:inception": "2022-04-30T00:40:00Z",
     "flysfo:actual_timestamp": 1651277400,
     "flysfo:airline": "AC",
     "flysfo:date": "2022-04-29",
@@ -21,9 +23,11 @@
     "geom:latitude": 43.40566,
     "geom:longitude": -122.7750715,
     "iata:airline": "AC",
+    "icao:aircraft": "B38M",
     "icao:airline": "ACA",
     "lbl:latitude": 37.617458,
     "lbl:longitude": -122.391079,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102555307,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "CGELJ",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,9 @@
       1745882335,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21620385"
+    },
     "wof:country": "US",
     "wof:created": 1651335400,
     "wof:geomhash": "af4ccf784d832b160f78d13fe8b8589a",
@@ -84,9 +96,10 @@
       102555307,
       102527513,
       1159283597,
-      1745882409
+      1745882409,
+      1528104575
     ],
-    "wof:lastmodified": 1651335400,
+    "wof:lastmodified": 1651336040,
     "wof:name": "AC577 (SFO-YVR)",
     "wof:parent_id": 1745882409,
     "wof:placetype": "custom",

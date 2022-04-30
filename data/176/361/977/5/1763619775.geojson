@@ -2,10 +2,12 @@
   "id": 1763619775,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-30",
+    "date:cessation_upper": "2022-04-30",
     "date:inception_lower": "2022-04-29",
     "date:inception_upper": "2022-04-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-29",
+    "edtf:cessation": "2022-04-29T23:59:53-07:00",
+    "edtf:inception": "2022-04-29T13:00:00Z",
     "flysfo:actual_timestamp": 1651241520,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-04-29",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.8494965,
     "geom:longitude": -118.7636915,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.619451,
     "lbl:longitude": -122.384404,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102527209,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N488UA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21654755",
+      "swim:gufi": "KL36439601"
+    },
     "wof:country": "US",
     "wof:created": 1651335148,
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
@@ -81,12 +95,13 @@
     ],
     "wof:id": 1763619775,
     "wof:involves": [
-      102527513,
-      102527209,
       1159285413,
-      1745882315
+      1745882315,
+      1159292085,
+      102527513,
+      102527209
     ],
-    "wof:lastmodified": 1651335148,
+    "wof:lastmodified": 1651336049,
     "wof:name": "UA1483 (LAS-SFO)",
     "wof:parent_id": 1745882315,
     "wof:placetype": "custom",

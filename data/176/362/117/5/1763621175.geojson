@@ -2,10 +2,12 @@
   "id": 1763621175,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-29",
+    "date:cessation_upper": "2022-04-29",
     "date:inception_lower": "2022-04-29",
     "date:inception_upper": "2022-04-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-29",
+    "edtf:cessation": "2022-04-29T05:13:22Z",
+    "edtf:inception": "2022-04-29T04:08:00Z",
     "flysfo:actual_timestamp": 1651273200,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-04-29",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "21633362"
+    },
     "wof:country": "US",
     "wof:created": 1651335503,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -50,7 +55,7 @@
       1159283813,
       -1
     ],
-    "wof:lastmodified": 1651335503,
+    "wof:lastmodified": 1651336041,
     "wof:name": "AS170 (SFO-LAS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

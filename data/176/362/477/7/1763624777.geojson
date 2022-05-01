@@ -2,10 +2,12 @@
   "id": 1763624777,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-30",
+    "date:cessation_upper": "2022-04-30",
     "date:inception_lower": "2022-04-30",
     "date:inception_upper": "2022-04-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-30",
+    "edtf:cessation": "2022-04-30T01:18:53Z",
+    "edtf:inception": "2022-04-30T00:12:00Z",
     "flysfo:actual_timestamp": 1651359600,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-04-30",
@@ -21,9 +23,11 @@
     "geom:latitude": 37.61799,
     "geom:longitude": -122.370943,
     "iata:airline": "AS",
+    "icao:aircraft": "A320",
     "icao:airline": "ASA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "21719455"
+    },
     "wof:country": "US",
     "wof:created": 1651421195,
     "wof:geomhash": "f780d59ec1f4d1acb53d14db45159ea5",
@@ -45,12 +55,11 @@
     ],
     "wof:id": 1763624777,
     "wof:involves": [
+      1159292085,
       102527513,
-      102527513,
-      1159283813,
-      -1
+      1159283813
     ],
-    "wof:lastmodified": 1651421195,
+    "wof:lastmodified": 1651422453,
     "wof:name": "AS236 (SFO-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

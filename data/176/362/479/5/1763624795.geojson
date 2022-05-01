@@ -2,10 +2,12 @@
   "id": 1763624795,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-30",
+    "date:cessation_upper": "2022-04-30",
     "date:inception_lower": "2022-04-30",
     "date:inception_upper": "2022-04-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-30",
+    "edtf:cessation": "2022-04-30T06:07:51-07:00",
+    "edtf:inception": "2022-04-30T18:48:00Z",
     "flysfo:actual_timestamp": 1651349460,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-04-30",
@@ -21,9 +23,11 @@
     "geom:latitude": 41.602067,
     "geom:longitude": -122.484166,
     "iata:airline": "AS",
+    "icao:aircraft": "A320",
     "icao:airline": "ASA",
     "lbl:latitude": 37.617908,
     "lbl:longitude": -122.381084,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102532251,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N838VA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,9 @@
       1745882085,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21784024"
+    },
     "wof:country": "US",
     "wof:created": 1651421199,
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
@@ -84,9 +97,10 @@
       102527513,
       102532251,
       1159283813,
-      1745882113
+      1745882113,
+      1159292085
     ],
-    "wof:lastmodified": 1651421199,
+    "wof:lastmodified": 1651422453,
     "wof:name": "AS273 (PDX-SFO)",
     "wof:parent_id": 1745882113,
     "wof:placetype": "custom",

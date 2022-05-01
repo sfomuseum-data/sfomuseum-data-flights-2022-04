@@ -2,10 +2,12 @@
   "id": 1763626001,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-30",
+    "date:cessation_upper": "2022-04-30",
     "date:inception_lower": "2022-04-30",
     "date:inception_upper": "2022-04-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-30",
+    "edtf:cessation": "2022-04-30T06:47:34-07:00",
+    "edtf:inception": "2022-04-30T19:54:00Z",
     "flysfo:actual_timestamp": 1651351860,
     "flysfo:airline": "WN",
     "flysfo:date": "2022-04-30",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.780291500000004,
     "geom:longitude": -120.38022649999999,
     "iata:airline": "WN",
+    "icao:aircraft": "B737",
     "icao:airline": "SWA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289869,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533795,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N7733B",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,9 @@
       1745882137,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21788392"
+    },
     "wof:country": "US",
     "wof:created": 1651421504,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1763626001,
     "wof:involves": [
-      102527513,
-      102533795,
       1159285591,
-      1745882151
+      1745882151,
+      1159289869,
+      102527513,
+      102533795
     ],
-    "wof:lastmodified": 1651421504,
+    "wof:lastmodified": 1651422464,
     "wof:name": "WN2058 (LAX-SFO)",
     "wof:parent_id": 1745882151,
     "wof:placetype": "custom",

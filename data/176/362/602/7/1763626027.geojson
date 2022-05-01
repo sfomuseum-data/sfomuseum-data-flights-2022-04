@@ -2,10 +2,12 @@
   "id": 1763626027,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-04-30",
+    "date:cessation_upper": "2022-04-30",
     "date:inception_lower": "2022-04-30",
     "date:inception_upper": "2022-04-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-30",
+    "edtf:cessation": "2022-04-30T07:10:00Z",
+    "edtf:inception": "2022-04-30T05:57:00Z",
     "flysfo:actual_timestamp": 1651302660,
     "flysfo:airline": "WN",
     "flysfo:date": "2022-04-30",
@@ -48,6 +50,9 @@
       1745882137,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21733991"
+    },
     "wof:country": "US",
     "wof:created": 1651421510,
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
@@ -86,7 +91,7 @@
       1159285591,
       1745882153
     ],
-    "wof:lastmodified": 1651421510,
+    "wof:lastmodified": 1651422455,
     "wof:name": "WN399 (LAS-SFO)",
     "wof:parent_id": 1745882153,
     "wof:placetype": "custom",

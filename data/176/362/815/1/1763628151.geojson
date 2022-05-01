@@ -2,10 +2,12 @@
   "id": 1763628151,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2022-04-30",
     "date:inception_upper": "2022-04-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-04-30",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2022-04-30T14:18:38-07:00",
     "flysfo:actual_timestamp": 1651359600,
     "flysfo:airline": "BF",
     "flysfo:date": "2022-04-30",
@@ -21,9 +23,11 @@
     "geom:latitude": 43.1736525,
     "geom:longitude": -60.0024065,
     "iata:airline": "BF",
+    "icao:aircraft": "A359",
     "icao:airline": "FBU",
     "lbl:latitude": 37.611565,
     "lbl:longitude": -122.389912,
+    "sfomuseum:aircraft_id": 1377564293,
     "sfomuseum:airline_id": 1377649073,
     "sfomuseum:arrival_id": 102544453,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "FHREU",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -84,9 +94,10 @@
       102544453,
       102527513,
       1377649073,
-      1745882391
+      1745882391,
+      1377564293
     ],
-    "wof:lastmodified": 1651422074,
+    "wof:lastmodified": 1651422468,
     "wof:name": "BF711 (SFO-ORY)",
     "wof:parent_id": 1745882391,
     "wof:placetype": "custom",

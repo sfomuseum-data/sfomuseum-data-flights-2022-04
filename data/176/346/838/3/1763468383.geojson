@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1649523000,
     "flysfo:timestamp": 1649523600,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,0.000000,0.000000,37.617990",
-    "geom:latitude": 18.808995,
-    "geom:longitude": -61.1854715,
+    "geom:bbox": "-122.370943,25.989167,-111.348333,37.617990",
+    "geom:latitude": 31.803578333333498,
+    "geom:longitude": -116.85963816666501,
     "iata:airline": "AS",
     "icao:aircraft": "A320",
     "icao:airline": "ASA",
@@ -29,7 +29,7 @@
     "lbl:longitude": -122.381656,
     "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159283813,
-    "sfomuseum:arrival_id": -1,
+    "sfomuseum:arrival_id": 102536515,
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20220409-D-ASA-385",
     "sfomuseum:flight_number": [
@@ -58,7 +58,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1649607397,
-    "wof:geomhash": "f7b726ae54aa9222cfb9d243d2e793d0",
+    "wof:geomhash": "38f44192f1840f2d3faa09cbda9e2b02",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -94,7 +94,7 @@
       1745882095,
       1159292085
     ],
-    "wof:lastmodified": 1649607831,
+    "wof:lastmodified": 1652118087,
     "wof:name": "AS385 (SFO-LTO)",
     "wof:parent_id": 1745882095,
     "wof:placetype": "custom",
@@ -105,9 +105,9 @@
   },
   "bbox": [
     -122.370943,
-    0,
-    0,
+    25.989166666667,
+    -111.34833333333,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-111.34833333333,25.989166666667]],"type":"MultiPoint"}
 }

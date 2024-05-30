@@ -48,6 +48,7 @@
     "wof:geomhash": "ac8251c482fd840d3852b97751cccb98",
     "wof:hierarchy": [
       {
+        "custom_id": 1763603329,
         "flight_id": 1763603329
       }
     ],
@@ -58,11 +59,13 @@
       102533437,
       1159284261
     ],
-    "wof:lastmodified": 1651257969,
+    "wof:lastmodified": 1717039267,
     "wof:name": "DL8839 (CPS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

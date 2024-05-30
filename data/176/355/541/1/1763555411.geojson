@@ -54,6 +54,7 @@
     "wof:geomhash": "d5ad4a83d3d679d1b3fe86e419b08d84",
     "wof:hierarchy": [
       {
+        "custom_id": 1763555411,
         "flight_id": 1763555411
       }
     ],
@@ -64,11 +65,13 @@
       102532939,
       1159285413
     ],
-    "wof:lastmodified": 1650558363,
+    "wof:lastmodified": 1717039268,
     "wof:name": "UA2723 (KOA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

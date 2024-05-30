@@ -48,6 +48,7 @@
     "wof:geomhash": "3d1812cb234aac8b643ea0201167e576",
     "wof:hierarchy": [
       {
+        "custom_id": 1763492875,
         "flight_id": 1763492875
       }
     ],
@@ -58,11 +59,13 @@
       102527513,
       1159283813
     ],
-    "wof:lastmodified": 1649867166,
+    "wof:lastmodified": 1717039261,
     "wof:name": "AS9810 (SFO-SAT)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

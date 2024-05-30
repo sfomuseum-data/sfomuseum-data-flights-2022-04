@@ -45,6 +45,7 @@
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
     "wof:hierarchy": [
       {
+        "custom_id": 1763620441,
         "flight_id": 1763620441
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283813
     ],
-    "wof:lastmodified": 1651335314,
+    "wof:lastmodified": 1717039268,
     "wof:name": "AA7546 (SFO-SEA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -48,6 +48,7 @@
     "wof:geomhash": "a0e250e9237d15725a2a6f51d6b7a6b6",
     "wof:hierarchy": [
       {
+        "custom_id": 1763627623,
         "flight_id": 1763627623
       }
     ],
@@ -58,11 +59,13 @@
       1377564285,
       102532251
     ],
-    "wof:lastmodified": 1651422457,
+    "wof:lastmodified": 1717039273,
     "wof:name": "AS270 (SFO-PDX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

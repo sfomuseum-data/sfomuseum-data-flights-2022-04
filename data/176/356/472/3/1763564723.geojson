@@ -40,6 +40,7 @@
     "wof:geomhash": "6ee4dc6f06435306541ac2ffbe1ad823",
     "wof:hierarchy": [
       {
+        "custom_id": 1763564723,
         "flight_id": 1763564723
       }
     ],
@@ -50,11 +51,13 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1650644449,
+    "wof:lastmodified": 1717039268,
     "wof:name": "DL420 (SFO-SBP)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

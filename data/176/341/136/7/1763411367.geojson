@@ -51,6 +51,7 @@
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
     "wof:hierarchy": [
       {
+        "custom_id": 1763411367,
         "flight_id": 1763411367
       }
     ],
@@ -61,11 +62,13 @@
       102527209,
       1159283813
     ],
-    "wof:lastmodified": 1649089528,
+    "wof:lastmodified": 1717039272,
     "wof:name": "AS9577 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

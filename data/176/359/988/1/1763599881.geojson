@@ -45,6 +45,7 @@
     "wof:geomhash": "df4d5906f2523703f9da91c779be1785",
     "wof:hierarchy": [
       {
+        "custom_id": 1763599881,
         "flight_id": 1763599881
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283813
     ],
-    "wof:lastmodified": 1651257977,
+    "wof:lastmodified": 1717039272,
     "wof:name": "FJ5804 (SFO-DCA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

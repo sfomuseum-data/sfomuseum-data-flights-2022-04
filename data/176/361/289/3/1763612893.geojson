@@ -40,6 +40,7 @@
     "wof:geomhash": "9d5970fb497c224f692cb976d5929b90",
     "wof:hierarchy": [
       {
+        "custom_id": 1763612893,
         "flight_id": 1763612893
       }
     ],
@@ -50,11 +51,13 @@
       1159283813,
       -1
     ],
-    "wof:lastmodified": 1651249206,
+    "wof:lastmodified": 1717039269,
     "wof:name": "AS2030 (SFO-GEG)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

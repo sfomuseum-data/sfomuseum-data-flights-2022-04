@@ -53,6 +53,7 @@
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
     "wof:hierarchy": [
       {
+        "custom_id": 1763438397,
         "flight_id": 1763438397
       }
     ],
@@ -63,11 +64,13 @@
       102527513,
       1159284261
     ],
-    "wof:lastmodified": 1649348714,
+    "wof:lastmodified": 1717039263,
     "wof:name": "DL8845 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

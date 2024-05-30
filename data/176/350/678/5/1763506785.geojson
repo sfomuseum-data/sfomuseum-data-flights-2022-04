@@ -50,6 +50,7 @@
     "wof:geomhash": "c1b858affbd20b2c728ba535a4ce178e",
     "wof:hierarchy": [
       {
+        "custom_id": 1763506785,
         "flight_id": 1763506785
       }
     ],
@@ -60,11 +61,13 @@
       1159292085,
       102527513
     ],
-    "wof:lastmodified": 1650040055,
+    "wof:lastmodified": 1717039262,
     "wof:name": "B61241 (CUN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

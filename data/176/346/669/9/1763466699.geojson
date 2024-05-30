@@ -40,6 +40,7 @@
     "wof:geomhash": "f144fc48f69fcd96b330cf97cd8234f9",
     "wof:hierarchy": [
       {
+        "custom_id": 1763466699,
         "flight_id": 1763466699
       }
     ],
@@ -50,11 +51,13 @@
       1159285227,
       -1
     ],
-    "wof:lastmodified": 1649606976,
+    "wof:lastmodified": 1717039263,
     "wof:name": "SY5510 (FAI-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

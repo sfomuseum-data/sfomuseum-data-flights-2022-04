@@ -45,6 +45,7 @@
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
     "wof:hierarchy": [
       {
+        "custom_id": 1763628783,
         "flight_id": 1763628783
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159285413
     ],
-    "wof:lastmodified": 1651422229,
+    "wof:lastmodified": 1717039273,
     "wof:name": "TP8493 (SFO-EWR)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

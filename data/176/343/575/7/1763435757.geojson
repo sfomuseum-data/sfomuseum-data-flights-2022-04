@@ -53,6 +53,7 @@
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
     "wof:hierarchy": [
       {
+        "custom_id": 1763435757,
         "flight_id": 1763435757
       }
     ],
@@ -63,11 +64,13 @@
       102526751,
       1159284261
     ],
-    "wof:lastmodified": 1649348721,
+    "wof:lastmodified": 1717039261,
     "wof:name": "DL8929 (PHX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

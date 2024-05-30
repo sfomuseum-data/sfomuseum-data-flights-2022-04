@@ -48,6 +48,7 @@
     "wof:geomhash": "b700d5ae3794da4176af6b85f6cd6669",
     "wof:hierarchy": [
       {
+        "custom_id": 1763493127,
         "flight_id": 1763493127
       }
     ],
@@ -58,11 +59,13 @@
       1159289939,
       102534161
     ],
-    "wof:lastmodified": 1649867156,
+    "wof:lastmodified": 1717039261,
     "wof:name": "DL8839 (SFO-SNA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

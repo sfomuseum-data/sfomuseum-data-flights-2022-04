@@ -50,6 +50,7 @@
     "wof:geomhash": "1b844caa247a357e6d3574dc4c3eb3e8",
     "wof:hierarchy": [
       {
+        "custom_id": 1763557285,
         "flight_id": 1763557285
       }
     ],
@@ -60,11 +61,13 @@
       102527513,
       1159284511
     ],
-    "wof:lastmodified": 1650558355,
+    "wof:lastmodified": 1717039269,
     "wof:name": "IB2622 (SFO-BCN)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

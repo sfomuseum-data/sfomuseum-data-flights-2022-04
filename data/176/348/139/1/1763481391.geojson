@@ -48,6 +48,7 @@
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
     "wof:hierarchy": [
       {
+        "custom_id": 1763481391,
         "flight_id": 1763481391
       }
     ],
@@ -58,11 +59,13 @@
       102533269,
       1159283813
     ],
-    "wof:lastmodified": 1649780686,
+    "wof:lastmodified": 1717039272,
     "wof:name": "AS9807 (SEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

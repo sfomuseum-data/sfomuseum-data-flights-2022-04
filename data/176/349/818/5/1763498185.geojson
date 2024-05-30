@@ -53,6 +53,7 @@
     "wof:geomhash": "5effdcb6f19e0645c7e31e4e1e42645d",
     "wof:hierarchy": [
       {
+        "custom_id": 1763498185,
         "flight_id": 1763498185
       }
     ],
@@ -63,11 +64,13 @@
       1377564297,
       102527513
     ],
-    "wof:lastmodified": 1649953519,
+    "wof:lastmodified": 1717039263,
     "wof:name": "AS9531 (GSO-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

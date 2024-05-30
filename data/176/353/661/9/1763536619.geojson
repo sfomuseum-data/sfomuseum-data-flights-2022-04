@@ -48,6 +48,7 @@
     "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
     "wof:hierarchy": [
       {
+        "custom_id": 1763536619,
         "flight_id": 1763536619
       }
     ],
@@ -58,11 +59,13 @@
       1159284261,
       1528104583
     ],
-    "wof:lastmodified": 1650385536,
+    "wof:lastmodified": 1717039268,
     "wof:name": "DL9963 (SFO-SLC)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -19,5 +19,5 @@
     149.83,
     39.15
   ],
-  "geometry": {"coordinates":[[149.83,39.15],[-123.75,39],[-122.38,37.62]],"type":"LineString"}
+  "geometry": {"coordinates":[[[149.83,39.15]],[[-123.75,39],[-122.38,37.62]]],"type":"MultiLineString"}
 }
